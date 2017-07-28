@@ -1,0 +1,15 @@
+Unit,unitID,Seedlings_Saplings_Shrub,Tall_Shrubs,DBH_less3,DBH_3_24,DBH_greater24,Plots_n,Notes
+25 Mile,14,2,3,3,10,15,10,
+8 Mile Bottom,10,2,2,20,20,20,10,
+Angel,13,2,2,3,10,15,10,
+Canteen,1,2,2,12,12,12,20,
+Chumstick ZUI,16,2,2,10,10,10,10,
+Goat,11,2,2,4,15,15,10,
+Hanlon,6,2,2,6,6,10,10,
+Natapoc 35,15,2,3,3,15,15,10,
+Oak Creek,2,2,2,4,4,7,20,
+Orion 2 ,12,2,2,15,15,15,10,
+Paradise 90 ,5,2,2,7,7,10,10,
+Sherman Creek,4,2,2,20,20,20,10,
+Upper Rendezvous 1,17,2,2,4,10,10,10,"<1"" DBH = 3m, not DBH_less3"
+Vulcan,7,2,4,4,9,9,10,

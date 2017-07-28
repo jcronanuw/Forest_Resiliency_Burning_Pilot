@@ -1,0 +1,19 @@
+burned,unitID,projectID,unitName,unitCode,coordEW,lat_degrees,lat_minutes,lat_seconds,lon_degrees,lon_minutes,lon_seconds,datum,administrativeUnitID,township,range,section,stateAbbrev,slope,aspect,elevation,dateEntered
+0,36,11,16-D High density,16-D HD,W,,,,,,,NAD83,,,,,,,,,7/5/2017 16:40
+0,37,11,16-D Low density,16-D LD,W,,,,,,,NAD83,,,,,,,,,7/5/2017 19:39
+0,18,7,2,,W,38,27,17,112,3,28,NAD83,,,,,,20,5,9200,
+0,14,6,25 Mile,25 Mile,W,47,58.617,,120,18.352,,WGS84,5,29N,20E,26,WA,23,S-SE,3774,
+0,10,6,8 Mile Bottom,,W,48,38,35.2,120,14,8.1,WGS84,5,37,21,5,WA,5,south,2848,
+0,1,6,Canteen,,W,120,51,42.2,46.51,54,20.4,NAD83,5,16,15,24,WA,20,NE,,
+0,11,6,Goat,,W,,,,,,,NAD83,,,,,,,,,
+0,15,6,Natapoc 35,,W,47,45.192,,120,41.608,,WGS84,5,26N,17E,14,WA,20,NW,2878,
+0,2,6,Oak Creek,,W,48,38,35.2,120,14,8.1,WGS84,5,37,31,5,WA,5,S,2848,
+0,4,6,Sherman Creek,,W,,,,,,,NAD83,,,,,,,,,
+0,34,10,"Tall Timbers, burning plot C-1",C-1,W,,,,,,,NAD83,8,,,,,,,,6/7/2017 11:53
+0,17,6,Upper Rendezvous 1,,W,48,33,22.2,120,17,22.9,WGS84,5,36,120,1,WA,5,45,3718,
+0,7,6,Vulcan,,W,,,,,,,NAD83,,,,,,,,,
+1,13,6,Angel,,W,46,47,658,121,5,551,WGS84,5,15n,14e,16,WA,25,NW,3274,
+1,16,6,Chumstick ZUI,,W,,,,,,,NAD83,,,,,,,,,
+1,6,6,Hanlon,,W,48,34.063,,117,15.5,,WGS84,4,33N,44E,4,WA,5,,3023,
+1,12,6,Orion 2,,W,,,,,,,NAD83,,,,,,,,,
+1,5,6,Paradise 90,,W,48,32,56.7,118,23,15.5,WGS84,4,35,35,10,WA,,,3360,

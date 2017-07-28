@@ -1,0 +1,179 @@
+speciesID,scientificName,speciesCode,TSN,commonName,specificGravitySound,specificGravityRotten
+1,Pseudotsuga menziesii var. menziesii,PSMEM,183426,Douglas-Fir,0.48,0.3
+2,Unknown species,UNKN,,Unknown,0.4,0.3
+3,Quercus alba,QUAL,19290,White Oak,0.68,0.3
+4,Unknown hardwood,HDWD,,Hardwood,0.46,0.3
+855,Abies amabilis,ABAM,181824,Pacific silver fir,0.43,0.3
+856,Abies balsamea var. balsamea,ABBAB,,Balsam Fir,0.35,0.3
+857,Abies concolor,ABCO,181826,White Fir,0.39,0.3
+858,Abies grandis,ABGR,183284,Grand fir,0.37,0.3
+859,Abies spp.,ABIES,,True Fir,0.38,0.3
+860,Abies lasiocarpa var. lasiocarpa,ABLAL,181832,Subalpine Fir,0.32,0.3
+861,Abies magnifica var. magnifica,ABMAM,,California red fir,0.38,0.3
+862,Abies procera,ABPR,181835,Noble fir,0.39,0.3
+863,Acer circinatum,ACCI,28740,Vine Maple,0.51,0.3
+864,Acacia koa,ACKO,,Koa,0.55,0.3
+865,Acer macrophyllum,ACMA3,28748,Bigleaf Maple,0.48,0.3
+866,Acer nigrum,ACNI5,182135,Black maple,0.57,0.3
+867,Acer pensylvanicum,ACPE,28754,Striped maple,0.46,0.3
+868,Acer rubrum var. trilobum,ACRUT,182127,Red Maple,0.54,0.3
+869,Acer saccharum var. schneckii,ACSAS2,526854,Sugar Maple,0.63,0.3
+870,Acer saccharinum,ACSA2,28757,Silver maple,0.47,0.3
+871,Alnus spp.,ALNUS,,Alder spp.,0.41,0.3
+872,Alnus rubra,ALRU2,19474,Red Alder,0.41,0.3
+873,Arbutus menziesii,ARME,23627,Pacific Madrone,0.5,0.3
+874,Arctostaphylos patula,ARPA6,23512,Greenleaf Manzanita,100,0.3
+875,Artemisia tridentata,ARTR,,Big Sage,100,0.3
+876,Betula alleghaniensis var. macrolepis,BEALM,183521,Yellow birch,0.62,0.3
+877,Betula lenta,BELE,19487,Sweet birch,0.65,0.3
+878,Betula papyrifera var. papyrifera,BEPAP,19490,Paper Birch,0.55,0.3
+880,Carya aquatica,CAAQ2,19224,Water hickory,0.62,0.3
+881,Chrysolepis chrysophylla,CACH,,Golden Chinquapin,0.43,0.3
+882,Carya cordiformis,CACO15,19227,Bitternut hickory,0.66,0.3
+883,Calocedrus decurrens,CADE27,501145,Incense Cedar,0.37,0.3
+884,Castanea dentata,CADE12,19454,American chestnut,0.43,0.3
+885,Casuarina equisetifolia,CAEQ,,Casuarina,0.85,0.3
+886,Carya glabra,CAGL8,19231,Pignut hickory,0.75,0.3
+887,Carya illinoinensis,CAIL2,19234,Pecan,0.66,0.3
+888,Carya laciniosa,CALA21,19235,Shellbark hickory,0.69,0.3
+889,Carya myristiciformis,CAMY,19239,Nutmeg hickory,0.6,0.3
+890,Carya ovata,CAOV2,19243,Shagbark hickory,0.72,0.3
+891,Carya spp.,CARYA,,Hickory spp.,0.73,0.3
+892,Carya alba,CAAL27,501306,Mockernut hickory,0.72,0.3
+893,Celtis spp.,CELTI,19039,Hackberry,0.53,0.3
+894,Chamaecyparis lawsoniana,CHLA,183453,Port Orford Cedar,0.43,0.3
+895,Chamaecyparis thyoides,CHTH2,18046,Atlantic white cedar,0.32,0.3
+896,Cornus florida,COFL2,27806,Flowering dogwood,0.8,0.3
+897,Cornus nuttallii,CONU4,27809,Pacific Dogwood,0.75,0.3
+901,Eucalyptus spp.,EUSP,,Eucalyptus species,100,0.3
+902,Fagus grandifolia,FAGR,19462,American beech,0.64,0.3
+903,Fraxinus americana,FRAM2,32931,White ash,0.6,0.3
+904,Fraxinus latifolia,FRLA,32944,Oregon ash,0.55,0.3
+905,Fraxinus nigra,FRNI,32945,Black ash,0.49,0.3
+906,Fraxinus pennsylvanica,FRPE,32929,Green ash,0.56,0.3
+907,Fraxinus quadrangulata,FRQU,32947,Blue ash,0.58,0.3
+908,Gleditsia triacanthos,GLTR,26714,Honeylocust,0.5,0.3
+910,Juglans cinerea,JUCI,19250,Butternut,0.38,0.3
+911,Juniperus deppeana,JUDE2,194834,Alligator Juniper,0.44,0.3
+912,Juglans nigra,JUNI,19254,Black walnut,0.55,0.3
+913,Juniperus occidentalis,JUOC,194855,Western Juniper,0.44,0.3
+914,Juniperus osteosperma,JUOS,194859,Utah Juniper,0.523,0.3
+915,Juniperus virginiana,JUVI,,Eastern red cedar,0.47,0.3
+916,Larix laricina,LALA,,Tamarack/E. larch,0.53,0.3
+917,Larix occidentalis,LAOC,183417,Western Larch,0.52,0.3
+918,Lithocarpus densiflorus var. echinoides,LIDEE,528835,Tanoak,0.58,0.3
+919,Liquidambar styraciflua,LIST,,Sweetgum,0.52,0.3
+920,Liriodendron tulipifera,LITU,,Tulip-tree/Yellow-Poplar,0.42,0.3
+921,Magnolia acuminata,MAAC,,Cucumber-tree magnolia,0.48,0.3
+922,Magnolia grandiflora,MAGR4,18074,Southern magnolia,0.5,0.3
+923,Metrosideros polymorpha,MEPO,,Ohia,0.7,0.3
+924,Myrica faya,MYFA,,Fire tree,100,0.3
+925,Myoporum sandwicense,MYSA,34079,Naio,0.55,0.3
+926,Nyssa aquatica,NYAQ2,27824,Water tupelo,0.5,0.3
+927,Nyssa sylvatica,NYSY,,Black Tupelo/Black Gum,0.5,0.3
+930,Oxydendrum arboreum,OXAR,,Sour wood,0.55,0.3
+931,Persea borbonia,PEBO,18149,Redbay,100,0.3
+932,Pinus arizonica var. stormiae,PIARS2,194801,Arizona Pine,0.55,0.3
+933,Pinus ayacahuite,PIAY,,Mex White Pine/Ayachuite,0.55,0.3
+934,Pinus banksiana,PIBA2,183319,Jack Pine,0.43,0.3
+935,Pinus clausa,PICL,183324,Sand Pine,0.48,0.3
+936,Pinus contorta var. latifolia,PICOL,529673,Lodgepole Pine,0.41,0.3
+937,Pinus discolor,PIDI3,183334,Border Pinyon,0.53,0.3
+938,Pinus durangensis,PIDU,,Durango pine,0.55,0.3
+939,Pinus echinata,PIEC2,183335,Shortleaf pine,0.51,0.3
+940,Pinus edulis,PIED,,Pinyon Pine,0.53,0.3
+941,Pinus elliottii var. elliottii,PIELE2,194778,Slash pine,0.59,0.3
+942,Pinus engelmannii,PIEN2,183339,Apache Pine,0.55,0.3
+943,Picea engelmannii var. engelmannii,PIENE,,Engelmann Spruce,0.35,0.3
+944,Picea glauca,PIGL,183295,White Spruce,0.4,0.3
+945,Pinus glabra,PIGL2,183342,Spruce pine,0.44,0.3
+946,Pinus lambertiana,PILA,183347,Sugar Pine,0.36,0.3
+947,Pinus leiophylla,PILE,,Chihuahua Pine,0.55,0.3
+948,Picea mariana,PIMA,183302,Black Spruce,0.46,0.3
+949,Pinus monticola,PIMO3,183356,Western White Pine,0.38,0.3
+950,Pinus palustris,PIPA2,18038,Longleaf Pine,0.59,0.3
+951,Pinus pinea,PIPI,,Stone Pine,100,0.3
+952,Pinus ponderosa var. scopulorum,PIPOS,529675,Ponderosa Pine,0.4,0.3
+953,Pinus radiata,PIRA2,183372,Monterey Pine,0.4,0.3
+954,Pinus resinosa,PIRE,183375,Red Pine,0.46,0.3
+955,Pinus rigida,PIRI,183376,Pitch pine,0.52,0.3
+956,Picea rubens,PIRU,18034,Red spruce,0.4,0.3
+957,Pinus serotina,PISE,,Pond pine,0.56,0.3
+958,Picea sitchensis,PISI,183309,Sitka Spruce,0.36,0.3
+959,Pinus strobus,PIST,183385,Eastern White Pine,0.35,0.3
+960,Pinus taeda,PITA,18037,Loblolly Pine,0.51,0.3
+961,Pinus teocote,PITE,,,0.55,0.3
+962,Pinus virginiana,PIVI2,183394,Virginia Pine,0.48,0.3
+963,Platanus occidentalis,PLOC,19020,American sycamore,0.49,0.3
+964,Populus balsamifera ssp. balsamifera,POBAB2,22454,Balsam Poplar,0.34,0.3
+965,Populus deltoides ssp. deltoides,PODED,22446,Eastern cottonwood,0.4,0.3
+966,Populus grandidentata,POGR4,22463,Bigtooth aspen,0.39,0.3
+967,Populus tremuloides,POTR5,195773,Quaking Aspen,0.38,0.3
+968,Populus balsamifera ssp. trichocarpa,POBAT,22455,Black Cottonwood,0.35,0.3
+969,Prunus pensylvanica var. saximontana,PRPES,529879,Pin Cherry,0.401,0.3
+970,Abies grandis,PRSEV,531156,Black cherry,0.5,0.3
+972,Quercus agrifolia,QUAG,,California/Coast Live Oak,0.83,0.3
+974,Quercus arizonica,QUAR,19292,Arizona white oak,0.72,0.3
+975,Quercus bicolor,QUBI,19300,Swamp white oak,0.72,0.3
+976,Quercus chrysolepis var. nana,QUCHN,195076,Canyon Live Oak,0.88,0.3
+977,Quercus coccinea var. tuberculata,QUCOT,195064,Scarlet oak,0.67,0.3
+978,Quercus douglasii,QUDO,19322,Blue Oak,0.62,0.3
+979,Quercus emoryi,QUEM,19328,Emory oak,0.61,0.3
+980,Quercus engelmannii,QUEN,,Englemann Oak,0.94,0.3
+981,Quercus spp.,QUERC,,Oak spp.,0.74,0.3
+982,Quercus falcata,QUFA,19277,Southern red oak,0.59,0.3
+983,Quercus gambelii var. gambelii,QUGAG,195088,Gambel Oak,0.65,0.3
+984,Quercus garryana,QUGA2,,Oregon white/Garry oak,0.72,0.3
+985,Quercus geminata,QUGE2,195176,Sand Live Oak,0.88,0.3
+986,Quercus incana,QUIN,19360,Bluejack Oak,0.6,0.3
+987,Quercus kelloggii,QUKE,19366,California Black Oak,0.64,0.3
+988,Quercus laevis,QULA,19367,Turkey Oak,0.6,0.3
+989,Quercus laurifolia,QULA2,,Laural oak,0.63,0.3
+990,Quercus lyrata,QULY,19278,Overcup oak,0.63,0.3
+991,Quercus macrocarpa var. macrocarpa,QUMAM,531113,Bur oak,0.64,0.3
+992,Quercus margarettae,QUMA2,,Sand Post Oak,0.67,0.3
+993,Quercus marilandica var. marilandica,QUMAM2,531372,Blackjack oak,0.86,0.3
+994,Quercus mexicana,QUME,,Mexican oak,0.65,0.3
+995,Quercus michauxii,QUMI,19279,Swamp chestnut oak,0.67,0.3
+996,Quercus nigra,QUNI,19280,Water oak,0.63,0.3
+997,Quercus pagoda,QUPA5,195195,Cherrybark oak,0.68,0.3
+998,Quercus palustris,QUPA2,19281,Pin oak,0.63,0.3
+999,Quercus phellos,QUPH,19282,Willow oak,0.69,0.3
+1000,Quercus prinus,QUPR2,19398,Chestnut oak,0.66,0.3
+1001,Quercus rubra var. rubra,QURUR,195130,Northern Red Oak,0.63,0.3
+1002,Quercus stellata,QUST,19422,Post Oak,0.67,0.3
+1003,Quercus velutina,QUVE,19447,Black oak,0.61,0.3
+1004,Quercus virginiana,QUVI,19283,Live oak,0.88,0.3
+1005,Robinia pseudoacacia,ROPS,504804,Black locust,0.69,0.3
+1008,Sassafras albidum,SAAL5,18158,Sassafras,0.46,0.3
+1009,Salix spp.,SALIX,,Willow spp.,0.39,0.3
+1010,Salix nigra,SANI,22484,Black willow,0.39,0.3
+1011,Sequoia sempervirens,SESE3,183435,Redwood,0.375,0.3
+1012,Sophora chrysophylla,SOCH,,Mamane,100,0.3
+1013,Taxus brevifolia,TABR2,194884,Pacific Yew,0.55,0.3
+1014,Thuja occidentalis,THOC,,Northern white-cedar,0.31,0.3
+1015,Thuja plicata,THPL,,Western Red Cedar,0.32,0.3
+1016,Tilia americana var. heterophylla,TIAMH,530692,American basswood,0.37,0.3
+1017,Tsuga canadensis,TSCA,183397,Eastern hemlock,0.4,0.3
+1018,Tsuga heterophylla,TSHE,183400,Western Hemlock,0.45,0.3
+1019,Tsuga mertensiana,TSME,183402,Mountain hemlock,0.45,0.3
+1020,Ulmus alata,ULAL,19051,Winged elm,0.66,0.3
+1021,Ulmus americana,ULAM,19049,American elm,0.5,0.3
+1022,Ulmus rubrum,ULRU,,Slipper/Red elm,0.53,0.3
+1023,Ulmus thomasii,ULTH,19059,Rock elm,0.63,0.3
+1025,Pinus spp.,PINUS,,Unknown pine,,
+1026,Acer spp.,ACER,,Unknown maple,,
+1029,Pinus ponderosa,PIPO,183365,ponderosa pine,0.48,0.3
+1030,Pseudotsuga menziesii,PSME,183424,Douglas-fir,0.48,0.3
+1031,Pinus albicaulis,PIAL,183311,Whitebark pine,0.47,0.3
+1032,Larix lyallii,LALY,183416,Subalpine larch,0.53,0.3
+1033,Chamaecyparis nootkatensis,CHNO,183451,Alaska yellow-cedar,0.44,0.3
+1037,Salix scouleriana,SASC,504980,Scouler's willow,,
+1039,Acer glabrum ssp. douglasii,ACGLD2,28745,,,
+1040,Rosa gymnocarpa,ROGY,24828,dwarf rose,,
+1041,Pseudotsuga menziesii,HODI,25177,oceanspray,,
+1042,Sambucus cerulea,SACE3,35320,,,
+1043,Prunus virginiana,PRVI,24806,chokecherry,,
+1044,Symphoricarpos albus,SYAL,35332,common snowberry,,
+1045,Amelanchier spp.,AMELA,25108,serviceberry,,
+1046,Prunus emarginata,PREM,24776,bitter cherry,,
