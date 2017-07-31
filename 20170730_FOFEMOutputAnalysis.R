@@ -1,4 +1,4 @@
-#PURPOSE OF THIS SCRIPT IS TO SUMMARIZE LOADING AND CONSUMPTION RESULTS FOR TEXT IN JULY 30, 2017 REPORT.
+#PURPOSE OF THIS SCRIPT IS TO SUMMARIZE FOFEM OUTPUTS FOR TEXT IN JULY 30, 2017 REPORT.
 
 #Reset functions
 rm(list=ls())
@@ -12,7 +12,7 @@ library(data.table)
 setwd("C:/Users/jcronan/Documents/GitHub/Forest_Resiliency_Burning_Pilot")
 
 #Open file with tree species metadata:
-consumption <- read.table("wad_20170727_AppendixA.csv", header=TRUE, 
+fofem <- read.table("wad_20170730_FOFEM_outputs.csv", header=TRUE, 
                           sep=",", na.strings="NA", dec=".", strip.white=TRUE)
 
 #Changle column names to something shorter. Easier to write script.
@@ -69,10 +69,6 @@ perc_spring_2 <- round(((total_burned_a$spring_2/total_burned_a$pre)*100),0)
 perc_spring_4 <- round(((total_burned_a$spring_4/total_burned_a$pre)*100),0)
 
 total_burned_b <- data.frame(total_burned_a, perc_fm_2, perc_fm_4, perc_fall_2, perc_fall_4, perc_spring_2, perc_spring_4)
-range(total_burned_b$perc_fall_2)
-range(total_burned_b$perc_fall_4)
-range(total_burned_b$perc_spring_2)
-range(total_burned_b$perc_spring_4)
 
 total_burned_c <- total_burned_b[total_burned_b$site %in% c("Angel", "Chumstick", "Orion", 
                                                             "Paradise 90", "Sherman Creek", "Mile25"),c(1,2,3,4,5,6,7,8,13,14)]
@@ -159,10 +155,6 @@ sum(TotalPredCons_PercentOfTotal_b$fall_2)
 sum(TotalPredCons_PercentOfTotal_b$fall_4)
 sum(TotalPredCons_PercentOfTotal_b$spring_2)
 sum(TotalPredCons_PercentOfTotal_b$spring_4)
-
-
-#Figure out what percentage of consumption was in duff layer.
-duff_burned_b$consume/total_burned_b$consume
 
 
 
