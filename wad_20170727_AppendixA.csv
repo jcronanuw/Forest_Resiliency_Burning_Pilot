@@ -95,7 +95,7 @@ Natapoc,hr_100,6.06,   NA,   NA,   NA,   NA,   NA,5.18,4.75,4.79,4.75
 Natapoc,hr_1000S,13.1,   NA,   NA,   NA,   NA,   NA,4.52,8.4,0.73,0.72
 Natapoc,hr_1000R,10.28,   NA,   NA,   NA,   NA,   NA,1.96,7.25,0.3,2.05
 Natapoc,litter,2.15,   NA,   NA,   NA,   NA,   NA,1.38,2.15,0.93,0.96
-Natapoc,duff,20.18,   NA,   NA,   NA,   NA,   NA,6.94,3.6,2.9,0
+Natapoc,duff,14.27,   NA,   NA,   NA,   NA,   NA,6.94,3.6,2.9,0
 Natapoc,herb,0.17,   NA,   NA,   NA,   NA,   NA,0.17,0.16,0.17,0.16
 Natapoc,shrub,0.44,   NA,   NA,   NA,   NA,   NA,0.31,0.29,0.31,0.29
 Natapoc,Total,52.27,   NA,   NA,   NA,   NA,   NA,25.85,31.81,15.52,14.14
@@ -125,7 +125,7 @@ Vulcan,hr_100,2.93,   NA,   NA,   NA,   NA,   NA,2.46,2.3,2.07,2.3
 Vulcan,hr_1000S,3.85,   NA,   NA,   NA,   NA,   NA,1.32,2.45,0.22,0.21
 Vulcan,hr_1000R,6.1,   NA,   NA,   NA,   NA,   NA,1.16,4.34,0.18,1.01
 Vulcan,litter,1.71,   NA,   NA,   NA,   NA,   NA,1.04,1.71,0.62,0.76
-Vulcan,duff,21.99,   NA,   NA,   NA,   NA,   NA,15.74,7.49,9.35,0
+Vulcan,duff,29.71,   NA,   NA,   NA,   NA,   NA,15.74,7.49,9.35,0
 Vulcan,herb,0.05,   NA,   NA,   NA,   NA,   NA,0.05,0.05,0.05,0.05
 Vulcan,shrub,0.36,   NA,   NA,   NA,   NA,   NA,0.25,0.24,0.25,0.24
 Vulcan,Total,46.66,   NA,   NA,   NA,   NA,   NA,23.79,20.31,14.51,6.3

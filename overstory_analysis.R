@@ -69,6 +69,12 @@ expansion_factor <- data.frame(unitName = radius[,1],
 unitName_burned <- c("Sherman Creek", "Paradise 90", "Hanlon", "Orion 2", 
   "Chumstick ZUI", "25 Mile", "Angel")
 
+#List site names that burned.
+unitName_burned <- c("Sherman Creek", "Paradise 90", "Hanlon", "Orion 2", 
+                     "Chumstick ZUI", "25 Mile", "Angel", "8 Mile Bottom", 
+                     "Canteen", "Goat", "Natapoc 35", "Oak Creek", 
+                     "Upper Rendezvous 1","Vulcan")
+
 #Isolate unit ID numbers for sites that burned
 unitID_burned <- site_lut$unitID[site_lut$unitName %in% unitName_burned]
 
@@ -483,6 +489,10 @@ tpa <- data.frame(tree_TPAS_site_condensed,
                           tree_TPAS_site_condensed[,5] + 
                           tree_TPAS_site_condensed[,7]))
 
+tpa_summary <- data.frame(siteName = tree_TPAS_site_condensed[,1], 
+                  unitID = tree_TPAS_site_condensed[,2], 
+                  saplings = tree_TPAS_site_condensed[,3], 
+                  trees = tree_TPAS_site_condensed[,5] + tree_TPAS_site_condensed[,7])
 ###################################################################################################################
 ###################################################################################################################
 #Calculate basal area by site
@@ -702,7 +712,7 @@ boleChar_weighted_condensed <- cbind(as.data.frame(tree_weighted_boleChar_site_m
                                      as.data.frame(tree_weighted_boleChar_site_sd)[,-1])
 
 #Add column names
-colnames(boleChar_weighted_condensed) <- c("unitID", "mean_crownScorch", "StdDev")
+colnames(boleChar_weighted_condensed) <- c("unitID", "mean_boleChar", "StdDev")
 
 #Add site names
 siteNames_weighted_boleChar <- mapply(function(y)

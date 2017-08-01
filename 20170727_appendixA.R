@@ -76,7 +76,6 @@ range(total_burned_b$perc_spring_4)
 
 total_burned_c <- total_burned_b[total_burned_b$site %in% c("Angel", "Chumstick", "Orion", 
                                                             "Paradise 90", "Sherman Creek", "Mile25"),c(1,2,3,4,5,6,7,8,13,14)]
-
 #This will show loading, measured consumption, predicted consumption, percent differences for burned units.
 total_burned_c
 mean(c(36, 26, 18, 22, 34, 37))#mean of difference between measured and predicted for Consume v. 2.1
@@ -87,6 +86,67 @@ range(total_burned_d$perc_fall_2)
 range(total_burned_d$perc_fall_4)
 range(total_burned_d$perc_spring_2)
 range(total_burned_d$perc_spring_4)
+
+#############
+#CONSUME PERFORMANCE BY CATEGORY
+
+#Seperate total loading from loading by fuel strata.
+burned_units <- c("Angel", "Chumstick", "Orion", "Paradise 90")
+consume_perf_a <- consumption[consumption$site %in% burned_units,]
+consume_perf_a$consume[consume_perf_a$consume == 0] <- 0.01
+
+#Calculate the percent deviation from measured value for each Consume run
+byCat_perc_fm_2 <- -1*round((((consume_perf_a$consume-consume_perf_a$fm2)/consume_perf_a$consume)*100),0)
+byCat_perc_fm_4 <- -1*round((((consume_perf_a$consume-consume_perf_a$fm4)/consume_perf_a$consume)*100),0)
+
+
+consume_perf_b <- data.frame(consume_perf_a, byCat_perc_fm_2, byCat_perc_fm_4)
+
+
+
+Consume_Performance_xCat_fall <- ddply(consume_perf_b, "cat", summarise,
+                                   pre = round(mean(pre),1),
+                                   v2_mean = round(mean(byCat_perc_fm_2),1), 
+                                  v2_min = round(min(byCat_perc_fm_2),1), 
+                                  v2_max = round(max(byCat_perc_fm_2),1),
+                                   v4_mean = round(mean(byCat_perc_fm_4),1), 
+                                  v4_min = round(min(byCat_perc_fm_4),1), 
+                                  v4_max = round(max(byCat_perc_fm_4),1))
+
+#Seperate total loading from loading by fuel strata.
+burned_units <- c("Sherman Creek", "Mile25")
+consume_perf_a <- consumption[consumption$site %in% burned_units,]
+consume_perf_a$consume[consume_perf_a$consume == 0] <- 0.01
+
+#Calculate the percent deviation from measured value for each Consume run
+byCat_perc_fm_2 <- -1*round((((consume_perf_a$consume-consume_perf_a$fm2)/consume_perf_a$consume)*100),0)
+byCat_perc_fm_4 <- -1*round((((consume_perf_a$consume-consume_perf_a$fm4)/consume_perf_a$consume)*100),0)
+
+
+consume_perf_b <- data.frame(consume_perf_a, byCat_perc_fm_2, byCat_perc_fm_4)
+
+
+
+Consume_Performance_xCat_spring <- ddply(consume_perf_b, "cat", summarise,
+                                  pre = round(mean(pre),1),
+                                  v2_mean = round(mean(byCat_perc_fm_2),1), 
+                                  v2_min = round(min(byCat_perc_fm_2),1), 
+                                  v2_max = round(max(byCat_perc_fm_2),1),
+                                  v4_mean = round(mean(byCat_perc_fm_4),1), 
+                                  v4_min = round(min(byCat_perc_fm_4),1), 
+                                  v4_max = round(max(byCat_perc_fm_4),1))
+
+#Create new table, summarize Consume performance by fuel strata.
+write.table(Consume_Performance_xCat_fall, file = "20170731_ConsumePerformance_Fall.csv", 
+            append = FALSE, quote = TRUE, sep = ",", eol = "\n", na = "NA", 
+            dec = ".", row.names = TRUE,col.names = NA, qmethod = 
+              c("escape", "double"))#
+
+#Create new table, summarize Consume performance by fuel strata.
+write.table(Consume_Performance_xCat_spring, file = "20170731_ConsumePerformance_Spring.csv", 
+            append = FALSE, quote = TRUE, sep = ",", eol = "\n", na = "NA", 
+            dec = ".", row.names = TRUE,col.names = NA, qmethod = 
+              c("escape", "double"))#
 
 #############
 #DUFF LOADING
@@ -124,6 +184,10 @@ TotalLoading <- ddply(cats_b, "site", summarise,
 total <- expand.grid(1:length(unique(cats_b$cat)), TotalLoading$total)[2]
 cats_c <- data.frame(cats_b, total = total)
 
+
+#perc_ofTotal_fall2 <- cats_c
+
+
 #Calculate percentage of total consumption for each fuel strata for spring and fall scenarion predictions.
 TotalPredConsumption_xCat <- ddply(cats_c, "cat", summarise,
                               pre = sum(pre),
@@ -139,15 +203,25 @@ TotalPredConsumption <- ddply(total_burned_a, "cat", summarise,
                               spring_2 = sum(spring_2),
                               spring_4 = sum(spring_4))
 
+#Combine 1000-hr fuels and add them back into the data frame
+hr1000 <- TotalPredConsumption_xCat[6,2:6] + TotalPredConsumption_xCat[7,2:6]
+
+#
+TotalPredConsumption_xCat <- TotalPredConsumption_xCat[-c(6,7),]
+levels(TotalPredConsumption_xCat$cat) <- c(levels(TotalPredConsumption_xCat$cat), "hr_1000")
+TotalPredConsumption_xCat[8,1] <- as.factor("hr_1000")
+TotalPredConsumption_xCat[8,2:6] <- hr1000
+
+
 by_cat <- TotalPredConsumption_xCat[,3:6]
   
-by_cat <- as.matrix(by_cat,9,4)
+by_cat <- as.matrix(by_cat,8,4)
 
 by_total <- as.numeric(TotalPredConsumption[,3:6])
 
-bta <- expand.grid(1:9, by_total)[2]
+bta <- expand.grid(1:8, by_total)[2]
 btb <- as.numeric(bta$Var2)
-btc <- matrix(btb, 9,4)
+btc <- matrix(btb, 8,4)
 
 TotalPredCons_PercentOfTotal_a <- round((by_cat/btc)*100,2)
 
@@ -155,16 +229,38 @@ colnames(TotalPredCons_PercentOfTotal_a) <- c("fall_2", "fall_4", "spring_2", "s
 
 TotalPredCons_PercentOfTotal_b <- data.frame(cat = TotalPredConsumption_xCat$cat, TotalPredCons_PercentOfTotal_a)
 
-sum(TotalPredCons_PercentOfTotal_b$fall_2)
-sum(TotalPredCons_PercentOfTotal_b$fall_4)
-sum(TotalPredCons_PercentOfTotal_b$spring_2)
-sum(TotalPredCons_PercentOfTotal_b$spring_4)
+#Create new table, summarize Consume performance by fuel strata.
+write.table(TotalPredCons_PercentOfTotal_b, file = "20170731_PercentConsumption_byCat.csv", 
+            append = FALSE, quote = TRUE, sep = ",", eol = "\n", na = "NA", 
+            dec = ".", row.names = TRUE,col.names = NA, qmethod = 
+              c("escape", "double"))#
+
+#Look at percentage predicted consumption by fuel strata for each seasonal fuel moisture scenario
+perc_redFall_2 <- round(TotalPredConsumption_xCat$fall_2/TotalPredConsumption_xCat$pre*100,1)
+perc_redFall_4 <- round(TotalPredConsumption_xCat$fall_4/TotalPredConsumption_xCat$pre*100,1)
+perc_redSpring_2 <- round(TotalPredConsumption_xCat$spring_2/TotalPredConsumption_xCat$pre*100,1)
+perc_redSpring_4 <- round(TotalPredConsumption_xCat$spring_4/TotalPredConsumption_xCat$pre*100,1)
+
+num <- c(7,1,3,5,6,2,4,8)
+TotalPredConsumption_a <- data.frame(num = num, 
+                                     TotalPredCons_PercentOfTotal_b, perc_redFall_2, perc_redFall_4, 
+                                     perc_redSpring_2, perc_redSpring_4)
+
+TotalPredConsumption_b <- TotalPredConsumption_a[order(TotalPredConsumption_a$num),]
 
 
-#Figure out what percentage of consumption was in duff layer.
-duff_burned_b$consume/total_burned_b$consume
+tpc <- data.matrix(TotalPredConsumption_b[,7:10])
+rownames(tpc) = TotalPredConsumption_b[,2]
 
 
+
+mp <- barplot(tpc) # default
+tot <- colMeans(tpc)
+text(mp, tot + 3, format(tot), xpd = TRUE, col = "blue")
+barplot(tpc, beside = TRUE,
+        col = rainbow(8),
+        legend = rownames(tpc), ylim = c(0, 100))
+title(main = "Percent Predicted Consumption", font.main = 4)
 
 
 
