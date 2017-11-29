@@ -1,0 +1,13 @@
+Column_header,Description
+projectName,Washington DNR Pilot Project
+unitName,"Name of burn unit (i.e., Angel, 25 Mile, Sherman Creek, Chumstick ZUI, Paradise 90, Orion 2)"
+epShort,"Sampling episode short name (i.e., PRE, POST)"
+samplingStartDate,Calendar date of wired log installation (DD-MMM-YY)
+plot,"Plot number (i.e., 1-20) of nearest overstory permanent plot"
+scientificName,"Scientific name (i.e., ""Pinus ponderosa"", ""Pseudotsuga menziesii"", Laryx occidentalis"") of sample log."
+decayClassID,"Decay class (i.e., 1-5) of sample log. See methods for details of decay classes."
+onGround,"""On Ground"" = 0, refers to logs elevated in the air. ""On Ground"" = 1, refers to logs completely on the ground."
+logLength,Log length not consistently measured. Ignore.
+logCircumferencePre,"Circumference, in millimeters, of sample log prior to Rx fire."
+logCircumferencePost,"Circumference, in millimeters, of sample log following Rx fire."
+wirePulledDesc,"Description of whether the sample log ""ignited, partial consumption,"" ""ignited, total consumption,""ignited, no consumption"", ""No consumption."""

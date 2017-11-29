@@ -1,0 +1,9 @@
+Column_header,Description
+projectName,Washington DNR Pilot Project
+unitName,"Name of burn unit (i.e., Angel, 25 Mile, Sherman Creek, Chumstick ZUI, Paradise 90, Orion 2)"
+epShort,"Sampling episode short name (i.e., PRE, POST)"
+samplingStartDate,Calendar date of wired log installation (DD-MMM-YY)
+plot,"Plot number (i.e., 1-20) of nearest overstory permanent plot"
+form,"Structural form of stem counted (i.e., ""Seedling"", or ""sampling"")."
+scientificName,"Scientific name (i.e., ""Pinus ponderosa"") of stem counted."
+tally,"Tally (i.e., 1-56) of stems of a given species within a given plot."

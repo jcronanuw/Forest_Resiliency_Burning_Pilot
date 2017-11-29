@@ -1,0 +1,12 @@
+Column_header,Description
+projectName,Washington DNR Pilot Project
+unitName,"Name of burn unit (i.e., Angel, 25 Mile, Sherman Creek, Chumstick ZUI, Paradise 90, Orion 2)"
+epShort,"Sampling episode short name (i.e., PRE, POST)"
+samplingStartDate,Calendar date of wired log installation (DD-MMM-YY)
+SampleMaterial,"Category of sample material (i.e., ""Grass"", ""Shrub"", ""Duff"", ""Litter"", ""Downed Woody: 1000-hr"", ""Downed Woody: 100-hr"", ""Downed Woody: 10-hr"", ""Downed Woody: 1-hr"")."
+sampleNo,"Sample identifier (i.e., 1-20) within a ""SampleMaterial"" category."
+depth_mm,Not used. Ignore.
+grossWetWt_g,"Gross wet weight (grams) of fuel moisture sample, as measured in the field."
+wetContWt_g,Container weight (grams) of fuel moisture sample container.
+grossDryWt_g,"Gross dry weight (grams) of fuel moisture sample, following 48 hours of oven-drying at either 70 degrees C (fine fuels), or 100 degrees C (heavy fuels)."
+dryContWt_g,Container weight (grams) of fuel moisture sample during oven drying.

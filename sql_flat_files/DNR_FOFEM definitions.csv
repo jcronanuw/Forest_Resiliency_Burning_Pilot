@@ -1,0 +1,5 @@
+Column_header,Units,Definition
+ID,text,Name of burn unit.
+Filename,text,.PRJ file ID that directs the FOFEM model run.
+FOFEM_predicted mortality_TPA,percent,Percent of prefire trees per acre killed in the study fire.
+FOFEM_predicted mortality_BasalArea,percent,Percent of prefire basal area occupied by trees killed in the study fire.

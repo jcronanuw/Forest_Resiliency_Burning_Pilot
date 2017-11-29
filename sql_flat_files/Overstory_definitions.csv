@@ -1,0 +1,18 @@
+Column_header,Description
+projectName,Washington DNR Pilot Project
+unitName,"Name of burn unit (i.e., Angel, 25 Mile, Sherman Creek, Chumstick ZUI, Paradise 90, Orion 2)"
+epShort,"Sampling episode short name (i.e., PRE, POST)"
+samplingStartDate,Calendar date of wired log installation (DD-MMM-YY)
+plot,"Plot number (i.e., 1-20) of nearest overstory permanent plot"
+treeTagNo,Individual tag (steel) identifier for each tree in the overstory plot.
+scientificName,"Scientific name (i.e., ""Pinus ponderosa"", ""Pseudotsuga menziesii"", Laryx occidentalis"") of sample tree."
+dbh_in,"Diameter at breast height (DBH), measured in inches."
+ht_ft,"Total height of tree, measured in feet."
+htlc_ft,"Height to live crown, measured in feet. Height at which continuous live foliage begins on the sample tree."
+cbh_ft,"Crown base height, measured in feet. Height at which continuous dead branching begins on the sample tree."
+status,"Live or Dead (i.e., ""L"" or ""D"")."
+crownScorch_%,"Percentage of crown that was scorched by Rx fire (i.e., 1-100 %)"
+maxScorchHt_ft,"Maximum extent of continuous scorch height from Rx fire, measured in feet."
+minBoleChar_ft,"Minimum extent of charring from Rx fire that appears on the bole of the sample tree, measured in feet."
+maxBoleChar_ft,"Maximum extent of charring from Rx fire that appears on the bole of the sample tree, measured in feet."
+burnSeverity,"Severity rank of burn intensity experienced at each tree (i.e., 1-5 ranking system created by National Park Service)."

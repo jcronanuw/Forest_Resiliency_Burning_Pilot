@@ -1,0 +1,11 @@
+Column_header,Description
+projectName,Washington DNR Pilot Project
+unitName,"Name of burn unit (i.e., Angel, 25 Mile, Sherman Creek, Chumstick ZUI, Paradise 90, Orion 2)"
+epShort,"Sampling episode short name (i.e., PRE, POST)"
+samplingStartDate,Calendar date of wired log installation (DD-MMM-YY)
+plot,"Plot number (i.e., 1-20) of nearest overstory permanent plot"
+clipPlotNo,"Number of clip plots at a given plot (i.e., 1-3). Entered inconsistently in the database. Ignore."
+clipPlotMat,"Vegetation category for clip plot samples (i.e., ""Grass"", ""Forbs/Herbaceous,"" ""Shrubs"")."
+bagNo,Sample identification for vegetation categories that produced more than one sample bag in a given plot.
+grossDryWt_g,Dry weight (grams) of clip plot sample after being oven-dried for a minimum of 48 hours at 70 degrees C.
+bagWt_g,"Bag weight (grams), also known as ""tare weight"", of container used to house clip plot sample during the oven drying process."

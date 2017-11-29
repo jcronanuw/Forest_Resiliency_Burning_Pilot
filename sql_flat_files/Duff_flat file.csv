@@ -1,0 +1,1260 @@
+projectName,unitName,springFall,epShort,samplingStartDate,plotNo,pinNo,pinStatus,pinType,pinToSurface_mm,SMType,SMDepth_mm,SM_PreDepth_mm,SM_ConsumedDepth_mm,SM_PostDepth_mm,DuffType,pinToRemaining_mm,pinToSoil_mm,Duff_PreDepth_mm,Duff_ConsumedDepth_mm,Duff_PostDepth_mm
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,1,1,OK,S,0,LP,34,34,3,31,ND,31,34,0,0,0
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,1,3,OK,S,0,LP,30,30,0,30,LP,30,39,9,0,9
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,1,5,OK,S,0,LP,20,20,0,20,LP,20,21,1,0,1
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,1,7,OK,S,0,LP,22,22,0,22,LP,22,23,1,0,1
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,1,9,OK,S,0,LP,35,35,0,35,ND,35,35,0,0,0
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,1,11,OK,S,0,LP,39,39,0,39,LP,39,43,4,0,4
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,1,13,OK,S,0,LP,39,39,0,39,LP,39,44,5,0,5
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,1,15,OK,S,0,LP,24,24,24,0,LP,28,34,10,4,6
+Washington DNR Pilot Project,Angel,Fall2016,POST,10/8/2016,2,3,OK,S,0,SF,12,12,12,0,SF,15,23,11,3,8
+Washington DNR Pilot Project,Angel,Fall2016,POST,10/8/2016,2,5,OK,S,0,LP,21,21,21,0,LP,42,42,21,21,0
+Washington DNR Pilot Project,Angel,Fall2016,POST,10/8/2016,2,7,OK,S,0,LP,19,19,19,0,LP,78,78,59,59,0
+Washington DNR Pilot Project,Angel,Fall2016,POST,10/8/2016,2,9,OK,S,0,SF,5,5,5,0,SF,7,13,8,2,6
+Washington DNR Pilot Project,Angel,Fall2016,POST,10/8/2016,2,11,OK,S,0,GR,9,9,9,0,GR,12,40,31,3,28
+Washington DNR Pilot Project,Angel,Fall2016,POST,10/8/2016,2,13,OK,S,0,SF,7,7,7,0,SF,10,17,10,3,7
+Washington DNR Pilot Project,Angel,Fall2016,POST,10/8/2016,2,15,OK,S,0,LP,20,20,20,0,LP,27,42,22,7,15
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,3,1,OK,S,0,LP,18,18,18,0,LP,30,50,32,12,20
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,3,3,OK,S,0,LP,76,76,76,0,LP,106,114,38,30,8
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,3,5,OK,S,0,LP,23,23,23,0,LP,30,40,17,7,10
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,3,7,OK,S,0,LP,25,25,25,0,LP,35,42,17,10,7
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,3,9,OK,S,0,LP,19,19,19,0,LP,36,51,32,17,15
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,3,11,OK,S,0,SF,1,1,1,0,SF,30,49,48,29,19
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,3,13,OK,S,0,LP,29,29,29,0,LP,60,93,64,31,33
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,3,15,OK,S,0,LP,32,32,32,0,LP,86,94,62,54,8
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,4,1,OK,S,0,LP,27,27,27,0,LP,35,46,19,8,11
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,4,3,OK,S,0,LP,20,20,20,0,LP,45,80,60,25,35
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,4,5,OK,S,0,LP,30,30,30,0,LP,42,60,30,12,18
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,4,7,OK,S,0,LP,40,40,40,0,LP,52,79,39,12,27
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,4,9,OK,S,0,LP,33,33,2,31,LP,31,40,7,0,7
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,4,11,OK,S,0,LP,62,62,62,0,LP,91,118,56,29,27
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,4,13,OK,S,0,LP,29,29,29,0,LP,44,70,41,15,26
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,4,15,OK,S,0,LP,44,44,44,0,LP,67,81,37,23,14
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,5,1,NI,S,0,LP,17,17,17,0,LP,0,29,12,0,12
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,5,3,NI,S,0,LP,5,5,5,0,ND,0,5,0,0,0
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,5,5,OK,S,0,SF,8,8,2,6,SF,6,17,9,0,9
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,5,7,NI,S,0,LP,12,12,12,0,LP,0,30,18,0,18
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,5,9,OK,S,0,LP,30,30,2,28,LP,28,58,28,0,28
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,5,13,OK,S,0,LP,18,18,18,0,WR,96,119,101,78,23
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,5,15,OK,S,0,LP,11,11,11,0,WR,77,102,91,66,25
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,6,1,NI,S,0,LP,1,1,1,0,ND,0,1,0,0,0
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,6,3,NI,S,0,LP,18,18,18,0,LP,0,21,3,0,3
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,6,5,NI,S,0,LP,16,16,16,0,LP,0,31,15,0,15
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,6,7,NI,S,0,LP,9,9,9,0,LP,0,14,5,0,5
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,6,9,NI,S,0,LP,16,16,16,0,ND,0,16,0,0,0
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,6,11,NI,S,0,LP,42,42,42,0,LP,0,57,15,0,15
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,6,13,NI,S,0,LP,27,27,27,0,LP,0,40,13,0,13
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,6,15,NI,S,0,LP,15,15,15,0,ND,0,15,0,0,0
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,7,1,OK,S,0,LP,17,17,17,0,LP,26,33,16,9,7
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,7,3,OK,S,0,LP,25,25,25,0,LP,30,38,13,5,8
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,7,5,OK,S,0,LP,29,29,29,0,LP,32,45,16,3,13
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,7,7,OK,S,0,LP,25,25,25,0,LP,38,50,25,13,12
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,7,9,OK,S,0,LP,24,24,0,24,LP,24,30,6,0,6
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,7,11,OK,S,0,LP,20,20,20,0,LP,38,50,30,18,12
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,7,13,OK,S,0,LP,26,26,26,0,LP,35,57,31,9,22
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,7,15,OK,S,0,LP,35,35,35,0,LP,53,62,27,18,9
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,8,1,OK,S,0,LP,9,9,9,0,LP,12,15,6,3,3
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,8,3,OK,S,0,LP,5,5,5,0,LP,16,18,13,11,2
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,8,5,OK,S,0,LP,29,29,0,29,LP,29,31,2,0,2
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,8,9,OK,S,0,LP,10,10,10,0,LP,15,18,8,5,3
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,8,11,OK,S,0,LP,16,16,16,0,LP,24,27,11,8,3
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,8,13,OK,S,0,LP,4,4,4,0,LP,14,18,14,10,4
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,8,15,OK,S,0,LP,40,40,40,0,LP,41,49,9,1,8
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,9,1,OK,S,0,LP,20,20,20,0,LP,30,45,25,10,15
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,9,3,NI,S,0,FM,9,9,9,0,FM,0,18,9,0,9
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,9,5,OK,S,0,LP,6,6,6,0,LP,15,19,13,9,4
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,9,9,OK,S,0,LP,12,12,12,0,LP,27,37,25,15,10
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,9,13,NI,S,0,LP,18,18,18,0,LP,0,37,19,0,19
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,9,15,NI,S,0,SF,9,9,9,0,SF,0,21,12,0,12
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,10,1,NI,S,0,LP,20,20,20,0,LP,0,30,10,0,10
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,10,3,NI,S,0,LP,19,19,19,0,LP,0,24,5,0,5
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,10,5,NI,S,0,LP,1,1,1,0,ND,0,1,0,0,0
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,10,7,NI,S,0,LP,38,38,38,0,LP,0,40,2,0,2
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,10,9,NI,S,0,LP,1,1,1,0,ND,0,1,0,0,0
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,10,11,NI,S,0,LP,8,8,8,0,LP,0,26,18,0,18
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,10,13,NI,S,0,LP,20,20,20,0,LP,0,30,10,0,10
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,10,15,NI,S,0,LP,15,15,15,0,LP,0,25,10,0,10
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,11,1,OK,S,0,LP,3,3,3,0,LP,24,33,30,21,9
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,11,3,OK,S,0,LP,18,18,18,0,LP,41,47,29,23,6
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,11,5,OK,S,0,LP,28,28,28,0,LP,50,63,35,22,13
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,11,7,OK,S,0,LP,8,8,8,0,LP,14,30,22,6,16
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,11,9,OK,S,0,LP,25,25,25,0,LP,44,55,30,19,11
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,11,11,OK,S,0,LP,17,17,17,0,LP,43,53,36,26,10
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,11,13,OK,S,0,LP,10,10,10,0,LP,42,45,35,32,3
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,11,15,OK,S,0,LP,20,20,20,0,LP,31,51,31,11,20
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,12,1,OK,S,0,LP,36,36,36,0,WR,110,115,79,74,5
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,12,3,PF,S,0,LP,15,15,15,0,WR,155,155,140,140,0
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,12,5,OK,S,0,LP,10,10,10,0,LP,23,28,18,13,5
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,12,7,OK,S,0,LP,21,21,21,0,LP,38,51,30,17,13
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,12,9,OK,S,0,LP,20,20,20,0,LP,23,28,8,3,5
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,12,11,OK,S,0,LP,18,18,18,0,LP,31,36,18,13,5
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,12,13,OK,S,0,LP,6,6,6,0,LP,13,14,8,7,1
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,12,15,OK,S,0,LP,23,23,23,0,LP,26,30,7,3,4
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,13,1,OK,S,0,LP,14,14,3,11,ND,11,14,0,0,0
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,13,3,OK,S,0,LP,9,9,9,0,LP,25,25,16,16,0
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,13,5,NI,S,0,LP,1,1,1,0,ND,0,4,3,0,3
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,13,7,NI,S,0,SF,3,3,3,0,SF,0,7,4,0,4
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,13,9,NI,S,0,LP,19,19,19,0,BS,0,22,3,0,3
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,13,11,NI,S,0,LP,6,6,6,0,LP,0,11,5,0,5
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,13,13,OK,S,0,SF,6,6,0,6,ND,6,6,0,0,0
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,13,15,OK,S,0,LP,9,9,9,0,LP,12,23,14,3,11
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,14,1,OK,S,0,LP,42,42,0,42,ND,42,42,0,0,0
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,14,3,OK,S,0,LP,35,35,35,0,LP,48,49,14,13,1
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,14,5,OK,S,0,LP,20,20,20,0,LP,59,62,42,39,3
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,14,7,OK,S,0,LP,47,47,47,0,WR,136,136,89,89,0
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,14,9,OK,S,0,LP,19,19,13,6,LP,6,36,17,0,17
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,14,11,OK,S,0,LP,23,23,6,17,LP,17,30,7,0,7
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,14,13,OK,S,0,LP,24,24,24,0,LP,52,52,28,28,0
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,14,15,OK,S,0,LP,28,28,19,9,LP,9,41,13,0,13
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,15,1,OK,S,0,LP,28,28,11,17,LP,17,51,23,0,23
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,15,3,OK,S,0,LP,35,35,35,0,LP,86,97,62,51,11
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,15,9,PF,S,0,LP,24,24,24,0,LP,155,155,131,131,0
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,15,11,OK,S,0,LP,48,48,48,0,LP,98,98,50,50,0
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,15,13,OK,S,0,LP,62,62,62,0,LP,100,100,38,38,0
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,15,15,OK,S,0,LP,33,33,33,0,LP,38,53,20,5,15
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,16,1,OK,S,0,LP,29,29,29,0,LP,34,42,13,5,8
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,16,3,OK,S,0,LP,28,28,28,0,LP,34,56,28,6,22
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,16,5,OK,S,0,LP,24,24,1,23,ND,23,24,0,0,0
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,16,7,NI,S,0,LP,1,1,1,0,LP,0,19,18,0,18
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,16,9,NI,S,0,LP,5,5,5,0,LP,0,49,44,0,44
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,16,11,OK,S,0,LP,25,25,25,0,LP,83,90,65,58,7
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,16,13,OK,S,0,LP,22,22,1,21,LP,21,32,10,0,10
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,16,15,NI,S,0,LP,24,24,24,0,ND,0,24,0,0,0
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,17,1,NI,S,0,LP,21,21,21,0,ND,0,21,0,0,0
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,17,3,OK,S,0,LP,41,41,0,41,LP,41,46,5,0,5
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,17,5,OK,S,0,LP,30,30,30,0,LP,50,54,24,20,4
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,17,7,OK,S,0,LP,19,19,19,0,LP,25,27,8,6,2
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,17,9,OK,S,0,LP,38,38,38,0,LP,47,59,21,9,12
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,17,11,OK,S,0,LP,16,16,12,4,LP,4,23,7,0,7
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,17,13,OK,S,0,LP,30,30,30,0,LP,40,50,20,10,10
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,17,15,OK,S,0,LP,25,25,0,25,ND,25,25,0,0,0
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,18,1,NI,S,0,LP,3,3,3,0,LP,0,32,29,0,29
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,18,3,NI,S,0,LP,19,19,19,0,ND,0,19,0,0,0
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,18,5,NI,S,0,LP,10,10,10,0,LP,0,13,3,0,3
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,18,7,NI,S,0,NS,0,0,0,0,ND,0,0,0,0,0
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,18,9,OK,S,0,LP,20,20,5,15,LP,15,52,32,0,32
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,18,11,NI,S,0,LP,2,2,2,0,FM,0,21,19,0,19
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,18,13,NI,S,0,NS,0,0,0,0,ND,0,0,0,0,0
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,18,15,OK,S,0,LP,18,18,1,17,LP,17,21,3,0,3
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,19,1,PF,S,0,LP,15,15,15,0,WR,155,155,140,140,0
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,19,3,OK,S,0,LP,27,27,9,18,LP,18,36,9,0,9
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,19,5,OK,S,0,LP,2,2,2,0,LP,10,12,10,8,2
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,19,7,OK,S,0,LP,28,28,2,26,LP,26,78,50,0,50
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,19,9,OK,S,0,LP,17,17,3,14,LP,14,38,21,0,21
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,19,11,OK,S,0,LP,21,21,13,8,LP,8,29,8,0,8
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,19,13,OK,S,0,LP,53,53,3,50,LP,50,66,13,0,13
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,19,15,OK,S,0,LP,34,34,34,0,LP,59,85,51,25,26
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,20,1,OK,S,0,LP,36,36,8,28,LP,28,45,9,0,9
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,20,5,NI,S,0,LP,19,19,19,0,ND,0,21,2,0,2
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,20,7,NI,S,0,NS,0,0,0,0,ND,0,0,0,0,0
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,20,9,OK,S,0,LP,34,34,5,29,LP,29,50,16,0,16
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,20,11,OK,S,0,LP,28,28,2,26,ND,26,28,0,0,0
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,20,13,OK,S,0,LP,44,44,44,0,LP,45,51,7,1,6
+Washington DNR Pilot Project,Angel,Fall2016,PRE,9/20/2016,20,15,OK,S,0,LP,51,51,51,0,LP,65,65,14,14,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,1,1,OK,S,0,LP,71,71,11,60,ND,60,71,0,0,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,1,3,OK,S,0,LP,60,60,2,58,ND,58,60,0,0,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,1,5,OK,S,0,LP,43,43,3,40,ND,40,43,0,0,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,1,7,OK,S,0,LP,112,112,6,106,ND,106,112,0,0,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,1,9,OK,S,0,LP,41,41,2,39,ND,39,41,0,0,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,1,11,OK,S,0,LP,48,48,10,38,ND,38,48,0,0,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,1,13,OK,S,0,LP,47,47,47,0,LP,65,70,23,18,5
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,1,15,OK,S,0,LP,93,93,5,88,LP,88,100,7,0,7
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,2,1,OK,S,0,LP,32,32,2,30,LP,30,35,3,0,3
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,2,3,OK,S,0,LP,30,30,0,30,ND,30,30,0,0,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,2,5,OK,S,0,GR,28,28,28,0,GR,35,35,7,7,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,2,7,OK,S,0,LP,47,47,13,34,ND,34,47,0,0,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,2,9,OK,S,0,LP,21,21,0,21,ND,21,21,0,0,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,2,11,OK,S,0,GR,48,48,48,0,GR,59,61,13,11,2
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,2,13,OK,S,0,GR,40,40,0,40,ND,40,40,0,0,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,2,15,OK,S,0,GR,49,49,49,0,GR,59,68,19,10,9
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,3,3,NI,S,0,LP,3,3,3,0,ND,0,3,0,0,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,3,5,NI,S,0,LP,2,2,2,0,ND,0,2,0,0,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,3,7,NI,S,0,LP,11,11,11,0,ND,0,11,0,0,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,3,9,NI,S,0,LP,2,2,2,0,ND,0,2,0,0,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,3,11,NI,S,0,LP,5,5,5,0,ND,0,5,0,0,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,3,13,NI,S,0,LP,8,8,8,0,ND,0,8,0,0,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,3,15,NI,S,0,LP,3,3,3,0,ND,0,3,0,0,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,4,1,OK,S,0,LP,30,30,0,30,ND,30,30,0,0,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,4,3,NI,S,0,NS,0,0,0,0,ND,0,0,0,0,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,4,5,NI,S,0,LP,72,72,72,0,ND,0,72,0,0,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,4,7,NI,S,0,LP,45,45,45,0,ND,0,45,0,0,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,4,9,NI,S,0,LP,11,11,11,0,ND,0,11,0,0,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,4,11,NI,S,0,LP,7,7,7,0,ND,0,7,0,0,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,4,13,NI,S,0,GR,41,41,41,0,ND,0,41,0,0,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,4,15,NI,S,0,NS,0,0,0,0,ND,0,0,0,0,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,5,1,OK,S,0,GR,30,30,0,30,ND,30,30,0,0,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,5,3,NI,S,0,LP,13,13,13,0,ND,0,13,0,0,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,5,5,NI,S,0,NS,0,0,0,0,ND,0,0,0,0,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,5,7,NI,S,0,LP,9,9,9,0,ND,0,9,0,0,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,5,9,NI,S,0,LP,11,11,11,0,ND,0,11,0,0,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,5,11,NI,S,0,NS,0,0,0,0,ND,0,0,0,0,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,5,13,NI,S,0,LP,11,11,11,0,ND,0,11,0,0,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,5,15,OK,S,0,LP,12,12,0,12,ND,12,12,0,0,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,6,1,OK,W,0,LP,71,71,71,0,LP,154,169,98,83,15
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,6,3,OK,W,0,LP,90,90,90,0,LP,131,147,57,41,16
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,6,5,OK,W,0,LP,106,106,106,0,LP,155,161,55,49,6
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,6,7,OK,W,0,LP,148,148,148,0,LP,184,209,61,36,25
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,6,9,OK,W,0,LP,125,125,125,0,LP,259,281,156,134,22
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,6,11,OK,W,0,LP,77,77,77,0,LP,289,334,257,212,45
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,6,13,OK,W,0,LP,153,153,153,0,LP,208,227,74,55,19
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,6,15,OK,W,0,LP,75,75,75,0,LP,152,166,91,77,14
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,7,1,OK,W,0,LP,52,52,2,50,LP,50,57,5,0,5
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,7,3,OK,W,0,LP,40,40,40,0,LP,113,138,98,73,25
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,7,5,OK,W,0,LP,32,32,32,0,LP,34,38,6,2,4
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,7,7,OK,W,0,LP,69,69,69,0,LP,103,120,51,34,17
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,7,9,OK,W,0,LP,67,67,67,0,LP,109,122,55,42,13
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,7,11,OK,W,0,LP,28,28,28,0,LP,40,49,21,12,9
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,7,13,OK,W,0,LP,53,53,53,0,LP,122,135,82,69,13
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,7,15,OK,W,0,LP,47,47,47,0,LP,68,71,24,21,3
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,8,1,OK,S,0,LP,80,80,2,78,ND,78,80,0,0,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,8,3,OK,S,0,LP,80,80,9,71,LP,71,89,9,0,9
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,8,5,OK,S,0,LP,50,50,3,47,ND,47,50,0,0,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,8,7,OK,S,0,LP,79,79,11,68,ND,68,81,2,0,2
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,8,9,OK,S,0,LP,83,83,4,79,LP,79,86,3,0,3
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,8,11,OK,S,0,LP,35,35,7,28,ND,28,35,0,0,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,8,13,OK,S,0,LP,49,49,49,0,LP,61,65,16,12,4
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,8,15,OK,S,0,LP,78,78,78,0,LP,133,133,55,55,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,9,1,OK,S,0,GR,30,30,0,30,ND,30,30,0,0,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,9,3,OK,S,0,GR,21,21,0,21,ND,21,21,0,0,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,9,5,OK,S,0,GR,35,35,0,35,ND,35,35,0,0,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,9,7,OK,S,0,NS,0,0,0,0,ND,0,0,0,0,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,9,9,OK,S,0,GR,35,35,3,32,GR,32,36,1,0,1
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,9,11,OK,S,0,LP,21,21,8,13,ND,13,21,0,0,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,9,13,OK,S,0,LP,2,2,0,2,ND,2,2,0,0,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,9,15,OK,S,0,LP,3,3,0,3,ND,3,3,0,0,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,10,1,OK,S,0,LP,2,2,0,2,ND,2,2,0,0,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,10,3,OK,S,0,LP,3,3,0,3,ND,3,3,0,0,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,10,5,OK,S,0,LP,4,4,0,4,ND,4,4,0,0,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,10,7,OK,S,0,NS,0,0,0,0,ND,0,0,0,0,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,10,9,OK,S,0,LP,19,19,10,9,ND,9,19,0,0,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,10,11,OK,S,0,LP,2,2,0,2,ND,2,2,0,0,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,10,13,OK,S,0,LP,2,2,0,2,ND,2,2,0,0,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,10,15,OK,S,0,LP,8,8,0,8,ND,8,8,0,0,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,11,1,OK,S,0,LP,4,4,0,4,ND,4,4,0,0,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,11,3,OK,S,0,LP,24,24,0,24,ND,24,24,0,0,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,11,5,OK,S,0,NS,0,0,0,0,ND,0,0,0,0,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,11,7,OK,S,0,LP,2,2,0,2,ND,2,2,0,0,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,11,9,OK,S,0,LP,96,96,0,96,ND,96,96,0,0,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,11,11,OK,S,0,NS,0,0,0,0,ND,0,0,0,0,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,11,13,OK,S,0,LP,6,6,0,6,ND,6,6,0,0,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,11,15,OK,S,0,NS,0,0,0,0,ND,0,0,0,0,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,12,1,OK,S,0,LP,52,52,52,0,LP,74,90,38,22,16
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,12,3,OK,S,0,LP,29,29,29,0,LP,47,65,36,18,18
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,12,5,OK,S,0,LP,31,31,31,0,LP,52,73,42,21,21
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,12,7,OK,S,0,LP,25,25,2,23,ND,23,25,0,0,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,12,9,OK,S,0,LP,78,78,78,0,LP,104,111,33,26,7
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,12,11,OK,S,0,LP,21,21,21,0,LP,82,99,78,61,17
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,12,13,OK,S,0,LP,1,1,0,1,ND,1,1,0,0,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,12,15,OK,S,0,LP,39,39,39,0,LP,42,49,10,3,7
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,13,1,OK,S,0,LP,49,49,14,35,ND,35,49,0,0,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,13,3,OK,S,0,LP,102,102,0,102,ND,102,102,0,0,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,13,5,OK,S,0,LP,79,79,6,73,ND,73,79,0,0,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,13,7,OK,S,0,LP,93,93,31,62,ND,62,93,0,0,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,13,9,NI,S,0,GR,34,34,34,0,ND,0,34,0,0,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,13,11,OK,S,0,LP,44,44,8,36,ND,36,44,0,0,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,13,13,OK,S,0,LP,63,63,17,46,ND,46,63,0,0,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,13,15,OK,S,0,LP,109,109,26,83,ND,83,109,0,0,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,15,1,OK,S,0,LP,32,32,7,25,ND,25,32,0,0,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,15,3,OK,S,0,LP,42,42,9,33,LP,33,43,1,0,1
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,15,5,OK,S,0,LP,14,14,11,3,ND,3,14,0,0,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,15,7,OK,S,0,LP,30,30,2,28,LP,28,32,2,0,2
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,15,9,OK,S,0,GR,98,98,2,96,ND,96,98,0,0,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,15,11,OK,S,0,LP,31,31,3,28,ND,28,31,0,0,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,15,13,OK,S,0,GR,25,25,25,0,GR,42,54,29,17,12
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,15,15,OK,S,0,LP,58,58,14,44,ND,44,58,0,0,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,16,1,OK,S,0,GR,92,92,4,88,GR,88,106,14,0,14
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,16,3,OK,S,0,LP,95,95,12,83,LP,83,96,1,0,1
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,16,5,OK,S,0,LP,71,71,55,16,LP,16,72,1,0,1
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,16,7,OK,S,0,LP,40,40,8,32,ND,32,40,0,0,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,16,9,OK,S,0,LP,108,108,33,75,ND,75,108,0,0,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,16,11,OK,S,0,LP,61,61,3,58,ND,58,61,0,0,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,16,13,OK,S,0,LP,66,66,22,44,ND,44,66,0,0,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,16,15,OK,S,0,LP,72,72,25,47,ND,47,72,0,0,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,17,1,OK,S,0,GR,46,46,4,42,GR,42,48,2,0,2
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,17,3,NI,S,0,GR,16,16,16,0,ND,0,16,0,0,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,17,5,OK,S,0,GR,45,45,0,45,ND,45,45,0,0,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,17,7,NI,S,0,GR,4,4,4,0,ND,0,4,0,0,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,17,9,NI,S,0,NS,0,0,0,0,ND,0,0,0,0,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,17,11,NI,S,0,LP,65,65,65,0,ND,0,65,0,0,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,17,13,OK,S,0,GR,33,33,0,33,ND,33,33,0,0,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,17,15,OK,S,0,GR,22,22,8,14,ND,14,29,7,0,7
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,18,1,OK,S,0,GR,38,38,13,25,ND,25,38,0,0,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,18,3,NI,S,0,NS,0,0,0,0,ND,0,0,0,0,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,18,5,OK,S,0,GR,79,79,7,72,ND,72,79,0,0,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,18,7,OK,S,0,GR,31,31,31,0,GR,36,50,19,5,14
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,18,9,OK,S,0,GR,52,52,5,47,ND,47,52,0,0,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,18,11,NI,S,0,GR,16,16,16,0,ND,0,16,0,0,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,18,13,NI,S,0,GR,20,20,20,0,ND,0,20,0,0,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,18,15,OK,S,0,GR,33,33,7,26,ND,26,33,0,0,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,19,1,OK,S,0,LP,84,84,15,69,ND,69,84,0,0,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,19,3,OK,S,0,LP,97,97,14,83,ND,83,97,0,0,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,19,5,PF,S,0,LP,78,78,78,0,LP,155,155,77,77,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,19,7,OK,S,0,LP,53,53,21,32,ND,32,53,0,0,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,19,9,OK,S,0,LP,44,44,14,30,ND,30,44,0,0,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,19,11,OK,S,0,LP,76,76,17,59,ND,59,76,0,0,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,19,13,PF,S,0,LP,96,96,96,0,LP,155,155,59,59,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,19,15,PF,S,0,LP,150,150,150,0,LP,155,155,5,5,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,20,1,NI,S,0,LP,25,25,25,0,ND,0,25,0,0,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,20,3,NI,S,0,LP,12,12,12,0,ND,0,12,0,0,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,20,5,NI,S,0,NS,0,0,0,0,ND,0,0,0,0,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,20,7,NI,S,0,LP,11,11,11,0,ND,0,11,0,0,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,20,9,NI,S,0,LP,16,16,16,0,ND,0,16,0,0,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,20,11,NI,S,0,LP,12,12,12,0,ND,0,12,0,0,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,20,13,NI,S,0,LP,16,16,16,0,ND,0,16,0,0,0
+Washington DNR Pilot Project,Chumstick ZUI,Fall2016,PRE,9/12/2016,20,15,NI,S,0,LP,7,7,7,0,ND,0,7,0,0,0
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,1,1,OK,S,0,GR,21,21,19,2,LP,2,24,3,0,3
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,1,3,OK,S,0,LP,13,13,9,4,ND,4,13,0,0,0
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,1,5,OK,S,0,GR,14,14,13,1,WR,1,44,30,0,30
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,1,7,OK,S,0,GR,12,12,5,7,ND,7,14,2,0,2
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,1,9,NI,S,0,GR,10,10,10,0,LP,0,30,20,0,20
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,1,11,NI,S,0,NS,0,0,0,0,ND,0,0,0,0,0
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,1,13,OK,S,0,GR,22,22,22,0,ND,25,43,21,3,18
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,1,15,NI,S,0,NS,0,0,0,0,ND,0,0,0,0,0
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,2,1,OK,S,0,LP,18,18,9,9,LP,9,21,3,0,3
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,2,3,OK,S,0,LP,21,21,1,20,LP,20,32,11,0,11
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,2,5,OK,S,0,LP,16,16,6,10,LP,10,22,6,0,6
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,2,7,OK,S,0,LP,56,56,56,0,LP,59,59,3,3,0
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,2,9,OK,S,0,LP,21,21,3,18,ND,18,21,0,0,0
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,2,11,OK,S,0,LP,50,50,50,0,LP,67,67,17,17,0
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,2,13,OK,S,0,LP,19,19,8,11,ND,11,19,0,0,0
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,2,15,OK,S,0,LP,22,22,2,20,LP,20,26,4,0,4
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,3,1,OK,S,0,NS,0,0,0,0,ND,0,0,0,0,0
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,3,3,OK,S,0,LP,23,23,0,23,ND,23,23,0,0,0
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,3,5,OK,S,0,GR,11,11,11,0,LP,39,39,28,28,0
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,3,7,OK,S,0,LP,51,51,51,0,LP,59,59,8,8,0
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,3,9,OK,S,0,LP,14,14,14,0,LP,22,33,19,8,11
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,3,11,OK,S,0,NS,0,0,0,0,ND,0,0,0,0,0
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,3,13,OK,S,0,LP,55,55,55,0,LP,69,69,14,14,0
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,3,15,OK,S,0,LP,64,64,64,0,LP,80,80,16,16,0
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,4,1,OK,S,0,LP,24,24,0,24,ND,24,24,0,0,0
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,4,3,OK,S,0,LP,35,35,5,30,ND,30,35,0,0,0
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,4,5,OK,S,0,LP,21,21,6,15,ND,15,21,0,0,0
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,4,7,OK,S,0,LP,20,20,5,15,LP,15,31,11,0,11
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,4,9,OK,S,0,LP,37,37,37,0,LP,46,51,14,9,5
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,4,11,OK,S,0,LP,35,35,5,30,ND,30,35,0,0,0
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,4,13,OK,S,0,LP,30,30,4,26,ND,26,30,0,0,0
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,4,15,OK,S,0,LP,42,42,42,0,LP,52,52,10,10,0
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,5,1,OK,S,0,LP,21,21,21,0,LP,26,26,5,5,0
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,5,3,OK,S,0,GR,32,32,5,27,LP,27,40,8,0,8
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,5,5,OK,S,0,GR,15,15,3,12,ND,12,15,0,0,0
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,5,7,OK,S,0,GR,21,21,1,20,LP,20,25,4,0,4
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,5,9,OK,S,0,LP,28,28,3,25,ND,25,28,0,0,0
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,5,11,OK,S,0,LP,42,42,1,41,LP,41,54,12,0,12
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,5,13,OK,S,0,LP,18,18,0,18,ND,18,18,0,0,0
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,5,15,OK,S,0,LP,27,27,27,0,LP,41,41,14,14,0
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,6,1,OK,S,0,LP,14,14,14,0,LP,19,44,30,5,25
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,6,3,OK,S,0,LP,18,18,18,0,LP,20,39,21,2,19
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,6,5,OK,S,0,LP,26,26,13,13,LP,13,56,30,0,30
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,6,7,OK,S,0,LP,50,50,50,0,LP,54,68,18,4,14
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,6,9,OK,S,0,LP,21,21,15,6,LP,6,90,69,0,69
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,6,11,OK,S,0,LP,11,11,11,0,LP,19,50,39,8,31
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,6,13,OK,S,0,LP,20,20,13,7,LP,7,51,31,0,31
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,6,15,OK,S,0,LP,15,15,15,0,LP,0,62,47,0,47
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,7,1,OK,S,0,LP,12,12,12,0,LP,15,51,39,3,36
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,7,3,OK,S,0,LP,15,15,15,0,LP,50,50,35,35,0
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,7,5,OK,S,0,NS,0,0,0,0,LP,21,49,49,21,28
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,7,7,NI,S,0,LP,10,10,10,0,LP,0,27,17,0,17
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,7,9,OK,S,0,LP,28,28,11,17,LP,17,59,31,0,31
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,7,11,OK,S,0,LP,17,17,8,9,LP,9,61,44,0,44
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,7,13,OK,S,0,LP,26,26,4,22,LP,22,73,47,0,47
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,7,15,OK,S,0,LP,18,18,3,15,LP,15,81,63,0,63
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,8,1,OK,S,0,LP,37,37,37,0,LP,79,79,42,42,0
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,8,5,OK,S,0,LP,60,60,60,0,LP,106,106,46,46,0
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,8,7,OK,S,0,LP,36,36,10,26,LP,26,50,14,0,14
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,8,9,OK,S,0,LP,49,49,49,0,LP,51,90,41,2,39
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,8,11,OK,S,0,LP,26,26,26,0,LP,73,73,47,47,0
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,8,13,OK,S,0,LP,11,11,11,0,LP,102,102,91,91,0
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,8,15,OK,S,0,LP,39,39,39,0,LP,127,127,88,88,0
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,9,1,OK,S,0,LP,17,17,7,10,LP,10,33,16,0,16
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,9,3,OK,S,0,LP,21,21,15,6,LP,6,30,9,0,9
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,9,5,OK,S,0,LP,12,12,0,12,ND,12,12,0,0,0
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,9,7,OK,S,0,LP,11,11,1,10,LP,10,16,5,0,5
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,9,9,OK,S,0,LP,13,13,1,12,LP,12,20,7,0,7
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,9,11,OK,S,0,LP,11,11,9,2,LP,2,18,7,0,7
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,9,13,OK,S,0,LP,9,9,1,8,ND,8,9,0,0,0
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,9,15,NI,S,0,LP,22,22,22,0,ND,0,22,0,0,0
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,10,1,OK,S,0,LP,33,33,1,32,LP,32,42,9,0,9
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,10,3,OK,S,0,LP,13,13,13,0,LP,29,58,45,16,29
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,10,5,OK,S,0,LP,58,58,16,42,LP,42,88,30,0,30
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,10,7,OK,S,0,LP,19,19,19,0,LP,41,63,44,22,22
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,10,9,OK,S,0,LP,19,19,19,0,WR,137,137,118,118,0
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,10,11,OK,S,0,LP,13,13,13,0,LP,57,66,53,44,9
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,10,13,OK,S,0,LP,36,36,36,0,LP,41,41,5,5,0
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,10,15,OK,S,0,LP,33,33,4,29,LP,29,47,14,0,14
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,11,1,NI,S,0,GR,5,5,5,0,ND,0,5,0,0,0
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,11,3,NI,S,0,GR,6,6,6,0,ND,0,6,0,0,0
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,11,5,OK,S,0,GR,21,21,0,21,GR,21,30,9,0,9
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,11,7,OK,S,0,GR,31,31,31,0,GR,36,45,14,5,9
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,11,9,OK,S,0,GR,20,20,10,10,ND,10,20,0,0,0
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,11,11,OK,S,0,GR,27,27,10,17,GR,17,34,7,0,7
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,11,13,OK,S,0,GR,18,18,18,0,GR,21,40,22,3,19
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,11,15,OK,S,0,GR,24,24,17,7,GR,7,41,17,0,17
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,12,1,OK,S,0,LP,57,57,57,0,LP,143,143,86,86,0
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,12,3,PF,S,0,LP,52,52,,,LP,,,,,
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,12,5,OK,S,0,LP,32,32,0,32,LP,32,69,37,0,37
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,12,7,OK,S,0,LP,28,28,9,19,LP,19,66,38,0,38
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,12,9,OK,S,0,LP,53,53,53,0,LP,135,135,82,82,0
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,12,11,OK,S,0,LP,42,42,42,0,LP,105,105,63,63,0
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,12,13,OK,S,0,LP,41,41,41,0,LP,84,84,43,43,0
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,12,15,OK,S,0,LP,29,29,5,24,LP,24,73,44,0,44
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,13,3,OK,S,0,LP,48,48,3,45,ND,45,48,0,0,0
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,13,5,NI,S,0,LP,24,24,24,0,ND,0,24,0,0,0
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,13,7,NI,S,0,LP,9,9,9,0,ND,0,9,0,0,0
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,13,9,NI,S,0,LP,30,30,30,0,ND,0,30,0,0,0
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,13,11,NI,S,0,LP,31,31,31,0,ND,0,31,0,0,0
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,13,15,NI,S,0,LP,24,24,24,0,LP,0,26,2,0,2
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,14,1,OK,S,0,LP,21,21,0,21,ND,21,21,0,0,0
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,14,3,OK,S,0,NS,0,0,0,0,LP,0,5,5,0,5
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,14,5,OK,S,0,LP,32,32,12,20,ND,20,32,0,0,0
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,14,7,OK,S,0,LP,3,3,3,0,ND,0,3,0,0,0
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,14,9,OK,S,0,LP,20,20,14,6,ND,6,20,0,0,0
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,14,11,OK,S,0,LP,31,31,15,16,ND,16,31,0,0,0
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,14,13,OK,S,0,LP,5,5,0,5,ND,5,5,0,0,0
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,14,15,OK,S,0,LP,34,34,34,0,ND,46,46,12,12,0
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,15,1,OK,S,0,LP,17,17,2,15,ND,15,17,0,0,0
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,15,3,OK,S,0,LP,34,34,34,0,LP,40,50,16,6,10
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,15,5,OK,S,0,LP,14,14,14,0,LP,51,63,49,37,12
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,15,7,OK,S,0,LP,14,14,14,0,LP,18,41,27,4,23
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,15,9,OK,S,0,LP,14,14,14,0,ND,19,33,19,5,14
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,15,11,OK,S,0,LP,17,17,0,17,ND,17,17,0,0,0
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,15,13,OK,S,0,LP,12,12,12,0,LP,52,56,44,40,4
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,15,15,OK,S,0,LP,14,14,14,0,LP,67,67,53,53,0
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,16,1,OK,S,0,LP,42,42,1,41,LP,41,43,1,0,1
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,16,3,OK,S,0,LP,40,40,4,36,LP,36,44,4,0,4
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,16,5,OK,S,0,LP,39,39,14,25,ND,25,39,0,0,0
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,16,7,OK,S,0,LP,22,22,2,20,ND,20,22,0,0,0
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,16,9,OK,S,0,LP,15,15,0,15,ND,15,15,0,0,0
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,16,11,OK,S,0,LP,12,12,9,3,ND,3,12,0,0,0
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,16,13,OK,S,0,LP,45,45,28,17,LP,17,54,9,0,9
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,16,15,OK,S,0,LP,51,51,51,0,LP,54,60,9,3,6
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,17,1,NI,S,0,LP,28,28,28,0,ND,0,28,0,0,0
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,17,3,OK,S,0,GR,23,23,23,0,ND,28,28,5,5,0
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,17,5,OK,S,0,LP,4,4,0,4,ND,4,4,0,0,0
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,17,7,OK,S,0,LP,10,10,10,0,WR,45,66,56,35,21
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,17,9,OK,S,0,GR,15,15,15,0,GR,22,22,7,7,0
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,17,11,OK,S,0,GR,8,8,8,0,LP,15,24,16,7,9
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,17,13,OK,S,0,LP,3,3,2,1,WR,1,8,5,0,5
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,17,15,OK,S,0,LP,41,41,7,34,LP,34,65,24,0,24
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,18,1,OK,S,0,LP,46,46,46,0,LP,104,104,58,58,0
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,18,3,OK,S,0,LP,19,19,19,0,LP,79,79,60,60,0
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,18,5,OK,S,0,LP,16,16,16,0,LP,18,65,49,2,47
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,18,7,OK,S,0,LP,31,31,31,0,LP,95,95,64,64,0
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,18,9,OK,S,0,LP,18,18,18,0,LP,21,57,39,3,36
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,18,11,OK,S,0,LP,14,14,14,0,WR,88,88,74,74,0
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,18,13,OK,S,0,LP,12,12,12,0,LP,110,110,98,98,0
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,18,15,OK,S,0,LP,32,32,32,0,LP,139,139,107,107,0
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,19,1,OK,S,0,GR,20,20,12,8,GR,8,40,20,0,20
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,19,3,OK,S,0,GR,18,18,18,0,GR,0,45,27,0,27
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,19,5,OK,S,0,GR,19,19,13,6,GR,6,43,24,0,24
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,19,7,OK,S,0,GR,10,10,10,0,GR,24,45,35,14,21
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,19,9,OK,S,0,LP,22,22,22,0,GR,46,75,53,24,29
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,19,11,OK,S,0,GR,25,25,25,0,GR,0,54,29,0,29
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,19,13,OK,S,0,GR,32,32,32,0,GR,51,94,62,19,43
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,19,15,OK,S,0,GR,20,20,9,11,GR,11,50,30,0,30
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,20,1,OK,S,0,LP,47,47,47,0,ND,135,140,93,88,5
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,20,3,OK,S,0,LP,15,15,15,0,ND,135,135,120,120,0
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,20,5,OK,S,0,LP,33,33,33,0,ND,60,69,36,27,9
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,20,7,OK,S,0,LP,25,25,25,0,LP,52,58,33,27,6
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,20,9,OK,S,0,LP,71,71,71,0,ND,126,126,55,55,0
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,20,11,OK,S,0,LP,33,33,33,0,ND,85,88,55,52,3
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,20,13,OK,S,0,LP,41,41,41,0,ND,96,135,94,55,39
+Washington DNR Pilot Project,Orion 2,Fall2016,PRE,9/10/2016,20,15,OK,S,0,GR,35,35,23,12,ND,12,40,5,0,5
+Washington DNR Pilot Project,Paradise 90,Fall2016,PRE,8/17/2016,1,1,OK,S,0,SF,10,10,10,0,SF,60,60,50,50,0
+Washington DNR Pilot Project,Paradise 90,Fall2016,PRE,8/17/2016,1,3,NI,S,0,LP,14,14,14,0,LP,0,47,33,0,33
+Washington DNR Pilot Project,Paradise 90,Fall2016,PRE,8/17/2016,1,5,NI,S,0,LP,16,16,16,0,LP,0,49,33,0,33
+Washington DNR Pilot Project,Paradise 90,Fall2016,PRE,8/17/2016,1,7,NI,S,0,SF,11,11,11,0,SF,0,37,26,0,26
+Washington DNR Pilot Project,Paradise 90,Fall2016,PRE,8/17/2016,1,9,OK,S,0,LP,12,12,12,0,LP,82,82,70,70,0
+Washington DNR Pilot Project,Paradise 90,Fall2016,PRE,8/17/2016,1,11,OK,S,0,SF,18,18,18,0,SF,52,52,34,34,0
+Washington DNR Pilot Project,Paradise 90,Fall2016,PRE,8/17/2016,1,13,NI,S,0,SF,14,14,14,0,SF,0,44,30,0,30
+Washington DNR Pilot Project,Paradise 90,Fall2016,PRE,8/17/2016,1,15,OK,S,0,SF,11,11,11,0,SF,60,60,49,49,0
+Washington DNR Pilot Project,Paradise 90,Fall2016,PRE,8/17/2016,2,1,OK,S,0,SF,17,17,17,0,SF,138,138,121,121,0
+Washington DNR Pilot Project,Paradise 90,Fall2016,PRE,8/17/2016,2,3,OK,S,0,SF,8,8,8,0,SF,85,85,77,77,0
+Washington DNR Pilot Project,Paradise 90,Fall2016,PRE,8/17/2016,2,5,OK,S,0,SF,29,29,29,0,SF,119,119,90,90,0
+Washington DNR Pilot Project,Paradise 90,Fall2016,PRE,8/17/2016,2,7,OK,S,0,SF,14,14,14,0,SF,53,53,39,39,0
+Washington DNR Pilot Project,Paradise 90,Fall2016,PRE,8/17/2016,2,9,OK,S,0,SF,9,9,9,0,SF,61,61,52,52,0
+Washington DNR Pilot Project,Paradise 90,Fall2016,PRE,8/17/2016,2,11,OK,S,0,SF,19,19,19,0,SF,90,90,71,71,0
+Washington DNR Pilot Project,Paradise 90,Fall2016,PRE,8/17/2016,2,13,OK,S,0,SF,18,18,18,0,SF,56,56,38,38,0
+Washington DNR Pilot Project,Paradise 90,Fall2016,PRE,8/17/2016,2,15,OK,S,0,SF,12,12,12,0,SF,34,34,22,22,0
+Washington DNR Pilot Project,Paradise 90,Fall2016,PRE,8/17/2016,3,1,OK,S,0,LP,15,15,15,0,LP,91,91,76,76,0
+Washington DNR Pilot Project,Paradise 90,Fall2016,PRE,8/17/2016,3,3,OK,S,0,SF,11,11,0,11,SF,11,37,26,0,26
+Washington DNR Pilot Project,Paradise 90,Fall2016,PRE,8/17/2016,3,5,OK,S,0,GR,12,12,5,7,GR,7,39,27,0,27
+Washington DNR Pilot Project,Paradise 90,Fall2016,PRE,8/17/2016,3,7,OK,S,0,SF,10,10,10,0,SF,64,64,54,54,0
+Washington DNR Pilot Project,Paradise 90,Fall2016,PRE,8/17/2016,3,9,OK,S,0,LP,12,12,12,0,LP,63,63,51,51,0
+Washington DNR Pilot Project,Paradise 90,Fall2016,PRE,8/17/2016,3,11,OK,S,0,LP,9,9,9,0,LP,36,36,27,27,0
+Washington DNR Pilot Project,Paradise 90,Fall2016,PRE,8/17/2016,3,13,NI,S,0,SF,8,8,8,0,SF,0,37,29,0,29
+Washington DNR Pilot Project,Paradise 90,Fall2016,PRE,8/17/2016,3,15,OK,S,0,SF,12,12,12,0,SF,37,37,25,25,0
+Washington DNR Pilot Project,Paradise 90,Fall2016,PRE,8/17/2016,4,1,OK,S,0,LP,22,22,22,0,LP,143,143,121,121,0
+Washington DNR Pilot Project,Paradise 90,Fall2016,PRE,8/17/2016,4,3,OK,S,0,LP,28,28,28,0,LP,109,109,81,81,0
+Washington DNR Pilot Project,Paradise 90,Fall2016,PRE,8/17/2016,4,5,OK,S,0,LP,14,14,14,0,LP,74,74,60,60,0
+Washington DNR Pilot Project,Paradise 90,Fall2016,PRE,8/17/2016,4,7,OK,S,0,SF,12,12,12,0,SF,27,44,32,15,17
+Washington DNR Pilot Project,Paradise 90,Fall2016,PRE,8/17/2016,4,9,OK,S,0,GR,8,8,8,0,GR,10,38,30,2,28
+Washington DNR Pilot Project,Paradise 90,Fall2016,PRE,8/17/2016,4,11,OK,S,0,SF,10,10,10,0,SF,14,49,39,4,35
+Washington DNR Pilot Project,Paradise 90,Fall2016,PRE,8/17/2016,4,13,OK,S,0,LP,17,17,17,0,LP,96,96,79,79,0
+Washington DNR Pilot Project,Paradise 90,Fall2016,PRE,8/17/2016,4,15,OK,S,0,LP,14,14,14,0,LP,59,67,53,45,8
+Washington DNR Pilot Project,Paradise 90,Fall2016,PRE,8/17/2016,5,1,OK,S,0,LP,14,14,14,0,LP,17,38,24,3,21
+Washington DNR Pilot Project,Paradise 90,Fall2016,PRE,8/17/2016,5,3,PF,S,0,FM,2,2,2,0,WR,155,155,153,153,0
+Washington DNR Pilot Project,Paradise 90,Fall2016,PRE,8/17/2016,5,5,OK,S,0,LP,13,13,13,0,LP,103,103,90,90,0
+Washington DNR Pilot Project,Paradise 90,Fall2016,PRE,8/17/2016,5,7,OK,S,0,LP,3,3,1,2,LP,2,28,25,0,25
+Washington DNR Pilot Project,Paradise 90,Fall2016,PRE,8/17/2016,5,9,OK,S,0,LP,10,10,10,0,LP,11,34,24,1,23
+Washington DNR Pilot Project,Paradise 90,Fall2016,PRE,8/17/2016,5,11,PF,S,0,LP,2,2,2,0,WR,155,155,153,153,0
+Washington DNR Pilot Project,Paradise 90,Fall2016,PRE,8/17/2016,5,13,OK,S,0,LP,9,9,9,0,LP,66,66,57,57,0
+Washington DNR Pilot Project,Paradise 90,Fall2016,PRE,8/17/2016,5,15,OK,S,0,LP,11,11,5,6,LP,6,44,33,0,33
+Washington DNR Pilot Project,Paradise 90,Fall2016,PRE,8/17/2016,6,1,OK,S,0,SF,7,7,7,0,SF,15,26,19,8,11
+Washington DNR Pilot Project,Paradise 90,Fall2016,PRE,8/17/2016,6,3,OK,S,0,SF,20,20,20,0,SF,108,108,88,88,0
+Washington DNR Pilot Project,Paradise 90,Fall2016,PRE,8/17/2016,6,5,OK,S,0,LP,14,14,14,0,LP,21,63,49,7,42
+Washington DNR Pilot Project,Paradise 90,Fall2016,PRE,8/17/2016,6,7,OK,S,0,LP,8,8,8,0,LP,54,54,46,46,0
+Washington DNR Pilot Project,Paradise 90,Fall2016,PRE,8/17/2016,6,9,OK,S,0,LP,18,18,18,0,LP,61,61,43,43,0
+Washington DNR Pilot Project,Paradise 90,Fall2016,PRE,8/17/2016,6,11,OK,S,0,LP,4,4,4,0,LP,53,53,49,49,0
+Washington DNR Pilot Project,Paradise 90,Fall2016,PRE,8/17/2016,6,13,OK,S,0,LP,3,3,3,0,LP,80,80,77,77,0
+Washington DNR Pilot Project,Paradise 90,Fall2016,PRE,8/17/2016,7,1,OK,S,0,LP,14,14,14,0,LP,64,64,50,50,0
+Washington DNR Pilot Project,Paradise 90,Fall2016,PRE,8/17/2016,7,3,OK,S,0,LP,12,12,12,0,LP,42,42,30,30,0
+Washington DNR Pilot Project,Paradise 90,Fall2016,PRE,8/17/2016,7,5,OK,S,0,LP,13,13,13,0,LP,121,121,108,108,0
+Washington DNR Pilot Project,Paradise 90,Fall2016,PRE,8/17/2016,7,7,OK,S,0,LP,10,10,10,0,LP,54,54,44,44,0
+Washington DNR Pilot Project,Paradise 90,Fall2016,PRE,8/17/2016,7,9,OK,S,0,LP,16,16,16,0,LP,49,49,33,33,0
+Washington DNR Pilot Project,Paradise 90,Fall2016,PRE,8/17/2016,7,11,OK,S,0,LP,12,12,12,0,LP,43,43,31,31,0
+Washington DNR Pilot Project,Paradise 90,Fall2016,PRE,8/17/2016,7,13,OK,S,0,LP,2,2,2,0,LP,109,109,107,107,0
+Washington DNR Pilot Project,Paradise 90,Fall2016,PRE,8/17/2016,7,15,OK,S,0,LP,9,9,9,0,LP,57,57,48,48,0
+Washington DNR Pilot Project,Paradise 90,Fall2016,POST,10/31/2016,8,1,OK,S,0,LP,15,15,15,0,LP,86,86,71,71,0
+Washington DNR Pilot Project,Paradise 90,Fall2016,POST,10/31/2016,8,3,PF,S,0,LP,16,16,16,0,LP,180,180,164,164,0
+Washington DNR Pilot Project,Paradise 90,Fall2016,POST,10/31/2016,8,5,OK,S,0,LP,15,15,15,0,LP,34,58,43,19,24
+Washington DNR Pilot Project,Paradise 90,Fall2016,POST,10/31/2016,8,7,OK,S,0,SF,8,8,2,6,SF,6,27,19,0,19
+Washington DNR Pilot Project,Paradise 90,Fall2016,POST,10/31/2016,8,9,OK,S,0,LP,15,15,0,15,LP,15,37,22,0,22
+Washington DNR Pilot Project,Paradise 90,Fall2016,POST,10/31/2016,8,11,OK,S,0,LP,4,4,2,2,LP,2,32,28,0,28
+Washington DNR Pilot Project,Paradise 90,Fall2016,POST,10/31/2016,8,13,OK,S,0,LP,13,13,13,0,LP,69,69,56,56,0
+Washington DNR Pilot Project,Paradise 90,Fall2016,POST,10/31/2016,8,15,OK,S,0,LP,23,23,23,0,LP,94,94,71,71,0
+Washington DNR Pilot Project,Paradise 90,Fall2016,POST,10/31/2016,9,1,OK,S,0,SF,12,12,12,0,SF,57,57,45,45,0
+Washington DNR Pilot Project,Paradise 90,Fall2016,POST,10/31/2016,9,3,OK,S,0,SF,9,9,9,0,SF,51,51,42,42,0
+Washington DNR Pilot Project,Paradise 90,Fall2016,POST,10/31/2016,9,5,NI,S,0,SF,10,10,10,0,SF,0,43,33,0,33
+Washington DNR Pilot Project,Paradise 90,Fall2016,POST,10/31/2016,9,7,NI,S,0,SF,9,9,9,0,SF,0,53,44,0,44
+Washington DNR Pilot Project,Paradise 90,Fall2016,POST,10/31/2016,9,9,OK,S,0,SF,14,14,14,0,SF,22,62,48,8,40
+Washington DNR Pilot Project,Paradise 90,Fall2016,POST,10/31/2016,9,11,OK,S,0,SF,12,12,12,0,SF,80,80,68,68,0
+Washington DNR Pilot Project,Paradise 90,Fall2016,POST,10/31/2016,9,13,OK,S,0,SF,8,8,0,8,SF,8,61,53,0,53
+Washington DNR Pilot Project,Paradise 90,Fall2016,POST,10/31/2016,9,15,OK,S,0,SF,25,25,25,0,SF,134,175,150,109,41
+Washington DNR Pilot Project,Paradise 90,Fall2016,POST,10/31/2016,10,1,OK,S,0,SF,7,7,2,5,SF,5,30,23,0,23
+Washington DNR Pilot Project,Paradise 90,Fall2016,POST,10/31/2016,10,3,OK,S,0,LP,12,12,11,1,LP,1,38,26,0,26
+Washington DNR Pilot Project,Paradise 90,Fall2016,POST,10/31/2016,10,5,OK,S,0,LP,10,10,10,0,LP,42,42,32,32,0
+Washington DNR Pilot Project,Paradise 90,Fall2016,POST,10/31/2016,10,7,OK,S,0,LP,6,6,6,0,LP,30,30,24,24,0
+Washington DNR Pilot Project,Paradise 90,Fall2016,POST,10/31/2016,10,9,OK,S,0,LP,9,9,9,0,LP,62,62,53,53,0
+Washington DNR Pilot Project,Paradise 90,Fall2016,POST,10/31/2016,10,11,OK,S,0,LP,16,16,16,0,LP,36,40,24,20,4
+Washington DNR Pilot Project,Paradise 90,Fall2016,POST,10/31/2016,10,13,OK,S,0,LP,8,8,2,6,LP,6,54,46,0,46
+Washington DNR Pilot Project,Paradise 90,Fall2016,POST,10/31/2016,10,15,OK,S,0,LP,18,18,18,0,LP,22,22,4,4,0
+Washington DNR Pilot Project,Paradise 90,Fall2016,POST,10/31/2016,11,1,PF,S,0,SF,42,42,42,0,SF,180,180,138,138,0
+Washington DNR Pilot Project,Paradise 90,Fall2016,POST,10/31/2016,11,3,PF,S,0,SF,28,28,28,0,SF,180,180,152,152,0
+Washington DNR Pilot Project,Paradise 90,Fall2016,POST,10/31/2016,11,5,OK,S,0,SF,22,22,22,0,SF,119,119,97,97,0
+Washington DNR Pilot Project,Paradise 90,Fall2016,POST,10/31/2016,11,7,PF,S,0,SF,20,20,20,0,SF,180,180,160,160,0
+Washington DNR Pilot Project,Paradise 90,Fall2016,POST,10/31/2016,11,9,NI,S,0,SF,18,18,18,0,SF,0,32,14,0,14
+Washington DNR Pilot Project,Paradise 90,Fall2016,POST,10/31/2016,11,11,OK,S,0,SF,8,8,2,6,SF,6,41,33,0,33
+Washington DNR Pilot Project,Paradise 90,Fall2016,POST,10/31/2016,11,13,OK,S,0,SF,41,41,41,0,SF,114,114,73,73,0
+Washington DNR Pilot Project,Paradise 90,Fall2016,POST,10/31/2016,11,15,OK,S,0,SF,31,31,31,0,SF,117,117,86,86,0
+Washington DNR Pilot Project,Paradise 90,Fall2016,POST,10/31/2016,12,1,OK,S,0,LP,2,2,1,1,ND,1,2,0,0,0
+Washington DNR Pilot Project,Paradise 90,Fall2016,POST,10/31/2016,12,3,NI,S,0,LP,7,7,7,0,LP,0,21,14,0,14
+Washington DNR Pilot Project,Paradise 90,Fall2016,POST,10/31/2016,12,5,NI,S,0,LP,6,6,6,0,LP,0,10,4,0,4
+Washington DNR Pilot Project,Paradise 90,Fall2016,POST,10/31/2016,12,7,NI,S,0,LP,13,13,13,0,ND,0,13,0,0,0
+Washington DNR Pilot Project,Paradise 90,Fall2016,POST,10/31/2016,12,9,NI,S,0,GR,5,5,5,0,GR,0,24,19,0,19
+Washington DNR Pilot Project,Paradise 90,Fall2016,POST,10/31/2016,12,11,NI,S,0,LP,6,6,6,0,LP,0,22,16,0,16
+Washington DNR Pilot Project,Paradise 90,Fall2016,POST,10/31/2016,12,13,NI,S,0,GR,4,4,4,0,GR,0,13,9,0,9
+Washington DNR Pilot Project,Paradise 90,Fall2016,POST,10/31/2016,12,15,OK,S,0,LP,10,10,10,0,LP,89,89,79,79,0
+Washington DNR Pilot Project,Paradise 90,Fall2016,POST,10/31/2016,13,1,NI,S,0,SF,10,10,10,0,SF,0,35,25,0,25
+Washington DNR Pilot Project,Paradise 90,Fall2016,POST,10/31/2016,13,3,NI,S,0,SF,5,5,5,0,ND,0,5,0,0,0
+Washington DNR Pilot Project,Paradise 90,Fall2016,POST,10/31/2016,13,5,NI,S,0,SF,14,14,14,0,SF,0,36,22,0,22
+Washington DNR Pilot Project,Paradise 90,Fall2016,POST,10/31/2016,13,7,NI,S,0,SF,17,17,17,0,SF,0,66,49,0,49
+Washington DNR Pilot Project,Paradise 90,Fall2016,POST,10/31/2016,13,9,NI,S,0,SF,10,10,10,0,SF,0,20,10,0,10
+Washington DNR Pilot Project,Paradise 90,Fall2016,POST,10/31/2016,13,11,NI,S,0,SF,18,18,18,0,SF,0,31,13,0,13
+Washington DNR Pilot Project,Paradise 90,Fall2016,POST,10/31/2016,13,13,NI,S,0,SF,9,9,9,0,SF,0,35,26,0,26
+Washington DNR Pilot Project,Paradise 90,Fall2016,POST,10/31/2016,13,15,NI,S,0,SF,13,13,13,0,SF,0,36,23,0,23
+Washington DNR Pilot Project,Paradise 90,Fall2016,POST,10/31/2016,14,1,NI,S,0,SF,15,15,15,0,SF,0,102,87,0,87
+Washington DNR Pilot Project,Paradise 90,Fall2016,POST,10/31/2016,14,3,NI,S,0,SF,17,17,17,0,SF,0,77,60,0,60
+Washington DNR Pilot Project,Paradise 90,Fall2016,POST,10/31/2016,14,5,NI,S,0,SF,9,9,9,0,SF,0,33,24,0,24
+Washington DNR Pilot Project,Paradise 90,Fall2016,POST,10/31/2016,14,7,NI,S,0,SF,14,14,14,0,SF,0,46,32,0,32
+Washington DNR Pilot Project,Paradise 90,Fall2016,POST,10/31/2016,14,9,NI,S,0,SF,28,28,28,0,ND,0,28,0,0,0
+Washington DNR Pilot Project,Paradise 90,Fall2016,POST,10/31/2016,14,11,NI,S,0,BS,12,12,12,0,ND,0,12,0,0,0
+Washington DNR Pilot Project,Paradise 90,Fall2016,POST,10/31/2016,14,13,NI,S,0,SF,18,18,18,0,SF,0,55,37,0,37
+Washington DNR Pilot Project,Paradise 90,Fall2016,POST,10/31/2016,14,15,OK,S,0,SF,14,14,14,0,SF,21,54,40,7,33
+Washington DNR Pilot Project,Paradise 90,Fall2016,POST,10/31/2016,15,1,NI,S,0,SF,15,15,15,0,ND,0,15,0,0,0
+Washington DNR Pilot Project,Paradise 90,Fall2016,POST,10/31/2016,15,3,NI,S,0,SF,18,18,18,0,ND,0,18,0,0,0
+Washington DNR Pilot Project,Paradise 90,Fall2016,POST,10/31/2016,15,5,NI,S,0,GR,14,14,14,0,ND,0,14,0,0,0
+Washington DNR Pilot Project,Paradise 90,Fall2016,POST,10/31/2016,15,7,NI,S,0,GR,3,3,3,0,GR,0,16,13,0,13
+Washington DNR Pilot Project,Paradise 90,Fall2016,POST,10/31/2016,15,9,NI,S,0,SF,20,20,20,0,SF,0,70,50,0,50
+Washington DNR Pilot Project,Paradise 90,Fall2016,POST,10/31/2016,15,11,NI,S,0,SF,5,5,5,0,ND,0,5,0,0,0
+Washington DNR Pilot Project,Paradise 90,Fall2016,POST,10/31/2016,15,13,NI,S,0,SF,3,3,3,0,ND,0,3,0,0,0
+Washington DNR Pilot Project,Paradise 90,Fall2016,POST,10/31/2016,15,15,NI,S,0,GR,14,14,14,0,WR,0,149,135,0,135
+Washington DNR Pilot Project,Paradise 90,Fall2016,POST,10/31/2016,16,1,NI,S,0,SF,6,6,6,0,SF,0,44,38,0,38
+Washington DNR Pilot Project,Paradise 90,Fall2016,POST,10/31/2016,16,3,NI,S,0,SF,11,11,11,0,SF,0,26,15,0,15
+Washington DNR Pilot Project,Paradise 90,Fall2016,POST,10/31/2016,16,5,NI,S,0,SF,9,9,9,0,SF,0,74,65,0,65
+Washington DNR Pilot Project,Paradise 90,Fall2016,POST,10/31/2016,16,7,NI,S,0,SF,2,2,2,0,ND,0,2,0,0,0
+Washington DNR Pilot Project,Paradise 90,Fall2016,POST,10/31/2016,16,9,OK,S,0,LP,14,14,3,11,LP,11,37,23,0,23
+Washington DNR Pilot Project,Paradise 90,Fall2016,POST,10/31/2016,16,11,NI,S,0,SF,8,8,8,0,SF,0,42,34,0,34
+Washington DNR Pilot Project,Paradise 90,Fall2016,POST,10/31/2016,16,13,NI,S,0,SF,20,20,20,0,WR,0,84,64,0,64
+Washington DNR Pilot Project,Paradise 90,Fall2016,POST,10/31/2016,16,15,NI,S,0,SF,14,14,14,0,ND,0,14,0,0,0
+Washington DNR Pilot Project,Paradise 90,Fall2016,POST,10/31/2016,17,1,OK,S,0,SF,42,42,42,0,SF,143,143,101,101,0
+Washington DNR Pilot Project,Paradise 90,Fall2016,POST,10/31/2016,17,3,OK,S,0,SF,36,36,36,0,SF,148,148,112,112,0
+Washington DNR Pilot Project,Paradise 90,Fall2016,POST,10/31/2016,17,5,OK,S,0,SF,16,16,16,0,SF,105,105,89,89,0
+Washington DNR Pilot Project,Paradise 90,Fall2016,POST,10/31/2016,17,7,NI,S,0,SF,9,9,9,0,SF,0,68,59,0,59
+Washington DNR Pilot Project,Paradise 90,Fall2016,POST,10/31/2016,17,9,OK,S,0,SF,22,22,22,0,SF,163,163,141,141,0
+Washington DNR Pilot Project,Paradise 90,Fall2016,POST,10/31/2016,17,11,OK,S,0,SF,28,28,28,0,SF,56,56,28,28,0
+Washington DNR Pilot Project,Paradise 90,Fall2016,POST,10/31/2016,17,13,OK,S,0,SF,10,10,10,0,SF,116,116,106,106,0
+Washington DNR Pilot Project,Paradise 90,Fall2016,POST,10/31/2016,17,15,OK,S,0,SF,30,30,30,0,SF,90,90,60,60,0
+Washington DNR Pilot Project,Paradise 90,Fall2016,POST,10/31/2016,18,1,NI,S,0,LP,64,64,64,0,LP,0,144,80,0,80
+Washington DNR Pilot Project,Paradise 90,Fall2016,POST,10/31/2016,18,3,NI,S,0,LP,28,28,28,0,LP,0,77,49,0,49
+Washington DNR Pilot Project,Paradise 90,Fall2016,POST,10/31/2016,18,5,NI,S,0,LP,32,32,32,0,WR,0,86,54,0,54
+Washington DNR Pilot Project,Paradise 90,Fall2016,POST,10/31/2016,18,7,NI,S,0,LP,12,12,12,0,WR,0,74,62,0,62
+Washington DNR Pilot Project,Paradise 90,Fall2016,POST,10/31/2016,18,9,NI,S,0,LP,38,38,38,0,LP,0,110,72,0,72
+Washington DNR Pilot Project,Paradise 90,Fall2016,POST,10/31/2016,18,11,NI,S,0,LP,21,21,21,0,LP,0,109,88,0,88
+Washington DNR Pilot Project,Paradise 90,Fall2016,POST,10/31/2016,18,13,NI,S,0,LP,24,24,24,0,WR,0,123,99,0,99
+Washington DNR Pilot Project,Paradise 90,Fall2016,POST,10/31/2016,18,15,NI,S,0,LP,8,8,8,0,WR,0,122,114,0,114
+Washington DNR Pilot Project,Paradise 90,Fall2016,POST,10/31/2016,19,1,NI,S,0,GR,3,3,3,0,GR,0,12,9,0,9
+Washington DNR Pilot Project,Paradise 90,Fall2016,POST,10/31/2016,19,3,NI,S,0,GR,2,2,2,0,ND,0,2,0,0,0
+Washington DNR Pilot Project,Paradise 90,Fall2016,POST,10/31/2016,19,5,NI,S,0,GR,23,23,23,0,ND,0,23,0,0,0
+Washington DNR Pilot Project,Paradise 90,Fall2016,POST,10/31/2016,19,7,NI,S,0,SF,7,7,7,0,SF,0,23,16,0,16
+Washington DNR Pilot Project,Paradise 90,Fall2016,POST,10/31/2016,19,9,NI,S,0,GR,14,14,14,0,ND,0,14,0,0,0
+Washington DNR Pilot Project,Paradise 90,Fall2016,POST,10/31/2016,19,11,NI,S,0,GR,24,24,24,0,ND,0,24,0,0,0
+Washington DNR Pilot Project,Paradise 90,Fall2016,POST,10/31/2016,19,13,NI,S,0,SF,2,2,2,0,SF,0,4,2,0,2
+Washington DNR Pilot Project,Paradise 90,Fall2016,POST,10/31/2016,19,15,NI,S,0,SF,2,2,2,0,SF,0,49,47,0,47
+Washington DNR Pilot Project,Paradise 90,Fall2016,POST,10/31/2016,20,1,NI,S,0,GR,9,9,9,0,ND,0,9,0,0,0
+Washington DNR Pilot Project,Paradise 90,Fall2016,POST,10/31/2016,20,3,NI,S,0,GR,9,9,9,0,GR,0,52,43,0,43
+Washington DNR Pilot Project,Paradise 90,Fall2016,POST,10/31/2016,20,5,NI,S,0,SF,16,16,16,0,ND,0,16,0,0,0
+Washington DNR Pilot Project,Paradise 90,Fall2016,POST,10/31/2016,20,7,NI,S,0,SF,14,14,14,0,SF,0,45,31,0,31
+Washington DNR Pilot Project,Paradise 90,Fall2016,POST,10/31/2016,20,9,OK,S,0,SF,9,9,9,0,SF,29,29,20,20,0
+Washington DNR Pilot Project,Paradise 90,Fall2016,POST,10/31/2016,20,11,NI,S,0,SF,8,8,8,0,SF,0,46,38,0,38
+Washington DNR Pilot Project,Paradise 90,Fall2016,POST,10/31/2016,20,13,NI,S,0,SF,9,9,9,0,ND,0,9,0,0,0
+Washington DNR Pilot Project,Paradise 90,Fall2016,POST,10/31/2016,20,15,NI,S,0,SF,14,14,14,0,SF,0,33,19,0,19
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,1,1,OK,S,0,LP,60,60,3,57,WR,57,161,101,0,101
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,1,2,NI,S,0,LH,21,21,21,0,WR,0,106,85,0,85
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,1,3,NI,S,0,LP,75,75,75,0,LP,0,153,78,0,78
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,1,4,NI,S,0,LP,18,18,18,0,LP,0,30,12,0,12
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,1,5,OK,S,0,LP,51,51,12,39,LP,39,102,51,0,51
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,1,6,OK,S,0,LP,45,45,13,32,SF,32,73,28,0,28
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,1,7,NI,S,0,SF,5,5,5,0,SF,0,29,24,0,24
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,1,8,OK,S,0,LP,35,35,15,20,GR,20,40,5,0,5
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,1,9,NI,S,0,LP,3,3,3,0,SF,0,12,9,0,9
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,1,10,OK,S,0,SF,68,68,58,10,SF,10,71,3,0,3
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,1,11,OK,S,0,LP,58,58,22,36,GR,36,68,10,0,10
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,1,12,NI,S,0,GR,13,13,13,0,GR,0,72,59,0,59
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,1,13,NP,,,,0,0,,,,,,,,
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,1,14,NI,S,0,LP,24,24,24,0,LP,0,30,6,0,6
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,1,15,NI,S,0,LH,44,44,44,0,LH,0,53,9,0,9
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,1,16,NI,S,0,LP,9,9,9,0,ND,0,9,0,0,0
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,2,1,OK,S,0,LP,27,27,27,0,LP,33,40,13,6,7
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,2,2,OK,S,0,LP,31,31,31,0,LP,34,70,39,3,36
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,2,3,PF,S,0,LP,28,28,,,LP,,,,,
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,2,4,OK,S,0,LP,54,54,54,0,LP,55,91,37,1,36
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,2,5,OK,S,0,LP,77,77,6,71,LP,71,82,5,0,5
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,2,6,OK,S,0,LP,49,49,49,0,LP,86,86,37,37,0
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,2,7,OK,S,0,LP,32,32,32,0,LP,48,53,21,16,5
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,2,8,OK,S,0,LP,41,41,41,0,LP,42,48,7,1,6
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,2,9,OK,S,0,LP,74,74,3,71,LP,71,109,35,0,35
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,2,10,OK,S,0,LP,39,39,7,32,LP,32,53,14,0,14
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,2,11,OK,S,0,LP,39,39,39,0,LP,42,59,20,3,17
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,2,12,OK,S,0,LP,45,45,45,0,LP,53,62,17,8,9
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,2,13,OK,S,0,LP,61,61,7,54,LP,54,70,9,0,9
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,2,14,OK,S,0,LP,62,62,0,62,LP,62,64,2,0,2
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,2,15,OK,S,0,LP,83,83,6,77,LP,77,91,8,0,8
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,2,16,OK,S,0,LP,68,68,68,0,LP,74,74,6,6,0
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,3,1,OK,S,0,LP,45,45,20,25,LP,25,47,2,0,2
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,3,2,NP,,,,0,0,,,,,,,,
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,3,3,OK,S,0,LP,41,41,28,13,LP,13,44,3,0,3
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,3,4,OK,S,0,LP,31,31,8,23,GR,23,33,2,0,2
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,3,5,NI,S,0,LP,2,2,2,0,LP,0,14,12,0,12
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,3,6,NI,S,0,GR,31,31,31,0,GR,0,44,13,0,13
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,3,7,NI,S,0,LP,12,12,12,0,LP,0,20,8,0,8
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,3,8,NI,S,0,LP,31,31,31,0,LH,0,59,28,0,28
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,3,9,NI,S,0,LP,12,12,12,0,ND,0,14,2,0,2
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,3,10,NI,S,0,LP,18,18,18,0,GR,0,24,6,0,6
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,3,11,NI,S,0,LP,3,3,3,0,ND,0,3,0,0,0
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,3,12,OK,S,0,LP,20,20,4,16,LP,16,31,11,0,11
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,3,13,OK,S,0,LP,24,24,0,24,ND,24,24,0,0,0
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,3,14,OK,S,0,LP,16,16,6,10,GR,10,20,4,0,4
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,3,15,OK,S,0,LP,98,98,5,93,LH,93,108,10,0,10
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,3,16,OK,S,0,LP,41,41,41,0,LH,45,60,19,4,15
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,4,1,PF,S,0,LP,86,86,,,LP,,,,,
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,4,2,OK,S,0,LP,21,21,7,14,LP,14,33,12,0,12
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,4,3,OK,S,0,LP,41,41,0,41,LP,41,60,19,0,19
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,4,4,OK,S,0,LP,61,61,19,42,GR,42,98,37,0,37
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,4,5,OK,S,0,LP,42,42,16,26,LP,26,63,21,0,21
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,4,6,OK,S,0,LP,39,39,14,25,LP,25,48,9,0,9
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,4,7,OK,S,0,LP,29,29,8,21,LP,21,33,4,0,4
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,4,8,OK,S,0,LP,39,39,4,35,LP,35,54,15,0,15
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,4,9,OK,S,0,LP,45,45,21,24,LP,24,49,4,0,4
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,4,10,OK,S,0,LP,16,16,4,12,GR,12,31,15,0,15
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,4,11,OK,S,0,LP,22,22,2,20,LP,20,30,8,0,8
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,4,12,OK,S,0,LP,29,29,29,0,LP,33,59,30,4,26
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,4,13,OK,S,0,LP,68,68,8,60,ND,60,68,0,0,0
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,4,14,OK,S,0,LP,64,64,64,0,LP,89,122,58,25,33
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,4,15,OK,S,0,LP,60,60,60,0,LP,63,78,18,3,15
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,4,16,OK,S,0,LP,43,43,43,0,LP,44,67,24,1,23
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,5,1,OK,S,0,LP,41,41,41,0,LP,48,93,52,7,45
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,5,2,OK,S,0,LP,75,75,75,0,GR,112,152,77,37,40
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,5,3,OK,S,0,LP,55,55,3,52,LP,52,82,27,0,27
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,5,4,OK,S,0,LP,35,35,35,0,LP,52,70,35,17,18
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,5,5,OK,S,0,GR,49,49,7,42,LH,42,72,23,0,23
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,5,6,OK,S,0,LP,10,10,1,9,WR,9,66,56,0,56
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,5,7,OK,S,0,LP,21,21,8,13,WR,13,71,50,0,50
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,5,8,OK,S,0,LP,49,49,20,29,LP,29,69,20,0,20
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,5,9,OK,S,0,LP,113,113,2,111,LP,111,139,26,0,26
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,5,10,OK,S,0,LP,40,40,0,40,LP,40,58,18,0,18
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,5,11,OK,S,0,LP,53,53,3,50,GR,50,88,35,0,35
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,5,12,OK,S,0,LP,22,22,0,22,LP,22,66,44,0,44
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,5,13,OK,S,0,LP,12,12,3,9,GR,9,25,13,0,13
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,5,14,OK,S,0,LP,30,30,0,30,ND,30,30,0,0,0
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,5,15,OK,S,0,LP,64,64,10,54,LP,54,99,35,0,35
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,5,16,OK,S,0,LP,44,44,44,0,LP,51,106,62,7,55
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,6,1,OK,S,0,LP,48,48,12,36,LP,36,57,9,0,9
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,6,2,OK,S,0,LP,52,52,52,0,LP,58,79,27,6,21
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,6,3,OK,S,0,LP,49,49,11,38,LP,38,56,7,0,7
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,6,4,OK,S,0,LP,48,48,16,32,LP,32,58,10,0,10
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,6,5,OK,S,0,LP,22,22,2,20,LP,20,39,17,0,17
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,6,6,OK,S,0,LP,35,35,13,22,LP,22,37,2,0,2
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,6,7,OK,S,0,LP,40,40,12,28,LP,28,44,4,0,4
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,6,8,OK,S,0,LP,27,27,8,19,LP,19,33,6,0,6
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,6,9,OK,S,0,LP,58,58,16,42,LP,42,75,17,0,17
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,6,10,OK,S,0,LP,56,56,10,46,LP,46,65,9,0,9
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,6,11,OK,S,0,LP,41,41,41,0,LP,47,66,25,6,19
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,6,12,OK,S,0,LP,39,39,39,0,LP,44,63,24,5,19
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,6,13,OK,S,0,LP,44,44,44,0,LP,52,70,26,8,18
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,6,14,OK,S,0,LP,41,41,41,0,LP,48,88,47,7,40
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,6,15,OK,S,0,LP,46,46,16,30,LP,30,49,3,0,3
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,6,16,OK,S,0,LP,44,44,44,0,LP,59,71,27,15,12
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,7,1,OK,S,0,LP,61,61,22,39,LP,39,70,9,0,9
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,7,2,OK,S,0,LP,37,37,1,36,LP,36,81,44,0,44
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,7,3,OK,S,0,LP,55,55,55,0,LP,57,88,33,2,31
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,7,4,OK,S,0,LP,42,42,42,0,LP,72,97,55,30,25
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,7,5,OK,S,0,LP,48,48,10,38,LP,38,86,38,0,38
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,7,6,OK,S,0,LP,50,50,22,28,LP,28,105,55,0,55
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,7,7,OK,S,0,LP,19,19,19,0,LP,24,24,5,5,0
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,7,8,OK,S,0,LP,46,46,46,0,GR,49,72,26,3,23
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,7,9,OK,S,0,LP,64,64,16,48,LP,48,78,14,0,14
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,7,10,OK,S,0,LP,24,24,0,24,ND,24,24,0,0,0
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,7,11,OK,S,0,LP,72,72,12,60,LP,60,79,7,0,7
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,7,12,OK,S,0,LP,59,59,41,18,LP,18,76,17,0,17
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,7,13,OK,S,0,LP,39,39,3,36,LP,36,67,28,0,28
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,7,14,OK,S,0,LP,62,62,13,49,LP,49,84,22,0,22
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,7,15,OK,S,0,LP,61,61,15,46,LP,46,71,10,0,10
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,7,16,OK,S,0,LP,46,46,11,35,LP,35,57,11,0,11
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,8,1,NI,S,0,LP,39,39,39,0,GR,0,52,13,0,13
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,8,2,OK,S,0,LP,36,36,18,18,GR,18,49,13,0,13
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,8,3,NI,S,0,LP,45,45,45,0,GR,0,53,8,0,8
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,8,4,NI,S,0,LP,40,40,40,0,GR,0,49,9,0,9
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,8,5,OK,S,0,LP,42,42,17,25,GR,25,51,9,0,9
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,8,6,OK,S,0,LP,31,31,19,12,GR,12,44,13,0,13
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,8,7,OK,S,0,LP,47,47,28,19,GR,19,57,10,0,10
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,8,8,OK,S,0,LP,55,55,7,48,GR,48,83,28,0,28
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,8,9,NI,S,0,LP,47,47,47,0,LP,0,50,3,0,3
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,8,10,OK,S,0,LP,45,45,18,27,GR,27,73,28,0,28
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,8,11,NI,S,0,GR,16,16,16,0,GR,0,49,33,0,33
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,8,12,OK,S,0,LP,18,18,0,18,GR,18,53,35,0,35
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,8,13,OK,S,0,LP,14,14,12,2,GR,2,39,25,0,25
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,8,14,NI,S,0,LP,36,36,36,0,GR,0,48,12,0,12
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,8,15,OK,S,0,LP,64,64,19,45,LP,45,96,32,0,32
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,8,16,OK,S,0,LP,45,45,45,0,LP,51,88,43,6,37
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,9,1,OK,S,0,LP,21,21,21,0,LP,40,91,70,19,51
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,9,2,OK,S,0,LP,45,45,45,0,LP,54,78,33,9,24
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,9,3,OK,S,0,LP,45,45,45,0,LP,52,114,69,7,62
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,9,4,NP,,,,0,0,,,,,,,,
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,9,5,NP,,,,0,0,,,,,,,,
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,9,6,OK,S,0,LP,42,42,42,0,LP,51,71,29,9,20
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,9,7,OK,S,0,LP,16,16,16,0,LP,38,62,46,22,24
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,9,8,OK,S,0,LP,39,39,39,0,LP,57,88,49,18,31
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,9,9,OK,S,0,LP,24,24,4,20,LP,20,26,2,0,2
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,9,10,OK,S,0,LP,60,60,60,0,LP,90,112,52,30,22
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,9,11,OK,S,0,LP,59,59,59,0,WR,133,161,102,74,28
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,9,12,NP,S,,,0,0,,,,,,,,
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,9,13,OK,S,0,LP,58,58,58,0,WR,103,119,61,45,16
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,9,14,NP,S,,,0,0,,,,,,,,
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,9,15,OK,S,0,BS,92,92,8,84,WR,84,99,7,0,7
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,9,16,OK,S,0,LP,90,90,8,82,LP,82,105,15,0,15
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,10,1,NP,,,,0,0,,,,,,,,
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,10,2,OK,S,0,LP,45,45,7,38,GR,38,64,19,0,19
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,10,3,NI,S,0,LP,34,34,34,0,GR,0,53,19,0,19
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,10,4,NI,S,0,LP,25,25,25,0,LP,0,40,15,0,15
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,10,5,OK,S,0,LP,14,14,14,0,LP,20,46,32,6,26
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,10,6,OK,S,0,LP,25,25,10,15,LP,15,41,16,0,16
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,10,7,PF,S,0,GR,2,2,,,GR,,,,,
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,10,8,NI,S,0,GR,21,21,21,0,LP,0,48,27,0,27
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,10,9,OK,S,0,LP,27,27,4,23,LP,23,60,33,0,33
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,10,10,OK,S,0,LP,19,19,0,19,LP,19,28,9,0,9
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,10,11,OK,S,0,LP,16,16,5,11,ND,11,16,0,0,0
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,10,12,OK,S,0,LP,35,35,15,20,LP,20,44,9,0,9
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,10,13,OK,S,0,GR,16,16,8,8,GR,8,21,5,0,5
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,10,14,NI,S,0,NS,0,0,0,0,GR,0,2,2,0,2
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,10,15,NI,S,0,LP,2,2,2,0,ND,0,2,0,0,0
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,10,16,NI,S,0,LP,2,2,2,0,ND,0,2,0,0,0
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,11,1,NI,S,0,NS,0,0,0,0,ND,0,0,0,0,0
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,11,2,NI,S,0,GR,10,10,10,0,GR,0,18,8,0,8
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,11,3,NI,S,0,NS,0,0,0,0,ND,0,0,0,0,0
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,11,4,NI,S,0,NS,0,0,0,0,ND,0,0,0,0,0
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,11,5,NI,S,0,LP,20,20,20,0,GR,0,23,3,0,3
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,11,6,OK,S,0,LP,19,19,19,0,LP,21,33,14,2,12
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,11,7,OK,S,0,GR,11,11,2,9,GR,9,14,3,0,3
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,11,8,OK,S,0,LP,15,15,15,0,LP,17,17,2,2,0
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,11,9,OK,S,0,LP,53,53,24,29,GR,29,57,4,0,4
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,11,10,OK,S,0,LP,31,31,6,25,ND,25,31,0,0,0
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,11,11,NI,S,0,LP,17,17,17,0,ND,0,17,0,0,0
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,11,12,NI,S,0,LP,3,3,3,0,ND,0,3,0,0,0
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,11,13,NI,S,0,NS,0,0,0,0,ND,0,0,0,0,0
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,11,14,NI,S,0,LP,5,5,5,0,ND,0,5,0,0,0
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,11,15,NI,S,0,NS,0,0,0,0,ND,0,0,0,0,0
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,11,16,NI,S,0,NS,0,0,0,0,ND,0,0,0,0,0
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,12,1,OK,S,0,LP,55,55,55,0,LP,59,88,33,4,29
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,12,2,OK,S,0,LP,55,55,20,35,LP,35,118,63,0,63
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,12,3,OK,S,0,LP,48,48,15,33,LP,33,117,69,0,69
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,12,4,OK,S,0,LP,41,41,25,16,LP,16,51,10,0,10
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,12,5,NP,,,,0,0,,,,,,,,
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,12,6,OK,S,0,LP,21,21,21,0,LP,43,51,30,22,8
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,12,7,NP,,,,0,0,,,,,,,,
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,12,8,OK,S,0,LP,56,56,56,0,LP,64,95,39,8,31
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,12,9,OK,S,0,LP,94,94,94,0,LP,102,137,43,8,35
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,12,10,OK,S,0,LP,93,93,62,31,LP,31,100,7,0,7
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,12,11,OK,S,0,LP,105,105,2,103,LP,103,140,35,0,35
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,12,12,NP,,,,0,0,,,,,,,,
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,12,13,OK,S,0,LP,46,46,2,44,LP,44,87,41,0,41
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,12,14,OK,S,0,LP,95,95,9,86,LP,86,109,14,0,14
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,12,15,OK,S,0,LP,35,35,24,11,LP,11,76,41,0,41
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,12,16,OK,S,0,LP,34,34,10,24,LP,24,69,35,0,35
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,13,1,OK,S,0,GR,42,42,21,21,ND,21,42,0,0,0
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,13,2,OK,S,0,LP,25,25,25,0,LP,33,42,17,8,9
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,13,3,OK,S,0,GR,28,28,0,28,ND,28,28,0,0,0
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,13,4,NI,S,0,LP,22,22,22,0,ND,0,22,0,0,0
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,13,5,OK,S,0,LP,47,47,7,40,LP,40,51,4,0,4
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,13,6,NI,S,0,NS,0,0,0,0,ND,0,0,0,0,0
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,13,7,NI,S,0,LP,2,2,2,0,LP,0,7,5,0,5
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,13,8,OK,S,0,BS,40,40,0,40,WR,40,65,25,0,25
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,13,9,OK,S,0,LP,45,45,4,41,LP,41,51,6,0,6
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,13,10,OK,S,0,LP,29,29,10,19,LP,19,42,13,0,13
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,13,11,NI,S,0,NS,0,0,0,0,ND,0,0,0,0,0
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,13,12,NI,S,0,GR,4,4,4,0,GR,0,6,2,0,2
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,13,13,OK,S,0,LP,12,12,8,4,GR,4,18,6,0,6
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,13,14,NI,S,0,GR,3,3,3,0,GR,0,7,4,0,4
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,13,15,NI,S,0,NS,0,0,0,0,ND,0,0,0,0,0
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,13,16,NI,S,0,LP,4,4,4,0,GR,0,12,8,0,8
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,14,1,NI,S,0,LP,12,12,12,0,FM,0,21,9,0,9
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,14,2,NI,S,0,LP,9,9,9,0,LP,0,17,8,0,8
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,14,3,NI,S,0,LP,6,6,6,0,GR,0,19,13,0,13
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,14,4,NI,S,0,LP,10,10,10,0,LP,0,14,4,0,4
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,14,5,NI,S,0,LP,4,4,4,0,LP,0,14,10,0,10
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,14,6,OK,S,0,LP,11,11,11,0,LP,12,22,11,1,10
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,14,7,NP,,,,0,0,,,,,,,,
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,14,8,NI,S,0,LP,13,13,13,0,LP,0,20,7,0,7
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,14,9,NI,S,0,LP,15,15,15,0,LP,0,16,1,0,1
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,14,10,NI,S,0,LP,14,14,14,0,LP,0,25,11,0,11
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,14,11,NI,S,0,NS,0,0,0,0,ND,0,0,0,0,0
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,14,12,NI,S,0,LP,14,14,14,0,LP,0,22,8,0,8
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,14,13,NI,S,0,LP,9,9,9,0,LP,0,15,6,0,6
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,14,14,NI,S,0,LP,18,18,18,0,ND,0,18,0,0,0
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,14,15,NI,S,0,LP,20,20,20,0,GR,0,21,1,0,1
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,14,16,NI,S,0,LP,11,11,11,0,LP,0,17,6,0,6
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,15,1,OK,S,0,LP,19,19,10,9,GR,9,24,5,0,5
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,15,2,OK,S,0,LP,9,9,9,0,LP,0,11,2,0,2
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,15,3,OK,S,0,LP,29,29,29,0,GR,33,69,40,4,36
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,15,4,OK,S,0,LP,13,13,4,9,LP,9,17,4,0,4
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,15,5,NI,S,0,LP,12,12,12,0,ND,0,12,0,0,0
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,15,6,NI,S,0,LP,4,4,4,0,ND,0,4,0,0,0
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,15,7,OK,S,0,GR,35,35,35,0,GR,52,73,38,17,21
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,15,8,OK,S,0,LP,17,17,6,11,LP,11,22,5,0,5
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,15,9,NP,,,,0,0,,,,,,,,
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,15,10,OK,S,0,LP,17,17,2,15,LP,15,28,11,0,11
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,15,11,OK,S,0,LP,34,34,4,30,ND,30,34,0,0,0
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,15,12,OK,S,0,LP,49,49,49,0,LP,51,66,17,2,15
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,15,13,OK,S,0,LP,17,17,5,12,LP,12,26,9,0,9
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,15,14,OK,S,0,LP,53,53,21,32,LP,32,74,21,0,21
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,15,15,NI,S,0,NS,0,0,0,0,ND,0,0,0,0,0
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,15,16,NI,S,0,LP,22,22,22,0,ND,0,22,0,0,0
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,16,1,OK,S,0,LP,35,35,8,27,GR,27,55,20,0,20
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,16,2,OK,S,0,LP,7,7,7,0,LP,16,25,18,9,9
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,16,3,OK,S,0,LP,51,51,32,19,LP,19,57,6,0,6
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,16,4,OK,S,0,LP,43,43,20,23,LP,23,46,3,0,3
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,16,5,NI,S,0,LP,19,19,19,0,LP,0,33,14,0,14
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,16,6,OK,S,0,LP,12,12,6,6,LP,6,21,9,0,9
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,16,7,OK,S,0,LP,24,24,19,5,LP,5,43,19,0,19
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,16,8,OK,S,0,LP,31,31,12,19,LP,19,66,35,0,35
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,16,9,OK,S,0,LP,51,51,10,41,LP,41,61,10,0,10
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,16,10,OK,S,0,LP,40,40,4,36,ND,36,40,0,0,0
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,16,11,OK,S,0,LP,21,21,21,0,LP,26,27,6,5,1
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,16,12,OK,S,0,LP,33,33,8,25,LP,25,77,44,0,44
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,16,13,OK,S,0,LP,29,29,2,27,LP,27,55,26,0,26
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,16,14,OK,S,0,LP,37,37,37,0,LP,40,40,3,3,0
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,16,15,OK,S,0,LP,46,46,9,37,GR,37,52,6,0,6
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,16,16,OK,S,0,LP,67,67,0,67,ND,67,67,0,0,0
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,17,1,OK,S,0,LP,28,28,3,25,LP,25,42,14,0,14
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,17,2,OK,S,0,LP,16,16,3,13,LP,13,31,15,0,15
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,17,3,OK,S,0,LP,19,19,10,9,LP,9,39,20,0,20
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,17,4,OK,S,0,LP,13,13,1,12,LP,12,46,33,0,33
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,17,5,OK,S,0,LP,26,26,19,7,LP,7,50,24,0,24
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,17,6,OK,S,0,LP,14,14,14,0,LP,17,40,26,3,23
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,17,7,OK,S,0,LP,31,31,14,17,LP,17,50,19,0,19
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,17,8,OK,S,0,LP,42,42,42,0,LP,46,68,26,4,22
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,17,9,OK,S,0,LP,55,55,55,0,LP,61,74,19,6,13
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,17,10,OK,S,0,LP,32,32,9,23,LP,23,55,23,0,23
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,17,11,OK,S,0,LP,39,39,10,29,LP,29,57,18,0,18
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,17,12,OK,S,0,LP,40,40,11,29,LP,29,46,6,0,6
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,17,13,OK,S,0,LP,34,34,25,9,LP,9,39,5,0,5
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,17,14,OK,S,0,LP,53,53,53,0,LP,58,77,24,5,19
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,17,15,OK,S,0,LP,38,38,38,0,LP,59,89,51,21,30
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,17,16,OK,S,0,LP,100,100,100,0,LP,128,167,67,28,39
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,18,1,OK,S,0,LP,55,55,15,40,LP,40,73,18,0,18
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,18,2,OK,S,0,LP,36,36,5,31,LP,31,51,15,0,15
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,18,3,OK,S,0,LP,34,34,7,27,LP,27,42,8,0,8
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,18,4,OK,S,0,LP,44,44,6,38,LP,38,60,16,0,16
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,18,5,OK,S,0,LP,45,45,3,42,ND,42,45,0,0,0
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,18,6,OK,S,0,LP,31,31,0,31,ND,31,31,0,0,0
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,18,7,OK,S,0,LP,44,44,20,24,LP,24,92,48,0,48
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,18,8,OK,S,0,LP,32,32,0,32,ND,32,32,0,0,0
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,18,9,OK,S,0,LP,26,26,11,15,LP,15,32,6,0,6
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,18,10,OK,S,0,LP,53,53,14,39,ND,39,53,0,0,0
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,18,11,NI,S,0,LP,6,6,6,0,LP,0,20,14,0,14
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,18,12,NI,S,0,LP,21,21,21,0,GR,0,21,0,0,0
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,18,13,OK,S,0,LP,64,64,64,0,LP,68,90,26,4,22
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,18,14,OK,S,0,LP,48,48,14,34,LP,34,52,4,0,4
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,18,15,OK,S,0,LP,64,64,24,40,ND,40,64,0,0,0
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,18,16,OK,S,0,LP,127,127,12,115,GR,115,131,4,0,4
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,19,1,NI,S,0,LH,18,18,18,0,LH,0,58,40,0,40
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,19,2,NI,S,0,LH,37,37,37,0,LH,0,70,33,0,33
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,19,3,OK,S,0,LH,16,16,1,15,LH,15,46,30,0,30
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,19,4,OK,S,0,LH,39,39,6,33,LH,33,91,52,0,52
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,19,5,OK,S,0,LH,29,29,29,0,LH,34,80,51,5,46
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,19,6,OK,S,0,LH,28,28,3,25,LH,25,63,35,0,35
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,19,7,OK,S,0,LH,30,30,12,18,LH,18,111,81,0,81
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,19,8,NP,,,,0,0,,,,,,,,
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,19,9,OK,S,0,LH,70,70,24,46,LH,46,90,20,0,20
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,19,10,OK,S,0,LH,30,30,30,0,LH,32,98,68,2,66
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,19,11,OK,S,0,LH,12,12,12,0,LH,18,74,62,6,56
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,19,12,OK,S,0,LH,18,18,18,0,LH,32,32,14,14,0
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,19,13,OK,S,0,LH,27,27,27,0,LH,29,97,70,2,68
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,19,14,OK,S,0,LH,24,24,24,0,LH,39,61,37,15,22
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,19,15,OK,S,0,LH,55,55,6,49,LH,49,91,36,0,36
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,19,16,OK,S,0,LH,51,51,19,32,LH,32,75,24,0,24
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,20,1,OK,S,0,LP,29,29,17,12,LP,12,35,6,0,6
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,20,2,OK,S,0,LP,25,25,25,0,LP,43,64,39,18,21
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,20,3,OK,S,0,LP,48,48,17,31,LP,31,62,14,0,14
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,20,4,OK,S,0,LP,37,37,37,0,LP,49,86,49,12,37
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,20,5,OK,S,0,LP,61,61,13,48,LP,48,106,45,0,45
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,20,6,OK,S,0,LP,50,50,28,22,LP,22,54,4,0,4
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,20,7,OK,S,0,LP,67,67,22,45,ND,45,67,0,0,0
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,20,8,OK,S,0,LP,49,49,7,42,LP,42,69,20,0,20
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,20,9,OK,S,0,LP,51,51,32,19,LP,19,71,20,0,20
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,20,10,OK,S,0,LP,71,71,22,49,LP,49,72,1,0,1
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,20,11,OK,S,0,LP,54,54,28,26,LP,26,80,26,0,26
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,20,12,OK,S,0,LP,62,62,28,34,LP,34,65,3,0,3
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,20,13,OK,S,0,LP,72,72,31,41,LP,41,103,31,0,31
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,20,14,OK,S,0,LP,79,79,42,37,LP,37,82,3,0,3
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,20,15,OK,S,0,LP,37,37,3,34,LP,34,41,4,0,4
+Washington DNR Pilot Project,25 Mile,Spring2017,PRE,9/23/2016,20,16,OK,S,0,LP,60,60,15,45,LP,45,77,17,0,17
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,1,1,OK,S,0,LP,15,15,5,10,LP,10,39,24,0,24
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,1,2,OK,S,0,LP,18,18,18,0,FM,20,36,18,2,16
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,1,3,OK,S,0,LP,23,23,23,0,LP,27,42,19,4,15
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,1,4,NI,S,0,LP,16,16,16,0,LP,0,18,2,0,2
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,1,5,NI,S,0,LP,10,10,10,0,LP,0,14,4,0,4
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,1,6,NI,S,0,LP,8,8,8,0,FM,0,10,2,0,2
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,1,7,NI,S,0,LP,1,1,1,0,ND,0,6,5,0,5
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,1,8,NI,S,0,LP,25,25,25,0,LP,0,44,19,0,19
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,1,9,OK,S,0,LP,11,11,8,3,FM,3,29,18,0,18
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,1,10,NI,S,0,LP,5,5,5,0,FM,0,14,9,0,9
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,1,11,NI,S,0,LP,8,8,8,0,LP,0,10,2,0,2
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,1,12,NI,S,0,LP,3,3,3,0,FM,0,32,29,0,29
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,1,13,NI,S,0,LP,4,4,4,0,ND,0,4,0,0,0
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,1,14,OK,S,0,LP,4,4,0,4,FM,4,25,21,0,21
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,1,15,OK,S,0,LP,32,32,11,21,LP,21,46,14,0,14
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,1,16,OK,S,0,LP,20,20,20,0,LP,27,68,48,7,41
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,2,1,OK,S,0,LP,21,21,1,20,LP,20,45,24,0,24
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,2,2,NI,S,0,LP,4,4,4,0,LP,0,24,20,0,20
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,2,3,OK,S,0,LP,38,38,8,30,LP,30,62,24,0,24
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,2,4,OK,S,0,LP,19,19,17,2,LP,2,54,35,0,35
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,2,5,NI,S,0,LP,20,20,20,0,LP,0,38,18,0,18
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,2,6,OK,S,0,LP,14,14,5,9,LP,9,29,15,0,15
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,2,7,NI,S,0,LP,28,28,28,0,LP,0,53,25,0,25
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,2,8,NI,S,0,LP,19,19,19,0,LP,0,44,25,0,25
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,2,9,OK,S,0,LP,20,20,1,19,LP,19,63,43,0,43
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,2,10,OK,S,0,LP,24,24,10,14,LP,14,70,46,0,46
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,2,11,OK,S,0,LP,26,26,14,12,LP,12,52,26,0,26
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,2,12,NI,S,0,LP,11,11,11,0,LP,0,50,39,0,39
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,2,13,NI,S,0,LP,25,25,25,0,LP,0,29,4,0,4
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,2,14,NI,S,0,LP,6,6,6,0,FM,0,8,2,0,2
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,2,15,OK,S,0,NS,0,0,0,0,LP,0,24,24,0,24
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,2,16,OK,S,0,LP,8,8,7,1,LP,1,18,10,0,10
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,3,1,NI,S,0,LP,11,11,11,0,LP,0,25,14,0,14
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,3,2,NI,S,0,LP,25,25,25,0,LP,0,49,24,0,24
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,3,3,OK,S,0,LP,11,11,11,0,LP,18,28,17,7,10
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,3,4,NI,S,0,LP,12,12,12,0,LP,0,15,3,0,3
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,3,5,NI,S,0,LP,15,15,15,0,LP,0,16,1,0,1
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,3,6,NI,S,0,LP,10,10,10,0,LP,0,13,3,0,3
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,3,7,NI,S,0,LP,16,16,16,0,LP,0,36,20,0,20
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,3,8,NI,S,0,LP,7,7,7,0,LP,0,39,32,0,32
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,3,9,OK,S,0,BS,23,23,12,11,WR,11,62,39,0,39
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,3,10,OK,S,0,LP,18,18,1,17,LP,17,53,35,0,35
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,3,11,OK,S,0,LP,15,15,0,15,LP,15,36,21,0,21
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,3,12,NI,S,0,LP,5,5,5,0,LP,0,38,33,0,33
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,3,13,NI,S,0,LP,4,4,4,0,FM,0,10,6,0,6
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,3,14,NI,S,0,LP,12,12,12,0,LP,0,36,24,0,24
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,3,15,NI,S,0,LP,2,2,2,0,LP,0,23,21,0,21
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,3,16,NI,S,0,LP,21,21,21,0,LP,0,25,4,0,4
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,4,1,OK,S,0,LP,16,16,2,14,WR,14,69,53,0,53
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,4,2,OK,S,0,LP,9,9,6,3,LP,3,40,31,0,31
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,4,3,OK,S,0,LP,21,21,12,9,LP,9,65,44,0,44
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,4,4,OK,S,0,LP,28,28,7,21,WR,21,88,60,0,60
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,4,5,OK,S,0,LP,15,15,3,12,LP,12,21,6,0,6
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,4,6,OK,S,0,LP,20,20,19,1,LP,1,35,15,0,15
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,4,7,OK,S,0,LP,13,13,9,4,LP,4,40,27,0,27
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,4,8,OK,S,0,LP,32,32,14,18,LP,18,39,7,0,7
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,4,9,OK,S,0,LP,70,70,6,64,LP,64,104,34,0,34
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,4,10,OK,S,0,LP,21,21,5,16,LP,16,42,21,0,21
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,4,11,OK,S,0,LP,42,42,9,33,WR,33,81,39,0,39
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,4,12,OK,S,0,LP,19,19,19,0,LP,20,78,59,1,58
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,4,13,OK,S,0,LP,20,20,6,14,LP,14,53,33,0,33
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,4,14,OK,S,0,LP,27,27,7,20,LP,20,44,17,0,17
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,4,15,NI,S,0,LP,24,24,24,0,LP,0,48,24,0,24
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,4,16,NI,S,0,LP,18,18,18,0,LP,0,19,1,0,1
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,5,1,OK,S,0,LP,52,52,22,30,LP,30,89,37,0,37
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,5,2,OK,S,0,GR,15,15,4,11,LP,11,49,34,0,34
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,5,3,OK,W,0,LP,12,12,12,0,WR,18,133,121,6,115
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,5,4,IP,S,,LP,45,45,,,WR,,,,,
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,5,5,OK,S,0,LP,22,22,22,0,WR,24,76,54,2,52
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,5,6,OK,W,0,LP,21,21,5,16,WR,16,119,98,0,98
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,5,7,OK,S,0,LP,25,25,14,11,WR,11,84,59,0,59
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,5,8,OK,S,0,LP,33,33,33,0,LP,35,39,6,2,4
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,5,9,OK,W,0,LP,52,52,3,49,WR,49,109,57,0,57
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,5,10,OK,W,0,LP,25,25,20,5,WR,5,96,71,0,71
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,5,11,OK,S,0,LP,42,42,17,25,LP,25,73,31,0,31
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,5,12,OK,S,0,NS,0,0,0,0,WR,2,101,101,2,99
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,5,13,IP,W,,,0,0,,,,,,,,
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,5,14,OK,W,0,LP,26,26,1,25,WR,25,69,43,0,43
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,5,15,OK,W,0,LP,14,14,14,0,WR,52,100,86,38,48
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,5,16,OK,S,0,LP,14,14,14,0,LP,20,61,47,6,41
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,6,1,OK,S,0,LP,21,21,6,15,LP,15,43,22,0,22
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,6,2,OK,S,0,LP,4,4,1,3,LP,3,34,30,0,30
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,6,3,OK,S,0,LP,18,18,18,0,LP,20,49,31,2,29
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,6,4,NI,S,0,LP,5,5,5,0,LP,0,60,55,0,55
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,6,5,OK,S,0,LP,16,16,8,8,LP,8,40,24,0,24
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,6,6,OK,S,0,LP,18,18,18,0,LP,21,51,33,3,30
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,6,7,OK,S,0,LP,16,16,16,0,LP,26,50,34,10,24
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,6,8,OK,S,0,LP,22,22,0,22,LP,22,49,27,0,27
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,6,9,OK,S,0,LP,11,11,2,9,LP,9,80,69,0,69
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,6,10,OK,S,0,LP,35,35,10,25,BS,25,105,70,0,70
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,6,11,IP,,,,0,0,,,,,,,,
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,6,12,OK,S,0,LP,32,32,5,27,LP,27,106,74,0,74
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,6,13,OK,S,0,LP,26,26,26,0,WR,27,88,62,1,61
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,6,14,NI,S,0,LP,21,21,21,0,LP,0,56,35,0,35
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,6,15,OK,S,0,LP,30,30,0,30,LP,30,54,24,0,24
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,6,16,OK,S,0,LP,28,28,28,0,LP,33,50,22,5,17
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,7,1,OK,S,0,LP,25,25,25,0,FM,27,41,16,2,14
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,7,2,NI,S,0,LP,7,7,7,0,LP,0,19,12,0,12
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,7,3,NI,S,0,LP,15,15,15,0,LP,0,25,10,0,10
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,7,4,NI,S,0,LP,19,19,19,0,LP,0,24,5,0,5
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,7,5,OK,S,0,LP,22,22,6,16,LP,16,43,21,0,21
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,7,6,OK,S,0,LP,25,25,6,19,LP,19,41,16,0,16
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,7,7,OK,S,0,GR,22,22,4,18,LP,18,50,28,0,28
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,7,8,OK,S,0,GR,12,12,12,0,LP,14,41,29,2,27
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,7,9,OK,S,0,LP,15,15,15,0,FM,18,40,25,3,22
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,7,10,NI,S,0,GR,18,18,18,0,FM,0,31,13,0,13
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,7,11,NI,S,0,LP,9,9,9,0,LP,0,24,15,0,15
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,7,12,NI,S,0,GR,29,29,29,0,GR,0,43,14,0,14
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,7,13,NI,S,0,LP,15,15,15,0,LP,0,22,7,0,7
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,7,14,OK,S,0,LP,8,8,6,2,LP,2,29,21,0,21
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,7,15,NI,S,0,LP,21,21,21,0,LP,0,38,17,0,17
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,7,16,OK,S,0,LP,14,14,11,3,LP,3,25,11,0,11
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,8,1,NI,S,0,LP,13,13,5,8,LP,8,29,16,0,16
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,8,2,OK,S,0,LP,27,27,7,20,LP,20,48,21,0,21
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,8,3,OK,S,0,LP,21,21,7,14,LP,14,52,31,0,31
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,8,4,OK,S,0,LP,29,29,1,28,LP,28,99,70,0,70
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,8,5,NI,S,0,LP,25,25,25,0,GR,0,31,6,0,6
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,8,6,NI,S,0,GR,16,16,16,0,GR,0,46,30,0,30
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,8,7,OK,S,0,LP,19,19,7,12,LP,12,49,30,0,30
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,8,8,NI,S,0,LP,22,22,22,0,LP,0,28,6,0,6
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,8,9,NI,S,0,LP,24,24,24,0,LP,0,31,7,0,7
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,8,10,NI,S,0,LP,8,8,8,0,LP,0,21,13,0,13
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,8,11,OK,S,0,LP,22,22,4,18,LP,18,52,30,0,30
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,8,12,OK,W,0,LP,28,28,15,13,LP,13,61,33,0,33
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,8,13,OK,S,0,LP,35,35,30,5,LP,5,44,9,0,9
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,8,14,NI,W,0,LP,10,10,10,0,LP,0,18,8,0,8
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,8,15,NI,W,0,LP,11,11,11,0,LP,0,18,7,0,7
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,8,16,NI,S,0,LP,7,7,7,0,LP,0,31,24,0,24
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,9,1,OK,S,0,GR,17,17,3,14,FM,14,49,32,0,32
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,9,2,OK,S,0,GR,23,23,5,18,WR,18,41,18,0,18
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,9,3,OK,S,0,LP,17,17,5,12,LP,12,29,12,0,12
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,9,4,PF,S,0,LP,26,26,,,FM,,,,,
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,9,5,OK,S,0,LP,18,18,1,17,LP,17,53,35,0,35
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,9,6,NI,W,0,BS,38,38,38,0,WR,0,69,31,0,31
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,9,7,NI,W,0,BS,35,35,35,0,WR,0,73,38,0,38
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,9,8,OK,W,0,BS,34,34,34,0,WR,58,178,144,24,120
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,9,9,NI,S,0,GR,39,39,39,0,GR,0,53,14,0,14
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,9,10,NI,S,0,LP,6,6,6,0,LP,0,22,16,0,16
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,9,11,PF,S,0,LP,25,25,,,LP,,,,,
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,9,12,NI,S,0,LP,3,3,3,0,FM,0,18,15,0,15
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,9,13,OK,S,0,GR,40,40,5,35,GR,35,46,6,0,6
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,9,14,OK,S,0,LP,25,25,7,18,LP,18,29,4,0,4
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,9,15,OK,S,0,GR,32,32,12,20,LP,20,52,20,0,20
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,9,16,NP,,,,0,0,,,,,,,,
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,10,1,NI,S,0,LP,12,12,12,0,LP,0,21,9,0,9
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,10,2,NI,S,0,LP,21,21,21,0,LP,0,30,9,0,9
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,10,3,NI,S,0,LP,18,18,18,0,LP,0,28,10,0,10
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,10,4,NI,S,0,LP,4,4,4,0,LP,0,15,11,0,11
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,10,5,NI,S,0,LP,13,13,13,0,LP,0,16,3,0,3
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,10,6,NI,S,0,LP,19,19,19,0,LP,0,27,8,0,8
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,10,7,NI,S,0,LP,17,17,17,0,LP,0,20,3,0,3
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,10,8,NI,S,0,LP,22,22,22,0,LP,0,31,9,0,9
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,10,9,NI,S,0,LP,16,16,16,0,LP,0,25,9,0,9
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,10,10,NI,S,0,LP,27,27,27,0,LP,0,32,5,0,5
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,10,11,NI,S,0,LP,9,9,9,0,ND,0,9,0,0,0
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,10,12,NI,S,0,LP,21,21,21,0,ND,0,21,0,0,0
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,10,13,NI,S,0,FM,2,2,2,0,ND,0,2,0,0,0
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,10,14,NI,S,0,LP,6,6,6,0,LP,0,19,13,0,13
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,10,15,NI,S,0,LP,4,4,4,0,LP,0,16,12,0,12
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,10,16,NI,S,0,LP,11,11,11,0,LP,0,31,20,0,20
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,11,1,OK,S,0,LP,12,12,10,2,LP,2,18,6,0,6
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,11,2,NI,S,0,GR,9,9,9,0,GR,0,19,10,0,10
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,11,3,OK,S,0,LP,6,6,6,0,LP,12,40,34,6,28
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,11,4,OK,S,0,LP,13,13,9,4,LP,4,31,18,0,18
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,11,5,NI,W,0,BS,16,16,16,0,WR,0,55,39,0,39
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,11,6,NI,S,0,NS,0,0,0,0,WR,0,12,12,0,12
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,11,7,OK,S,0,LP,9,9,2,7,LP,7,18,9,0,9
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,11,8,NI,W,0,BS,23,23,23,0,LP,0,42,19,0,19
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,11,9,NI,S,0,GR,4,4,4,0,ND,0,9,5,0,5
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,11,10,NI,S,0,GR,11,11,11,0,GR,0,19,8,0,8
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,11,11,NI,S,0,GR,10,10,10,0,GR,0,26,16,0,16
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,11,12,OK,S,0,GR,14,14,12,2,GR,2,59,45,0,45
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,11,13,NI,S,0,BS,38,38,38,0,WR,0,61,23,0,23
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,11,14,NI,S,0,GR,9,9,9,0,GR,0,28,19,0,19
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,11,15,NI,S,0,BS,18,18,18,0,WR,0,42,24,0,24
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,11,16,OK,S,0,GR,10,10,5,5,GR,5,31,21,0,21
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,12,1,NI,S,0,GR,12,12,12,0,FM,0,28,16,0,16
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,12,2,NI,S,0,GR,13,13,13,0,GR,0,20,7,0,7
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,12,3,NI,S,0,LP,10,10,10,0,LP,0,41,31,0,31
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,12,4,NI,S,0,LP,15,15,15,0,GR,0,45,30,0,30
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,12,5,NI,S,0,LP,3,3,3,0,LP,0,31,28,0,28
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,12,6,NI,S,0,GR,16,16,16,0,GR,0,40,24,0,24
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,12,7,NI,S,0,LP,9,9,9,0,LP,0,52,43,0,43
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,12,8,NI,S,0,BS,14,14,14,0,BS,0,60,46,0,46
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,12,9,NI,S,0,LP,25,25,25,0,LP,0,33,8,0,8
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,12,10,OK,S,0,GR,28,28,22,6,GR,6,31,3,0,3
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,12,11,OK,S,0,GR,19,19,7,12,GR,12,39,20,0,20
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,12,12,NI,S,0,FM,20,20,20,0,FM,0,44,24,0,24
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,12,13,NI,S,0,GR,2,2,2,0,GR,0,10,8,0,8
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,12,14,NI,S,0,FM,4,4,4,0,FM,0,19,15,0,15
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,12,15,OK,S,0,FM,25,25,7,18,LP,18,62,37,0,37
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,12,16,OK,S,0,LP,12,12,2,10,LP,10,58,46,0,46
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,13,1,OK,W,0,LP,16,16,16,0,WR,19,92,76,3,73
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,13,2,OK,S,0,LP,9,9,8,1,WR,1,65,56,0,56
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,13,3,OK,S,0,LP,21,21,19,2,LP,2,28,7,0,7
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,13,4,NI,S,0,LP,9,9,9,0,FM,0,36,27,0,27
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,13,5,NI,S,0,LP,16,16,16,0,LP,0,27,11,0,11
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,13,6,NI,S,0,LP,14,14,14,0,FM,0,36,22,0,22
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,13,7,OK,S,0,LP,10,10,10,0,LP,16,37,27,6,21
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,13,8,OK,S,0,LP,14,14,5,9,LP,9,38,24,0,24
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,13,9,OK,S,0,LP,20,20,8,12,LP,12,49,29,0,29
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,13,10,OK,S,0,LP,21,21,2,19,LP,19,36,15,0,15
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,13,11,NI,S,0,LP,16,16,16,0,WR,0,28,12,0,12
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,13,12,NI,S,0,GR,9,9,9,0,FM,0,32,23,0,23
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,13,13,NI,S,0,LP,15,15,15,0,LP,0,25,10,0,10
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,13,14,NI,S,0,LP,18,18,18,0,LP,0,19,1,0,1
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,13,15,NI,S,0,LP,15,15,15,0,LP,0,22,7,0,7
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,13,16,NI,S,0,LP,10,10,10,0,LP,0,31,21,0,21
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,14,1,OK,S,0,GR,4,4,4,0,LP,14,68,64,10,54
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,14,2,NI,S,0,GR,25,25,25,0,GR,0,62,37,0,37
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,14,3,OK,S,0,GR,29,29,28,1,GR,1,55,26,0,26
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,14,4,OK,S,0,LP,35,35,31,4,LP,4,70,35,0,35
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,14,5,OK,S,0,LP,25,25,14,11,LP,11,40,15,0,15
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,14,6,OK,S,0,LP,21,21,0,21,LP,21,59,38,0,38
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,14,7,OK,S,0,LP,16,16,10,6,LP,6,68,52,0,52
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,14,8,OK,S,0,LP,21,21,3,18,LP,18,46,25,0,25
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,14,9,NI,S,0,GR,2,2,2,0,GR,0,13,11,0,11
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,14,10,NI,S,0,GR,10,10,10,0,GR,0,20,10,0,10
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,14,11,NI,S,0,GR,12,12,12,0,GR,0,25,13,0,13
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,14,12,NI,S,0,LP,9,9,9,0,LP,0,11,2,0,2
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,14,13,NI,S,0,GR,2,2,2,0,WR,0,70,68,0,68
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,14,14,OK,S,0,GR,5,5,5,0,WR,6,89,84,1,83
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,14,15,OK,S,0,GR,30,30,30,0,WR,35,133,103,5,98
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,14,16,OK,S,0,GR,11,11,11,0,GR,22,61,50,11,39
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,15,1,NI,S,0,GR,8,8,8,0,GR,0,16,8,0,8
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,15,2,NI,S,0,LP,7,7,7,0,LP,0,20,13,0,13
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,15,3,NI,S,0,GR,10,10,10,0,GR,0,17,7,0,7
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,15,4,NI,S,0,GR,3,3,3,0,WR,0,4,1,0,1
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,15,5,NI,S,0,LP,10,10,10,0,LP,0,22,12,0,12
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,15,6,NI,S,0,LP,14,14,14,0,LP,0,30,16,0,16
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,15,7,NI,S,0,LP,8,8,8,0,LP,0,24,16,0,16
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,15,8,NI,S,0,GR,14,14,14,0,GR,0,18,4,0,4
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,15,9,OK,S,0,GR,19,19,1,18,GR,18,35,16,0,16
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,15,10,NI,S,0,GR,6,6,6,0,GR,0,7,1,0,1
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,15,11,NI,S,0,LP,13,13,13,0,GR,0,20,7,0,7
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,15,12,NI,S,0,GR,15,15,15,0,GR,0,17,2,0,2
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,15,13,NI,S,0,FM,8,8,8,0,FM,0,16,8,0,8
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,15,14,NI,S,0,GR,11,11,11,0,GR,0,13,2,0,2
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,15,15,NI,S,0,GR,20,20,20,0,GR,0,21,1,0,1
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,15,16,NI,S,0,GR,10,10,10,0,GR,0,14,4,0,4
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,16,1,NI,S,0,LP,10,10,10,0,LP,0,68,58,0,58
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,16,2,NI,S,0,GR,10,10,10,0,LP,0,77,67,0,67
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,16,3,IP,,,,0,0,,,,,,,,
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,16,4,NI,W,0,BS,16,16,16,0,BS,0,66,50,0,50
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,16,5,OK,S,0,GR,21,21,4,17,GR,17,64,43,0,43
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,16,6,NI,S,0,LP,4,4,4,0,LP,0,47,43,0,43
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,16,7,NI,S,0,LP,7,7,7,0,LP,0,33,26,0,26
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,16,8,NI,S,0,GR,25,25,25,0,GR,0,39,14,0,14
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,16,9,OK,S,0,GR,12,12,4,8,LP,8,36,24,0,24
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,16,10,PF,S,0,LP,9,9,,,LP,,,,,
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,16,11,OK,S,0,GR,10,10,10,0,LP,16,59,49,6,43
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,16,12,OK,S,0,GR,37,37,23,14,GR,14,44,7,0,7
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,16,13,NI,S,0,GR,40,40,40,0,GR,0,46,6,0,6
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,16,14,NI,W,63,GR,42,-21,-21,0,FM,63,139,97,21,76
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,16,15,NP,,,,0,0,,,,,,,,
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,16,16,OK,S,0,GR,46,46,26,20,WR,20,119,73,0,73
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,17,1,OK,S,0,LP,26,26,6,20,LP,20,51,25,0,25
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,17,2,OK,S,0,LP,45,45,10,35,LP,35,68,23,0,23
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,17,3,OK,S,0,GR,34,34,14,20,GR,20,58,24,0,24
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,17,4,OK,S,0,LP,24,24,7,17,LP,17,47,23,0,23
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,17,5,OK,S,0,LP,19,19,2,17,LP,17,59,40,0,40
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,17,6,OK,W,0,LP,14,14,14,0,LP,22,35,21,8,13
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,17,7,OK,S,0,LP,21,21,21,0,WR,27,49,28,6,22
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,17,8,OK,W,0,LP,35,35,6,29,WR,29,78,43,0,43
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,17,9,OK,S,0,LP,7,7,5,2,LP,2,50,43,0,43
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,17,10,OK,S,0,LP,11,11,1,10,LP,10,19,8,0,8
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,17,11,OK,S,0,LP,20,20,8,12,LP,12,60,40,0,40
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,17,12,OK,S,0,LP,18,18,3,15,LP,15,28,10,0,10
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,17,13,IP,S,,LP,11,11,,,LP,,,,,
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,17,14,OK,S,0,LP,17,17,8,9,LP,9,22,5,0,5
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,17,15,OK,S,0,LP,29,29,29,0,LP,30,81,52,1,51
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,17,16,OK,S,0,LP,6,6,2,4,LP,4,10,4,0,4
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,18,1,OK,S,0,LP,25,25,5,20,LP,20,29,4,0,4
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,18,2,OK,S,0,LP,19,19,19,0,FM,25,44,25,6,19
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,18,3,OK,S,0,FM,30,30,9,21,FM,21,53,23,0,23
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,18,4,OK,S,0,LP,21,21,21,0,LP,29,43,22,8,14
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,18,5,OK,S,0,LP,7,7,6,1,LP,1,12,5,0,5
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,18,6,OK,S,0,LP,25,25,0,25,LP,25,49,24,0,24
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,18,7,OK,S,0,LP,22,22,22,0,LP,28,48,26,6,20
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,18,8,OK,S,0,LP,12,12,12,0,LP,18,25,13,6,7
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,18,9,OK,W,0,LP,21,21,21,0,LP,22,80,59,1,58
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,18,10,OK,S,0,LP,19,19,19,0,LP,23,84,65,4,61
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,18,11,OK,S,0,LP,24,24,24,0,LP,27,42,18,3,15
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,18,12,OK,S,0,LP,30,30,5,25,LP,25,49,19,0,19
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,18,13,OK,S,0,LP,25,25,10,15,LP,15,43,18,0,18
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,18,14,OK,S,0,LP,36,36,17,19,LP,19,40,4,0,4
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,18,15,OK,S,0,LP,24,24,10,14,LP,14,33,9,0,9
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,18,16,OK,S,0,LP,18,18,18,0,LP,22,41,23,4,19
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,19,1,NI,S,0,BS,15,15,15,0,WR,0,52,37,0,37
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,19,2,OK,S,0,BS,5,5,5,0,LP,14,41,36,9,27
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,19,3,OK,S,0,GR,19,19,11,8,GR,8,35,16,0,16
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,19,4,NI,S,0,LP,8,8,8,0,WR,0,43,35,0,35
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,19,5,NI,S,0,LP,20,20,20,0,GR,0,52,32,0,32
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,19,6,OK,S,0,LP,18,18,12,6,LP,6,41,23,0,23
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,19,7,OK,S,0,LP,20,20,16,4,LP,4,52,32,0,32
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,19,8,NI,S,0,GR,9,9,9,0,GR,0,33,24,0,24
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,19,9,OK,S,0,LP,45,45,10,35,LP,35,71,26,0,26
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,19,10,NI,S,0,LP,13,13,13,0,ND,0,13,0,0,0
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,19,11,NI,S,0,GR,17,17,17,0,GR,0,56,39,0,39
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,19,12,NI,S,0,GR,12,12,12,0,GR,0,16,4,0,4
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,19,13,OK,S,0,GR,14,14,5,9,GR,9,25,11,0,11
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,19,14,OK,S,0,GR,20,20,15,5,GR,5,41,21,0,21
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,19,15,OK,S,0,LP,20,20,16,4,LP,4,22,2,0,2
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,19,16,PF,S,0,GR,41,41,,,GR,,,,,
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,20,1,OK,S,0,LP,4,4,4,0,LP,10,35,31,6,25
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,20,2,NI,S,0,LP,9,9,9,0,LP,0,40,31,0,31
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,20,3,OK,S,0,LP,35,35,33,2,WR,2,59,24,0,24
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,20,4,OK,S,0,LP,23,23,14,9,LP,9,66,43,0,43
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,20,5,OK,S,0,LP,19,19,19,0,LP,20,53,34,1,33
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,20,6,NI,S,0,LP,22,22,22,0,LP,0,51,29,0,29
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,20,7,NI,S,0,LP,20,20,20,0,GR,0,40,20,0,20
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,20,8,NI,S,0,LP,16,16,16,0,LP,0,37,21,0,21
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,20,9,OK,W,0,LP,31,31,17,14,LP,14,70,39,0,39
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,20,10,OK,W,0,LP,32,32,11,21,LP,21,76,44,0,44
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,20,11,OK,S,0,LP,35,35,16,19,LP,19,51,16,0,16
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,20,12,NI,S,0,LP,11,11,11,0,LP,0,71,60,0,60
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,20,13,NI,W,0,LP,19,19,19,0,LP,0,78,59,0,59
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,20,14,OK,W,0,LP,21,21,21,0,LP,49,111,90,28,62
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,20,15,OK,W,0,LP,8,8,8,0,LP,20,66,58,12,46
+Washington DNR Pilot Project,Sherman Creek,Spring2017,PRE,8/22/2016,20,16,NI,S,0,LP,9,9,9,0,LP,0,19,10,0,10

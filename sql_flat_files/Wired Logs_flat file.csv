@@ -1,0 +1,282 @@
+projectName,unitName,epShort,samplingStartDate,plot,scientificName,decayClassID,onGround,logLength,logCircumferencePre,logCircumferencePost,wirePulledDesc
+Washington DNR Pilot Project,25 Mile,POST,2-Jun-17,1,Pinus ponderosa,2,0,--,284,265,"Ignited, partial consumption"
+Washington DNR Pilot Project,25 Mile,POST,2-Jun-17,1,Pinus ponderosa,3,0,--,986,947,"Ignited, partial consumption"
+Washington DNR Pilot Project,25 Mile,POST,2-Jun-17,1,Unknown species,3,1,--,647,647,"Ignited, no consumption"
+Washington DNR Pilot Project,25 Mile,POST,2-Jun-17,3,Pinus ponderosa,3,0,--,791,0,Total consumption
+Washington DNR Pilot Project,25 Mile,POST,2-Jun-17,4,Pinus ponderosa,4,1,--,1058,0,Total consumption
+Washington DNR Pilot Project,25 Mile,POST,2-Jun-17,5,Pseudotsuga menziesii,3,1,--,837,828,"Ignited, partial consumption"
+Washington DNR Pilot Project,25 Mile,POST,2-Jun-17,6,Pinus ponderosa,2,0,--,499,499,"Ignited, no consumption"
+Washington DNR Pilot Project,25 Mile,POST,2-Jun-17,7,Pseudotsuga menziesii,3,1,--,675,127,"Ignited, partial consumption"
+Washington DNR Pilot Project,25 Mile,POST,2-Jun-17,8,Unknown species,3,0,--,528,466,"Ignited, partial consumption"
+Washington DNR Pilot Project,25 Mile,POST,2-Jun-17,10,Pinus ponderosa,4,1,--,516,516,"Ignited, no consumption"
+Washington DNR Pilot Project,25 Mile,POST,2-Jun-17,10,Unknown species,4,1,--,744,744,"Ignited, no consumption"
+Washington DNR Pilot Project,25 Mile,POST,2-Jun-17,12,Pinus ponderosa,3,0,--,355,346,"Ignited, partial consumption"
+Washington DNR Pilot Project,25 Mile,POST,2-Jun-17,13,Unknown species,4,0,--,609,609,"Ignited, no consumption"
+Washington DNR Pilot Project,25 Mile,POST,2-Jun-17,14,Pinus ponderosa,1,0,--,383,363,"Ignited, partial consumption"
+Washington DNR Pilot Project,25 Mile,POST,2-Jun-17,15,Pinus ponderosa,2,0,--,310,276,"Ignited, partial consumption"
+Washington DNR Pilot Project,25 Mile,POST,2-Jun-17,16,Pinus ponderosa,3,1,--,620,620,"Ignited, no consumption"
+Washington DNR Pilot Project,25 Mile,POST,2-Jun-17,17,Pinus ponderosa,3,1,--,369,317,"Ignited, partial consumption"
+Washington DNR Pilot Project,25 Mile,POST,2-Jun-17,19,Pinus ponderosa,4,1,--,657,657,"Ignited, no consumption"
+Washington DNR Pilot Project,25 Mile,POST,2-Jun-17,19,Pinus ponderosa,3,0,--,412,334,"Ignited, partial consumption"
+Washington DNR Pilot Project,25 Mile,POST,2-Jun-17,20,Pinus ponderosa,3,0,--,501,380,"Ignited, partial consumption"
+Washington DNR Pilot Project,Angel,PRE,20-Sep-16,1,Abies grandis,3,0,52,381,366,"Ignited, partial consumption"
+Washington DNR Pilot Project,Angel,PRE,20-Sep-16,3,Pinus ponderosa,3,1,35,891,551,"Ignited, partial consumption"
+Washington DNR Pilot Project,Angel,PRE,20-Sep-16,3,Pinus ponderosa,2,0,26,662,572,"Ignited, partial consumption"
+Washington DNR Pilot Project,Angel,PRE,20-Sep-16,4,Abies grandis,3,0,37,696,0,Total consumption
+Washington DNR Pilot Project,Angel,PRE,20-Sep-16,7,Pseudotsuga menziesii,4,0,35,575,568,"Ignited, partial consumption"
+Washington DNR Pilot Project,Angel,PRE,20-Sep-16,8,Unknown species,5,1,21,700,0,Total consumption
+Washington DNR Pilot Project,Angel,PRE,20-Sep-16,10,Unknown species,5,0,14,551,0,Total consumption
+Washington DNR Pilot Project,Angel,PRE,20-Sep-16,11,Abies grandis,5,1,18,403,0,Total consumption
+Washington DNR Pilot Project,Angel,PRE,20-Sep-16,11,Abies grandis,2,0,62,534,529,"Ignited, partial consumption"
+Washington DNR Pilot Project,Angel,PRE,20-Sep-16,11,Pseudotsuga menziesii,3,0,81,601,431,"Ignited, partial consumption"
+Washington DNR Pilot Project,Angel,PRE,20-Sep-16,12,Abies grandis,4,1,26,836,0,Total consumption
+Washington DNR Pilot Project,Angel,PRE,20-Sep-16,13,Larix occidentalis,2,0,54.5,431,302,"Ignited, partial consumption"
+Washington DNR Pilot Project,Angel,PRE,20-Sep-16,13,Pinus ponderosa,4,1,74,941,196,"Ignited, partial consumption"
+Washington DNR Pilot Project,Angel,PRE,20-Sep-16,14,Pinus ponderosa,1,0,80,968,0,Total consumption
+Washington DNR Pilot Project,Angel,PRE,20-Sep-16,14,Pinus ponderosa,2,0,29,1199,918,"Ignited, partial consumption"
+Washington DNR Pilot Project,Angel,PRE,20-Sep-16,15,Abies grandis,3,1,59.5,678,0,Total consumption
+Washington DNR Pilot Project,Angel,PRE,20-Sep-16,15,Unknown species,3,1,46,389,297,"Ignited, partial consumption"
+Washington DNR Pilot Project,Angel,PRE,20-Sep-16,17,Pseudotsuga menziesii,3,0,43,680,0,Total consumption
+Washington DNR Pilot Project,Angel,PRE,20-Sep-16,17,Unknown species,4,1,10,821,0,Total consumption
+Washington DNR Pilot Project,Angel,PRE,20-Sep-16,19,Unknown species,5,1,63,671,533,"Ignited, partial consumption"
+Washington DNR Pilot Project,Chumstick ZUI,PRE,12-Sep-16,1,Pseudotsuga menziesii,4,1,55,336,0,Total consumption
+Washington DNR Pilot Project,Chumstick ZUI,PRE,12-Sep-16,2,Pinus ponderosa,3,1,12,321,241,"Ignited, partial consumption"
+Washington DNR Pilot Project,Chumstick ZUI,PRE,12-Sep-16,2,Pinus ponderosa,3,1,47.6,492,0,Total consumption
+Washington DNR Pilot Project,Chumstick ZUI,PRE,12-Sep-16,3,Pinus ponderosa,4,1,62.1,859,431,"Ignited, partial consumption"
+Washington DNR Pilot Project,Chumstick ZUI,PRE,12-Sep-16,3,Pinus ponderosa,4,1,66.2,530,0,Total consumption
+Washington DNR Pilot Project,Chumstick ZUI,PRE,12-Sep-16,3,Pinus ponderosa,4,1,47.7,654,0,Total consumption
+Washington DNR Pilot Project,Chumstick ZUI,PRE,12-Sep-16,3,Pinus ponderosa,4,1,63.4,580,0,Total consumption
+Washington DNR Pilot Project,Chumstick ZUI,PRE,12-Sep-16,5,Unknown species,4,1,44.9,390,0,Total consumption
+Washington DNR Pilot Project,Chumstick ZUI,PRE,12-Sep-16,5,Unknown species,3,1,33.3,311,261,"Ignited, partial consumption"
+Washington DNR Pilot Project,Chumstick ZUI,PRE,12-Sep-16,6,Pinus ponderosa,2,1,63.1,728,562,"Ignited, partial consumption"
+Washington DNR Pilot Project,Chumstick ZUI,PRE,12-Sep-16,7,Pinus ponderosa,3,0,37.8,381,0,Total consumption
+Washington DNR Pilot Project,Chumstick ZUI,PRE,12-Sep-16,13,Pinus ponderosa,2,1,51.2,991,0,Total consumption
+Washington DNR Pilot Project,Chumstick ZUI,PRE,12-Sep-16,13,Pseudotsuga menziesii,3,1,69,530,0,Total consumption
+Washington DNR Pilot Project,Chumstick ZUI,PRE,12-Sep-16,14,Pseudotsuga menziesii,3,0,43.2,498,375,"Ignited, partial consumption"
+Washington DNR Pilot Project,Chumstick ZUI,PRE,12-Sep-16,15,Pinus ponderosa,2,1,28.2,612,480,"Ignited, partial consumption"
+Washington DNR Pilot Project,Chumstick ZUI,PRE,12-Sep-16,16,Pseudotsuga menziesii,3,1,39.9,579,579,"Ignited, no consumption"
+Washington DNR Pilot Project,Chumstick ZUI,PRE,12-Sep-16,17,Pinus ponderosa,2,0,30.6,351,133,"Ignited, partial consumption"
+Washington DNR Pilot Project,Chumstick ZUI,PRE,12-Sep-16,17,Pseudotsuga menziesii,2,0,21.1,291,291,"Ignited, no consumption"
+Washington DNR Pilot Project,Chumstick ZUI,PRE,12-Sep-16,18,Pinus ponderosa,2,1,34.2,462,462,"Ignited, no consumption"
+Washington DNR Pilot Project,Chumstick ZUI,PRE,12-Sep-16,19,Pinus ponderosa,4,1,37.1,706,602,"Ignited, partial consumption"
+Washington DNR Pilot Project,Orion 2,PRE,10-Sep-16,2,Unknown species,3,0,64.5,789,709,"Ignited, partial consumption"
+Washington DNR Pilot Project,Orion 2,PRE,10-Sep-16,2,Unknown species,2,0,13,975,689,"Ignited, partial consumption"
+Washington DNR Pilot Project,Orion 2,PRE,10-Sep-16,3,Unknown species,1,0,47,307,307,"Ignited, no consumption"
+Washington DNR Pilot Project,Orion 2,PRE,10-Sep-16,3,Unknown species,4,1,51.5,421,0,Total consumption
+Washington DNR Pilot Project,Orion 2,PRE,10-Sep-16,4,Unknown species,4,1,53,444,0,Total consumption
+Washington DNR Pilot Project,Orion 2,PRE,10-Sep-16,5,Unknown species,4,0,73,511,501,"Ignited, partial consumption"
+Washington DNR Pilot Project,Orion 2,PRE,10-Sep-16,5,Unknown species,1,0,19,865,825,"Ignited, partial consumption"
+Washington DNR Pilot Project,Orion 2,PRE,10-Sep-16,5,Unknown species,3,1,51,433,433,"Ignited, no consumption"
+Washington DNR Pilot Project,Orion 2,PRE,10-Sep-16,5,Unknown species,1,1,71,709,634,"Ignited, partial consumption"
+Washington DNR Pilot Project,Orion 2,PRE,10-Sep-16,7,Unknown species,4,1,58,657,287,"Ignited, partial consumption"
+Washington DNR Pilot Project,Orion 2,PRE,10-Sep-16,7,Unknown species,3,0,63.5,566,0,Total consumption
+Washington DNR Pilot Project,Orion 2,PRE,10-Sep-16,8,Unknown species,2,0,41,473,0,Total consumption
+Washington DNR Pilot Project,Orion 2,PRE,10-Sep-16,8,Unknown species,4,1,31,495,0,Total consumption
+Washington DNR Pilot Project,Orion 2,PRE,10-Sep-16,9,Unknown species,3,0,66,494,494,"Ignited, no consumption"
+Washington DNR Pilot Project,Orion 2,PRE,10-Sep-16,11,Unknown species,2,0,63.3,487,0,Total consumption
+Washington DNR Pilot Project,Orion 2,PRE,10-Sep-16,11,Unknown species,4,1,6,396,0,Total consumption
+Washington DNR Pilot Project,Orion 2,PRE,10-Sep-16,13,Unknown species,3,1,63,774,538,"Ignited, partial consumption"
+Washington DNR Pilot Project,Orion 2,PRE,10-Sep-16,14,Unknown species,5,1,43,886,0,Total consumption
+Washington DNR Pilot Project,Orion 2,PRE,10-Sep-16,16,Unknown species,4,1,53,418,0,Total consumption
+Washington DNR Pilot Project,Orion 2,PRE,10-Sep-16,18,Unknown species,3,0,67,295,295,"Ignited, no consumption"
+Washington DNR Pilot Project,Paradise 90,PRE,17-Aug-16,1,Pinus contorta var. latifolia,3,0,35.3,552,521,"Ignited, partial consumption"
+Washington DNR Pilot Project,Paradise 90,PRE,17-Aug-16,2,Pinus contorta var. latifolia,3,1,40.6,638,579,"Ignited, partial consumption"
+Washington DNR Pilot Project,Paradise 90,PRE,17-Aug-16,3,Pseudotsuga menziesii,3,1,28.7,775,652,"Ignited, partial consumption"
+Washington DNR Pilot Project,Paradise 90,PRE,17-Aug-16,4,Pseudotsuga menziesii,4,0,34.2,811,610,"Ignited, partial consumption"
+Washington DNR Pilot Project,Paradise 90,PRE,17-Aug-16,5,Pseudotsuga menziesii,4,1,17,318,0,Total consumption
+Washington DNR Pilot Project,Paradise 90,PRE,17-Aug-16,6,Pinus ponderosa,2,0,56.7,969,969,"Ignited, no consumption"
+Washington DNR Pilot Project,Paradise 90,PRE,17-Aug-16,7,Pinus ponderosa,4,1,14.2,711,400,"Ignited, partial consumption"
+Washington DNR Pilot Project,Paradise 90,PRE,17-Aug-16,8,Pseudotsuga menziesii,3,0,19.7,421,411,"Ignited, partial consumption"
+Washington DNR Pilot Project,Paradise 90,PRE,17-Aug-16,9,Larix occidentalis,2,1,33.9,396,396,"Ignited, no consumption"
+Washington DNR Pilot Project,Paradise 90,PRE,17-Aug-16,10,Pinus ponderosa,2,0,30.7,606,606,"Ignited, no consumption"
+Washington DNR Pilot Project,Paradise 90,PRE,17-Aug-16,11,Pseudotsuga menziesii,3,1,21.8,477,477,"Ignited, no consumption"
+Washington DNR Pilot Project,Paradise 90,PRE,17-Aug-16,12,Pseudotsuga menziesii,3,1,6.5,456,456,"Ignited, no consumption"
+Washington DNR Pilot Project,Paradise 90,PRE,17-Aug-16,13,Pinus ponderosa,3,1,23.9,551,449,"Ignited, partial consumption"
+Washington DNR Pilot Project,Paradise 90,PRE,17-Aug-16,14,Pseudotsuga menziesii,4,1,28,864,215,"Ignited, partial consumption"
+Washington DNR Pilot Project,Paradise 90,PRE,17-Aug-16,15,Pinus ponderosa,3,0,25.4,761,195,"Ignited, partial consumption"
+Washington DNR Pilot Project,Paradise 90,PRE,17-Aug-16,16,Pinus ponderosa,5,1,34.8,542,0,Total consumption
+Washington DNR Pilot Project,Paradise 90,PRE,17-Aug-16,17,Pinus ponderosa,2,0,16.6,508,455,"Ignited, partial consumption"
+Washington DNR Pilot Project,Paradise 90,PRE,17-Aug-16,18,Pinus ponderosa,3,1,27.4,674,674,"Ignited, no consumption"
+Washington DNR Pilot Project,Paradise 90,PRE,17-Aug-16,19,Pinus ponderosa,4,1,34.7,514,124,"Ignited, partial consumption"
+Washington DNR Pilot Project,Paradise 90,PRE,17-Aug-16,20,Pseudotsuga menziesii,2,0,63.5,529,529,"Ignited, no consumption"
+Washington DNR Pilot Project,Sherman Creek,PRE,22-Aug-16,20,Pinus ponderosa,3,0,51.7,567,567,"Ignited, no consumption"
+Washington DNR Pilot Project,Sherman Creek,PRE,22-Aug-16,20,Pinus ponderosa,4,1,37.4,501,501,"Ignited, no consumption"
+Washington DNR Pilot Project,Sherman Creek,PRE,22-Aug-16,19,Pinus ponderosa,2,1,87.4,844,801,"Ignited, partial consumption"
+Washington DNR Pilot Project,Sherman Creek,PRE,22-Aug-16,18,Pinus ponderosa,3,1,23.3,608,608,"Ignited, no consumption"
+Washington DNR Pilot Project,Sherman Creek,PRE,22-Aug-16,17,Pinus ponderosa,4,1,50.9,612,612,"Ignited, no consumption"
+Washington DNR Pilot Project,Sherman Creek,PRE,22-Aug-16,17,Pinus ponderosa,5,1,18.6,361,361,"Ignited, no consumption"
+Washington DNR Pilot Project,Sherman Creek,PRE,22-Aug-16,16,Pinus ponderosa,3,1,15.5,864,864,"Ignited, no consumption"
+Washington DNR Pilot Project,Sherman Creek,PRE,22-Aug-16,16,Pinus ponderosa,2,0,86.2,560,550,"Ignited, partial consumption"
+Washington DNR Pilot Project,Sherman Creek,PRE,22-Aug-16,15,Pinus ponderosa,2,1,90,676,676,"Ignited, no consumption"
+Washington DNR Pilot Project,Sherman Creek,PRE,22-Aug-16,6,Unknown species,4,0,59.7,321,321,"Ignited, no consumption"
+Washington DNR Pilot Project,Sherman Creek,PRE,22-Aug-16,6,Unknown species,5,1,24.5,607,607,"Ignited, no consumption"
+Washington DNR Pilot Project,Sherman Creek,PRE,22-Aug-16,4,Pinus ponderosa,2,0,74.2,1013,1013,"Ignited, no consumption"
+Washington DNR Pilot Project,Sherman Creek,PRE,22-Aug-16,9,Pinus ponderosa,3,0,30.6,295,295,"Ignited, no consumption"
+Washington DNR Pilot Project,Sherman Creek,PRE,22-Aug-16,2,Pinus ponderosa,2,0,84.4,816,795,"Ignited, partial consumption"
+Washington DNR Pilot Project,Sherman Creek,PRE,22-Aug-16,9,Unknown species,4,1,47.5,655,655,"Ignited, no consumption"
+Washington DNR Pilot Project,Sherman Creek,PRE,22-Aug-16,1,Pinus ponderosa,3,1,45.7,273,273,"Ignited, no consumption"
+Washington DNR Pilot Project,Sherman Creek,PRE,22-Aug-16,1,Pinus ponderosa,3,0,55.5,521,521,"Ignited, no consumption"
+Washington DNR Pilot Project,Sherman Creek,PRE,22-Aug-16,1,Pinus ponderosa,3,0,90.3,278,278,"Ignited, no consumption"
+Washington DNR Pilot Project,Sherman Creek,PRE,22-Aug-16,11,Pinus ponderosa,3,1,63.5,402,402,"Ignited, no consumption"
+Washington DNR Pilot Project,Sherman Creek,PRE,22-Aug-16,12,Pinus ponderosa,3,0,43.5,328,313,"Ignited, partial consumption"
+Washington DNR Pilot Project,8 Mile Bottom,PRE,11-Sep-16,1,Pinus ponderosa,2,1,--,--,--,--
+Washington DNR Pilot Project,8 Mile Bottom,PRE,11-Sep-16,2,Pinus ponderosa,3,1,--,--,--,--
+Washington DNR Pilot Project,8 Mile Bottom,PRE,11-Sep-16,3,Pinus ponderosa,3,0,--,--,--,--
+Washington DNR Pilot Project,8 Mile Bottom,PRE,11-Sep-16,4,Unknown species,4,1,--,--,--,--
+Washington DNR Pilot Project,8 Mile Bottom,PRE,11-Sep-16,5,Pinus ponderosa,3,1,--,--,--,--
+Washington DNR Pilot Project,8 Mile Bottom,PRE,11-Sep-16,6,Pinus ponderosa,2,0,--,--,--,--
+Washington DNR Pilot Project,8 Mile Bottom,PRE,11-Sep-16,8,Pinus ponderosa,4,1,--,--,--,--
+Washington DNR Pilot Project,8 Mile Bottom,PRE,11-Sep-16,7,Pinus ponderosa,4,1,--,--,--,--
+Washington DNR Pilot Project,8 Mile Bottom,PRE,11-Sep-16,8,Unknown species,5,1,--,--,--,--
+Washington DNR Pilot Project,8 Mile Bottom,PRE,11-Sep-16,18,Unknown species,5,1,--,--,--,--
+Washington DNR Pilot Project,8 Mile Bottom,PRE,11-Sep-16,10,Pinus ponderosa,3,0,--,--,--,--
+Washington DNR Pilot Project,8 Mile Bottom,PRE,11-Sep-16,10,Pinus ponderosa,3,1,--,--,--,--
+Washington DNR Pilot Project,8 Mile Bottom,PRE,11-Sep-16,16,Unknown species,3,0,--,--,--,--
+Washington DNR Pilot Project,8 Mile Bottom,PRE,11-Sep-16,15,Unknown species,4,1,--,--,--,--
+Washington DNR Pilot Project,8 Mile Bottom,PRE,11-Sep-16,14,Pinus ponderosa,3,0,--,--,--,--
+Washington DNR Pilot Project,8 Mile Bottom,PRE,11-Sep-16,14,Unknown species,4,1,--,--,--,--
+Washington DNR Pilot Project,8 Mile Bottom,PRE,11-Sep-16,20,Unknown species,4,1,--,--,--,--
+Washington DNR Pilot Project,8 Mile Bottom,PRE,11-Sep-16,19,Unknown species,4,1,--,--,--,--
+Washington DNR Pilot Project,8 Mile Bottom,PRE,11-Sep-16,11,Pinus ponderosa,3,1,--,--,--,--
+Washington DNR Pilot Project,8 Mile Bottom,PRE,11-Sep-16,12,Pinus ponderosa,3,0,--,--,--,--
+Washington DNR Pilot Project,Canteen,PRE,7-Aug-16,1,Pseudotsuga menziesii,3,1,--,--,--,--
+Washington DNR Pilot Project,Canteen,PRE,7-Aug-16,1,Pseudotsuga menziesii,3,0,--,--,--,--
+Washington DNR Pilot Project,Canteen,PRE,7-Aug-16,1,Pseudotsuga menziesii,3,1,--,--,--,--
+Washington DNR Pilot Project,Canteen,PRE,7-Aug-16,2,Pseudotsuga menziesii,4,1,--,--,--,--
+Washington DNR Pilot Project,Canteen,PRE,7-Aug-16,4,Unknown species,3,1,--,--,--,--
+Washington DNR Pilot Project,Canteen,PRE,7-Aug-16,5,Pseudotsuga menziesii,2,0,--,--,--,--
+Washington DNR Pilot Project,Canteen,PRE,7-Aug-16,15,Pinus ponderosa,3,1,--,--,--,--
+Washington DNR Pilot Project,Canteen,PRE,7-Aug-16,15,Pinus ponderosa,3,1,--,--,--,--
+Washington DNR Pilot Project,Canteen,PRE,7-Aug-16,19,Pseudotsuga menziesii,3,1,--,--,--,--
+Washington DNR Pilot Project,Canteen,PRE,7-Aug-16,18,Pseudotsuga menziesii,4,0,--,--,--,--
+Washington DNR Pilot Project,Canteen,PRE,7-Aug-16,18,Pseudotsuga menziesii,4,0,--,--,--,--
+Washington DNR Pilot Project,Canteen,PRE,7-Aug-16,12,Unknown species,4,1,--,--,--,--
+Washington DNR Pilot Project,Canteen,PRE,7-Aug-16,19,Pinus ponderosa,3,0,--,--,--,--
+Washington DNR Pilot Project,Canteen,PRE,7-Aug-16,19,Unknown species,4,1,--,--,--,--
+Washington DNR Pilot Project,Canteen,PRE,7-Aug-16,18,Unknown species,4,1,--,--,--,--
+Washington DNR Pilot Project,Canteen,PRE,7-Aug-16,20,Unknown species,3,0,--,--,--,--
+Washington DNR Pilot Project,Canteen,PRE,7-Aug-16,11,Pseudotsuga menziesii,3,1,--,--,--,--
+Washington DNR Pilot Project,Canteen,PRE,7-Aug-16,11,Pinus ponderosa,3,0,--,--,--,--
+Washington DNR Pilot Project,Canteen,PRE,7-Aug-16,9,Unknown species,4,1,--,--,--,--
+Washington DNR Pilot Project,Canteen,PRE,7-Aug-16,9,Unknown species,4,1,--,--,--,--
+Washington DNR Pilot Project,Goat,PRE,9-Sep-16,11,Pinus ponderosa,3,0,--,--,--,--
+Washington DNR Pilot Project,Goat,PRE,9-Sep-16,11,Pseudotsuga menziesii,3,1,--,--,--,--
+Washington DNR Pilot Project,Goat,PRE,9-Sep-16,5,Pseudotsuga menziesii,3,0,--,--,--,--
+Washington DNR Pilot Project,Goat,PRE,9-Sep-16,4,Pinus ponderosa,2,0,--,--,--,--
+Washington DNR Pilot Project,Goat,PRE,9-Sep-16,3,Pinus ponderosa,3,1,--,--,--,--
+Washington DNR Pilot Project,Goat,PRE,9-Sep-16,2,Pseudotsuga menziesii,2,0,--,--,--,--
+Washington DNR Pilot Project,Goat,PRE,9-Sep-16,9,Pinus ponderosa,2,0,--,--,--,--
+Washington DNR Pilot Project,Goat,PRE,9-Sep-16,15,Pinus ponderosa,2,0,--,--,--,--
+Washington DNR Pilot Project,Goat,PRE,9-Sep-16,15,Unknown species,4,1,--,--,--,--
+Washington DNR Pilot Project,Goat,PRE,9-Sep-16,17,Unknown species,5,1,--,--,--,--
+Washington DNR Pilot Project,Goat,PRE,9-Sep-16,20,Pinus ponderosa,4,1,--,--,--,--
+Washington DNR Pilot Project,Goat,PRE,9-Sep-16,20,Pseudotsuga menziesii,4,0,--,--,--,--
+Washington DNR Pilot Project,Goat,PRE,9-Sep-16,19,Pseudotsuga menziesii,3,0,--,--,--,--
+Washington DNR Pilot Project,Goat,PRE,9-Sep-16,1,Pinus ponderosa,2,0,--,--,--,--
+Washington DNR Pilot Project,Goat,PRE,9-Sep-16,7,Pinus ponderosa,2,1,--,--,--,--
+Washington DNR Pilot Project,Goat,PRE,9-Sep-16,8,Pseudotsuga menziesii,3,1,--,--,--,--
+Washington DNR Pilot Project,Goat,PRE,9-Sep-16,9,Unknown species,4,1,--,--,--,--
+Washington DNR Pilot Project,Goat,PRE,9-Sep-16,5,Unknown species,4,1,--,--,--,--
+Washington DNR Pilot Project,Goat,PRE,9-Sep-16,6,Pinus ponderosa,2,1,--,--,--,--
+Washington DNR Pilot Project,Goat,PRE,9-Sep-16,10,Pseudotsuga menziesii,2,1,--,--,--,--
+Washington DNR Pilot Project,Hanlon,PRE,21-Aug-16,20,Pseudotsuga menziesii,2,0,--,429,429,No consumption
+Washington DNR Pilot Project,Hanlon,PRE,21-Aug-16,8,Pseudotsuga menziesii,3,0,--,531,531,No consumption
+Washington DNR Pilot Project,Hanlon,PRE,21-Aug-16,8,Unknown species,4,1,--,531,531,No consumption
+Washington DNR Pilot Project,Hanlon,PRE,21-Aug-16,18,Unknown species,4,1,--,632,632,No consumption
+Washington DNR Pilot Project,Hanlon,PRE,21-Aug-16,13,Pseudotsuga menziesii,4,0,--,321,321,No consumption
+Washington DNR Pilot Project,Hanlon,PRE,21-Aug-16,13,Unknown species,3,0,--,313,313,No consumption
+Washington DNR Pilot Project,Hanlon,PRE,21-Aug-16,12,Pseudotsuga menziesii,5,1,--,1316,966,"Ignited, partial consumption"
+Washington DNR Pilot Project,Hanlon,PRE,21-Aug-16,11,Pseudotsuga menziesii,3,0,--,1038,958,"Ignited, partial consumption"
+Washington DNR Pilot Project,Hanlon,PRE,21-Aug-16,7,Pseudotsuga menziesii,3,0,--,421,421,No consumption
+Washington DNR Pilot Project,Hanlon,PRE,21-Aug-16,7,Pseudotsuga menziesii,3,0,--,422,422,No consumption
+Washington DNR Pilot Project,Hanlon,PRE,21-Aug-16,1,Pseudotsuga menziesii,3,1,--,431,431,No consumption
+Washington DNR Pilot Project,Hanlon,PRE,21-Aug-16,2,Pseudotsuga menziesii,3,0,--,478,478,No consumption
+Washington DNR Pilot Project,Hanlon,PRE,21-Aug-16,17,Pseudotsuga menziesii,3,0,--,395,395,No consumption
+Washington DNR Pilot Project,Hanlon,PRE,21-Aug-16,17,Pseudotsuga menziesii,4,1,--,314,314,No consumption
+Washington DNR Pilot Project,Hanlon,PRE,21-Aug-16,3,Pseudotsuga menziesii,4,1,--,391,391,No consumption
+Washington DNR Pilot Project,Hanlon,PRE,21-Aug-16,2,Pseudotsuga menziesii,4,1,--,311,311,No consumption
+Washington DNR Pilot Project,Hanlon,PRE,21-Aug-16,1,Pseudotsuga menziesii,3,0,--,466,466,No consumption
+Washington DNR Pilot Project,Hanlon,PRE,21-Aug-16,4,Pseudotsuga menziesii,3,1,--,306,306,No consumption
+Washington DNR Pilot Project,Hanlon,PRE,21-Aug-16,5,Pseudotsuga menziesii,3,1,--,479,479,No consumption
+Washington DNR Pilot Project,Hanlon,PRE,21-Aug-16,4,Pseudotsuga menziesii,3,1,--,1126,1126,No consumption
+Washington DNR Pilot Project,Natapoc 35,PRE,6-Oct-16,12,Pseudotsuga menziesii,3,1,--,--,--,--
+Washington DNR Pilot Project,Natapoc 35,PRE,6-Oct-16,13,Pseudotsuga menziesii,3,0,--,--,--,--
+Washington DNR Pilot Project,Natapoc 35,PRE,6-Oct-16,14,Unknown species,4,0,--,--,--,--
+Washington DNR Pilot Project,Natapoc 35,PRE,6-Oct-16,15,Pseudotsuga menziesii,4,1,--,--,--,--
+Washington DNR Pilot Project,Natapoc 35,PRE,6-Oct-16,15,Pseudotsuga menziesii,3,0,--,--,--,--
+Washington DNR Pilot Project,Natapoc 35,PRE,6-Oct-16,16,Pseudotsuga menziesii,3,0,--,--,--,--
+Washington DNR Pilot Project,Natapoc 35,PRE,6-Oct-16,16,Pseudotsuga menziesii,3,1,--,--,--,--
+Washington DNR Pilot Project,Natapoc 35,PRE,6-Oct-16,17,Pseudotsuga menziesii,5,0,--,--,--,--
+Washington DNR Pilot Project,Natapoc 35,PRE,6-Oct-16,18,Unknown species,3,0,--,--,--,--
+Washington DNR Pilot Project,Natapoc 35,PRE,6-Oct-16,18,Pseudotsuga menziesii,3,0,--,--,--,--
+Washington DNR Pilot Project,Natapoc 35,PRE,6-Oct-16,20,Pseudotsuga menziesii,4,0,--,--,--,--
+Washington DNR Pilot Project,Natapoc 35,PRE,6-Oct-16,3,Pseudotsuga menziesii,3,0,--,--,--,--
+Washington DNR Pilot Project,Natapoc 35,PRE,6-Oct-16,2,Pseudotsuga menziesii,2,1,--,--,--,--
+Washington DNR Pilot Project,Natapoc 35,PRE,6-Oct-16,6,Pseudotsuga menziesii,2,1,--,--,--,--
+Washington DNR Pilot Project,Natapoc 35,PRE,6-Oct-16,7,Pseudotsuga menziesii,3,0,--,--,--,--
+Washington DNR Pilot Project,Natapoc 35,PRE,6-Oct-16,7,Pseudotsuga menziesii,3,0,--,--,--,--
+Washington DNR Pilot Project,Natapoc 35,PRE,6-Oct-16,8,Pseudotsuga menziesii,3,1,--,--,--,--
+Washington DNR Pilot Project,Natapoc 35,PRE,6-Oct-16,9,Pseudotsuga menziesii,3,0,--,--,--,--
+Washington DNR Pilot Project,Natapoc 35,PRE,6-Oct-16,10,Pseudotsuga menziesii,2,0,--,--,--,--
+Washington DNR Pilot Project,Natapoc 35,PRE,6-Oct-16,10,Pseudotsuga menziesii,2,1,--,--,--,--
+Washington DNR Pilot Project,Oak Creek,PRE,5-Aug-16,1,Abies grandis,3,0,--,--,--,--
+Washington DNR Pilot Project,Oak Creek,PRE,5-Aug-16,2,Abies grandis,4,0,--,--,--,--
+Washington DNR Pilot Project,Oak Creek,PRE,5-Aug-16,3,Pinus ponderosa,4,1,--,--,--,--
+Washington DNR Pilot Project,Oak Creek,PRE,5-Aug-16,3,Pinus ponderosa,2,0,--,--,--,--
+Washington DNR Pilot Project,Oak Creek,PRE,5-Aug-16,4,Abies grandis,4,1,--,--,--,--
+Washington DNR Pilot Project,Oak Creek,PRE,5-Aug-16,7,Abies grandis,3,1,--,--,--,--
+Washington DNR Pilot Project,Oak Creek,PRE,5-Aug-16,5,Unknown species,5,1,--,--,--,--
+Washington DNR Pilot Project,Oak Creek,PRE,5-Aug-16,6,Pseudotsuga menziesii,3,0,--,--,--,--
+Washington DNR Pilot Project,Oak Creek,PRE,5-Aug-16,7,Pseudotsuga menziesii,3,1,--,--,--,--
+Washington DNR Pilot Project,Oak Creek,PRE,5-Aug-16,8,Larix occidentalis,4,1,--,--,--,--
+Washington DNR Pilot Project,Oak Creek,PRE,5-Aug-16,13,Larix occidentalis,4,1,--,--,--,--
+Washington DNR Pilot Project,Oak Creek,PRE,5-Aug-16,12,Pinus ponderosa,3,1,--,--,--,--
+Washington DNR Pilot Project,Oak Creek,PRE,5-Aug-16,13,Abies grandis,3,0,--,--,--,--
+Washington DNR Pilot Project,Oak Creek,PRE,5-Aug-16,14,Abies grandis,3,0,--,--,--,--
+Washington DNR Pilot Project,Oak Creek,PRE,5-Aug-16,17,Abies grandis,3,0,--,--,--,--
+Washington DNR Pilot Project,Oak Creek,PRE,5-Aug-16,16,Abies grandis,4,0,--,--,--,--
+Washington DNR Pilot Project,Oak Creek,PRE,5-Aug-16,19,Unknown species,3,0,--,--,--,--
+Washington DNR Pilot Project,Oak Creek,PRE,5-Aug-16,11,Larix occidentalis,3,1,--,--,--,--
+Washington DNR Pilot Project,Oak Creek,PRE,5-Aug-16,20,Abies grandis,4,1,--,--,--,--
+Washington DNR Pilot Project,Oak Creek,PRE,5-Aug-16,20,Abies grandis,3,1,--,--,--,--
+Washington DNR Pilot Project,Oak Creek,PRE,5-Aug-16,18,Pseudotsuga menziesii,3,1,--,--,--,--
+Washington DNR Pilot Project,Upper Rendezvous 1,PRE,8-Sep-16,2,Pinus ponderosa,2,1,--,--,--,--
+Washington DNR Pilot Project,Upper Rendezvous 1,PRE,8-Sep-16,3,Unknown species,4,1,--,--,--,--
+Washington DNR Pilot Project,Upper Rendezvous 1,PRE,8-Sep-16,4,Pinus ponderosa,3,1,--,--,--,--
+Washington DNR Pilot Project,Upper Rendezvous 1,PRE,8-Sep-16,18,Pseudotsuga menziesii,3,0,--,--,--,--
+Washington DNR Pilot Project,Upper Rendezvous 1,PRE,8-Sep-16,19,Unknown species,3,1,--,--,--,--
+Washington DNR Pilot Project,Upper Rendezvous 1,PRE,8-Sep-16,19,Pinus ponderosa,2,1,--,--,--,--
+Washington DNR Pilot Project,Upper Rendezvous 1,PRE,8-Sep-16,17,Pinus ponderosa,2,0,--,--,--,--
+Washington DNR Pilot Project,Upper Rendezvous 1,PRE,8-Sep-16,17,Pinus ponderosa,2,0,--,--,--,--
+Washington DNR Pilot Project,Upper Rendezvous 1,PRE,8-Sep-16,15,Pseudotsuga menziesii,3,1,--,--,--,--
+Washington DNR Pilot Project,Upper Rendezvous 1,PRE,8-Sep-16,10,Unknown species,4,1,--,--,--,--
+Washington DNR Pilot Project,Upper Rendezvous 1,PRE,8-Sep-16,14,Unknown species,4,1,--,--,--,--
+Washington DNR Pilot Project,Upper Rendezvous 1,PRE,8-Sep-16,13,Pseudotsuga menziesii,3,0,--,--,--,--
+Washington DNR Pilot Project,Upper Rendezvous 1,PRE,8-Sep-16,13,Unknown species,4,1,--,--,--,--
+Washington DNR Pilot Project,Upper Rendezvous 1,PRE,8-Sep-16,8,Unknown species,4,1,--,--,--,--
+Washington DNR Pilot Project,Upper Rendezvous 1,PRE,8-Sep-16,7,Pinus ponderosa,3,0,--,--,--,--
+Washington DNR Pilot Project,Upper Rendezvous 1,PRE,8-Sep-16,9,Pinus ponderosa,1,0,--,--,--,--
+Washington DNR Pilot Project,Upper Rendezvous 1,PRE,8-Sep-16,4,Unknown species,4,1,--,--,--,--
+Washington DNR Pilot Project,Upper Rendezvous 1,PRE,8-Sep-16,6,Unknown species,4,0,--,--,--,--
+Washington DNR Pilot Project,Upper Rendezvous 1,PRE,8-Sep-16,8,Unknown species,5,0,--,--,--,--
+Washington DNR Pilot Project,Upper Rendezvous 1,PRE,8-Sep-16,6,Unknown species,5,1,--,--,--,--
+Washington DNR Pilot Project,Vulcan,PRE,14-Sep-16,15,Larix occidentalis,2,0,--,--,--,--
+Washington DNR Pilot Project,Vulcan,PRE,14-Sep-16,12,Unknown species,5,1,--,--,--,--
+Washington DNR Pilot Project,Vulcan,PRE,14-Sep-16,10,Unknown species,4,1,--,--,--,--
+Washington DNR Pilot Project,Vulcan,PRE,14-Sep-16,10,Unknown species,5,1,--,--,--,--
+Washington DNR Pilot Project,Vulcan,PRE,14-Sep-16,1,Unknown species,4,1,--,--,--,--
+Washington DNR Pilot Project,Vulcan,PRE,14-Sep-16,2,Unknown species,4,1,--,--,--,--
+Washington DNR Pilot Project,Vulcan,PRE,14-Sep-16,3,Unknown species,4,0,--,--,--,--
+Washington DNR Pilot Project,Vulcan,PRE,14-Sep-16,4,Larix occidentalis,3,0,--,--,--,--
+Washington DNR Pilot Project,Vulcan,PRE,14-Sep-16,5,Unknown species,4,0,--,--,--,--
+Washington DNR Pilot Project,Vulcan,PRE,14-Sep-16,6,Unknown species,4,1,--,--,--,--
+Washington DNR Pilot Project,Vulcan,PRE,14-Sep-16,14,Unknown species,3,1,--,--,--,--
+Washington DNR Pilot Project,Vulcan,PRE,14-Sep-16,7,Larix occidentalis,3,0,--,--,--,--
+Washington DNR Pilot Project,Vulcan,PRE,14-Sep-16,8,Larix occidentalis,3,1,--,--,--,--
+Washington DNR Pilot Project,Vulcan,PRE,14-Sep-16,9,Pseudotsuga menziesii,3,0,--,--,--,--
+Washington DNR Pilot Project,Vulcan,PRE,14-Sep-16,15,Larix occidentalis,3,0,--,--,--,--
+Washington DNR Pilot Project,Vulcan,PRE,14-Sep-16,16,Pseudotsuga menziesii,3,0,--,--,--,--
+Washington DNR Pilot Project,Vulcan,PRE,14-Sep-16,16,Larix occidentalis,3,1,--,--,--,--
+Washington DNR Pilot Project,Vulcan,PRE,14-Sep-16,20,Larix occidentalis,3,1,--,--,--,--
+Washington DNR Pilot Project,Vulcan,PRE,14-Sep-16,20,Unknown species,5,1,--,--,--,--
+Washington DNR Pilot Project,Vulcan,PRE,14-Sep-16,18,Larix occidentalis,3,0,--,--,--,--

@@ -1,0 +1,11 @@
+Column_header,Description
+projectName,Washington DNR Pilot Project
+unitName,"Name of burn unit (i.e., Angel, 25 Mile, Sherman Creek, Chumstick ZUI, Paradise 90, Orion 2)"
+epShort,"Sampling episode short name (i.e., PRE, POST)"
+samplingStartDate,Calendar date of wired log installation (DD-MMM-YY)
+plot,"Plot number (i.e., 1-20) of nearest overstory permanent plot"
+transectNo,"Individual transect number (i.e., 1-3) at each plot."
+speciesCode,"Four letter species code (i.e., PSME = Pseudotsuga menziesii, PIPO = Pinus ponderosa)."
+scientificName,"Scientific name (i.e., ""Pinus ponderosa"", ""Pseudotsuga menziesii"", Laryx occidentalis"") of sample tree."
+logDiameter,"Diameter of 1000-hr log where it crosses the woody line transect, measured to the 0.1 inch."
+decayClassID,"Decay class (i.e., 1-5) of individual 1000-hr log. ""1"" equals most sound, ""5"" equals most rotten. See methods for full description of decay classes."
